@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Jó" abbrev="job" chapters="42">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Jó" abbrev="jo" chapters="42" id="18" testament="VT" group="Poéticos" version="ACF">
 	<chapter number="1">
 		<verse number="1">Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal.</verse>
 		<verse number="2">E nasceram-lhe sete filhos e três filhas.</verse>

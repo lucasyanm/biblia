@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Coríntios" abbrev="1co" chapters="16">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Coríntios" abbrev="1co" chapters="16" id="46" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,</verse>
 		<verse number="2">à igreja de Deus que está em Corinto, aos santificados em Cristo Jesus e chamados para serem santos, juntamente com todos os que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:</verse>
@@ -12,14 +12,14 @@
 		<verse number="9">Fiel é Deus, o qual os chamou à comunhão com seu Filho Jesus Cristo, nosso Senhor.</verse>
 		<verse number="10">Irmãos, em nome de nosso Senhor Jesus Cristo suplico a todos vocês que concordem uns com os outros no que falam, para que não haja divisões entre vocês, e, sim, que todos estejam unidos num só pensamento e num só parecer.</verse>
 		<verse number="11">Meus irmãos, fui informado por alguns da casa de Cloe de que há divisões entre vocês.</verse>
-		<verse number="12">Com isso quero dizer que cada um de vocês afirma: &quot;Eu sou de Paulo&quot;; &quot;eu de Apolo&quot;; &quot;eu de Pedro&quot;; e &quot;eu de Cristo&quot;.</verse>
+		<verse number="12">Com isso quero dizer que cada um de vocês afirma: "Eu sou de Paulo"; "eu de Apolo"; "eu de Pedro"; e "eu de Cristo".</verse>
 		<verse number="13">Acaso Cristo está dividido? Foi Paulo crucificado em favor de vocês? Foram vocês batizados em nome de Paulo?</verse>
 		<verse number="14">Dou graças a Deus por não ter batizado nenhum de vocês, exceto Crispo e Gaio;</verse>
 		<verse number="15">de modo que ninguém pode dizer que foi batizado em meu nome.</verse>
 		<verse number="16">( Batizei também os da casa de Estéfanas; além destes, não me lembro se batizei alguém mais. )</verse>
 		<verse number="17">Pois Cristo não me enviou para batizar, mas para pregar o evangelho, não com palavras de sabedoria humana, para que a cruz de Cristo não seja esvaziada. Cristo, Sabedoria e Poder de Deus</verse>
 		<verse number="18">Pois a mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus.</verse>
-		<verse number="19">Pois está escrito: &quot;Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes&quot;.</verse>
+		<verse number="19">Pois está escrito: "Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes".</verse>
 		<verse number="20">Onde está o sábio? Onde está o erudito? Onde está o questionador desta era? Acaso não tornou Deus louca a sabedoria deste mundo?</verse>
 		<verse number="21">Visto que, na sabedoria de Deus, o mundo não o conheceu por meio da sabedoria humana, agradou a Deus salvar aqueles que crêem por meio da loucura da pregação.</verse>
 		<verse number="22">Os judeus pedem sinais miraculosos, e os gregos procuram sabedoria;</verse>
@@ -31,7 +31,7 @@
 		<verse number="28">Ele escolheu as coisas insignificantes do mundo, as desprezadas e as que nada são, para reduzir a nada as que são,</verse>
 		<verse number="29">para que ninguém se vanglorie diante dele.</verse>
 		<verse number="30">É, porém, por iniciativa dele que vocês estão em Cristo Jesus, o qual se tornou sabedoria de Deus para nós, isto é, justiça, santidade e redenção,</verse>
-		<verse number="31">para que, como está escrito: &quot;Quem se gloriar, glorie-se no Senhor&quot;.</verse>
+		<verse number="31">para que, como está escrito: "Quem se gloriar, glorie-se no Senhor".</verse>
 	</chapter>
 	<chapter number="2">
 		<verse number="1">Eu mesmo, irmãos, quando estive entre vocês, não fui com discurso eloqüente nem com muita sabedoria para lhes proclamar o mistério de Deus.</verse>
@@ -42,20 +42,20 @@
 		<verse number="6">Entretanto, falamos de sabedoria entre os maduros, mas não da sabedoria desta era ou dos poderosos desta era, que estão sendo reduzidos a nada.</verse>
 		<verse number="7">Pelo contrário, falamos da sabedoria de Deus, do mistério que estava oculto, o qual Deus preordenou, antes do princípio das eras, para a nossa glória.</verse>
 		<verse number="8">Nenhum dos poderosos desta era o entendeu, pois, se o tivessem entendido, não teriam crucificado o Senhor da glória.</verse>
-		<verse number="9">Todavia, como está escrito: &quot;Olho nenhum viu, ouvido nenhum ouviu, mente nenhuma imaginou o que Deus preparou para aqueles que o amam&quot;;</verse>
+		<verse number="9">Todavia, como está escrito: "Olho nenhum viu, ouvido nenhum ouviu, mente nenhuma imaginou o que Deus preparou para aqueles que o amam";</verse>
 		<verse number="10">mas Deus o revelou a nós por meio do Espírito. O Espírito sonda todas as coisas, até mesmo as coisas mais profundas de Deus.</verse>
 		<verse number="11">Pois, quem dentre os homens conhece as coisas do homem, a não ser o espírito do homem que nele está? Da mesma forma, ninguém conhece as coisas de Deus, a não ser o Espírito de Deus.</verse>
 		<verse number="12">Nós, porém, não recebemos o espírito do mundo, mas o Espírito procedente de Deus, para que entendamos as coisas que Deus nos tem dado gratuitamente.</verse>
 		<verse number="13">Delas também falamos, não com palavras ensinadas pela sabedoria humana, mas com palavras ensinadas pelo Espírito, interpretando verdades espirituais para os que são espirituais.</verse>
 		<verse number="14">Quem não tem o Espírito não aceita as coisas que vêm do Espírito de Deus, pois lhe são loucura; e não é capaz de entendê-las, porque elas são discernidas espiritualmente.</verse>
 		<verse number="15">Mas quem é espiritual discerne todas as coisas, e ele mesmo por ninguém é discernido; pois</verse>
-		<verse number="16">&quot;quem conheceu a mente do Senhor para que possa instruí-lo? &quot; Nós, porém, temos a mente de Cristo.</verse>
+		<verse number="16">"quem conheceu a mente do Senhor para que possa instruí-lo? " Nós, porém, temos a mente de Cristo.</verse>
 	</chapter>
 	<chapter number="3">
 		<verse number="1">Irmãos, não lhes pude falar como a espirituais, mas como a carnais, como a crianças em Cristo.</verse>
 		<verse number="2">Dei-lhes leite, e não alimento sólido, pois vocês não estavam em condições de recebê-lo. De fato, vocês ainda não estão em condições,</verse>
 		<verse number="3">porque ainda são carnais. Porque, visto que há inveja e divisão entre vocês, não estão sendo carnais e agindo como mundanos?</verse>
-		<verse number="4">Pois quando alguém diz: &quot;Eu sou de Paulo&quot;, e outro: &quot;Eu sou de Apolo&quot;, não estão sendo mundanos?</verse>
+		<verse number="4">Pois quando alguém diz: "Eu sou de Paulo", e outro: "Eu sou de Apolo", não estão sendo mundanos?</verse>
 		<verse number="5">Afinal de contas, quem é Apolo? Quem é Paulo? Apenas servos por meio dos quais vocês vieram a crer, conforme o ministério que o Senhor atribuiu a cada um.</verse>
 		<verse number="6">Eu plantei, Apolo regou, mas Deus é quem fazia crescer;</verse>
 		<verse number="7">de modo que nem o que planta nem o que rega são alguma coisa, mas unicamente Deus, que efetua o crescimento.</verse>
@@ -69,9 +69,9 @@
 		<verse number="15">Se o que alguém construiu se queimar, esse sofrerá prejuízo; contudo, será salvo como alguém que escapa através do fogo.</verse>
 		<verse number="16">Vocês não sabem que são santuário de Deus e que o Espírito de Deus habita em vocês?</verse>
 		<verse number="17">Se alguém destruir o santuário de Deus, Deus o destruirá; pois o santuário de Deus, que são vocês, é sagrado.</verse>
-		<verse number="18">Não se enganem. Se algum de vocês pensa que é sábio segundo os padrões desta era, deve tornar-se &quot;louco&quot; para que se torne sábio.</verse>
-		<verse number="19">Porque a sabedoria deste mundo é loucura aos olhos de Deus. Pois está escrito: &quot;Ele apanha os sábios na astúcia deles&quot;;</verse>
-		<verse number="20">e também: &quot;O Senhor conhece os pensamentos dos sábios e sabe como são fúteis&quot;.</verse>
+		<verse number="18">Não se enganem. Se algum de vocês pensa que é sábio segundo os padrões desta era, deve tornar-se "louco" para que se torne sábio.</verse>
+		<verse number="19">Porque a sabedoria deste mundo é loucura aos olhos de Deus. Pois está escrito: "Ele apanha os sábios na astúcia deles";</verse>
+		<verse number="20">e também: "O Senhor conhece os pensamentos dos sábios e sabe como são fúteis".</verse>
 		<verse number="21">Portanto, ninguém se glorie em homens; porque todas as coisas são de vocês,</verse>
 		<verse number="22">seja Paulo, seja Apolo, seja Pedro, seja o mundo, a vida, a morte, o presente ou o futuro; tudo é de vocês,</verse>
 		<verse number="23">e vocês são de Cristo, e Cristo, de Deus.</verse>
@@ -82,7 +82,7 @@
 		<verse number="3">Pouco me importa ser julgado por vocês ou por qualquer tribunal humano; de fato, nem eu julgo a mim mesmo.</verse>
 		<verse number="4">Embora em nada minha consciência me acuse, nem por isso justifico a mim mesmo; o Senhor é quem me julga.</verse>
 		<verse number="5">Portanto, não julguem nada antes da hora devida; esperem até que o Senhor venha. Ele trará à luz o que está oculto nas trevas e manifestará as intenções dos corações. Nessa ocasião, cada um receberá de Deus a sua aprovação.</verse>
-		<verse number="6">Irmãos, apliquei essas coisas a mim e a Apolo por amor a vocês, para que aprendam de nós o que significa: &quot;Não ultrapassem o que está escrito&quot;. Assim, ninguém se orgulhe a favor de um homem em detrimento de outro.</verse>
+		<verse number="6">Irmãos, apliquei essas coisas a mim e a Apolo por amor a vocês, para que aprendam de nós o que significa: "Não ultrapassem o que está escrito". Assim, ninguém se orgulhe a favor de um homem em detrimento de outro.</verse>
 		<verse number="7">Pois, quem torna você diferente de qualquer outra pessoa? O que você tem que não tenha recebido? E se o recebeu, por que se orgulha, como se assim não fosse?</verse>
 		<verse number="8">Vocês já têm tudo o que querem! Já se tornaram ricos! Chegaram a ser reis — e sem nós! Como eu gostaria que vocês realmente fossem reis, para que nós também reinássemos com vocês!</verse>
 		<verse number="9">Porque me parece que Deus nos colocou a nós, os apóstolos, em último lugar, como condenados à morte. Temo-nos tornado um espetáculo para o mundo, tanto diante de anjos como de homens.</verse>
@@ -112,7 +112,7 @@
 		<verse number="10">Com isso não me refiro aos imorais deste mundo, nem aos avarentos, aos ladrões ou aos idólatras. Se assim fosse, vocês precisariam sair deste mundo.</verse>
 		<verse number="11">Mas agora estou lhes escrevendo que não devem associar-se com qualquer que, dizendo-se irmão, seja imoral, avarento, idólatra, caluniador, alcoólatra ou ladrão. Com tais pessoas vocês nem devem comer.</verse>
 		<verse number="12">Pois, como haveria eu de julgar os de fora da igreja? Não devem vocês julgar os que estão dentro?</verse>
-		<verse number="13">Deus julgará os de fora. &quot;Expulsem esse perverso do meio de vocês&quot;.</verse>
+		<verse number="13">Deus julgará os de fora. "Expulsem esse perverso do meio de vocês".</verse>
 	</chapter>
 	<chapter number="6">
 		<verse number="1">Se algum de vocês tem queixa contra outro irmão, como ousa apresentar a causa para ser julgada pelos ímpios, em vez de levá-la aos santos?</verse>
@@ -126,11 +126,11 @@
 		<verse number="9">Vocês não sabem que os perversos não herdarão o Reino de Deus? Não se deixem enganar: nem imorais, nem idólatras, nem adúlteros, nem homossexuais passivos ou ativos,</verse>
 		<verse number="10">nem ladrões, nem avarentos, nem alcoólatras, nem caluniadores, nem trapaceiros herdarão o Reino de Deus.</verse>
 		<verse number="11">Assim foram alguns de vocês. Mas vocês foram lavados, foram santificados, foram justificados no nome do Senhor Jesus Cristo e no Espírito de nosso Deus.</verse>
-		<verse number="12">&quot;Tudo me é permitido&quot;, mas nem tudo convém. &quot;Tudo me é permitido&quot;, mas eu não deixarei que nada domine.</verse>
-		<verse number="13">&quot;Os alimentos foram feitos para o estômago e o estômago para os alimentos&quot;, mas Deus destruirá ambos. O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo.</verse>
+		<verse number="12">"Tudo me é permitido", mas nem tudo convém. "Tudo me é permitido", mas eu não deixarei que nada domine.</verse>
+		<verse number="13">"Os alimentos foram feitos para o estômago e o estômago para os alimentos", mas Deus destruirá ambos. O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo.</verse>
 		<verse number="14">Por seu poder, Deus ressuscitou o Senhor e também nos ressuscitará.</verse>
 		<verse number="15">Vocês não sabem que os seus corpos são membros de Cristo? Tomarei eu os membros de Cristo e os unirei a uma prostituta? De modo nenhum!</verse>
-		<verse number="16">Vocês não sabem que aquele que se une a uma prostituta é um corpo com ela? Pois, como está escrito: &quot;Os dois serão uma só carne&quot;.</verse>
+		<verse number="16">Vocês não sabem que aquele que se une a uma prostituta é um corpo com ela? Pois, como está escrito: "Os dois serão uma só carne".</verse>
 		<verse number="17">Mas aquele que se une ao Senhor é um espírito com ele.</verse>
 		<verse number="18">Fujam da imoralidade sexual. Todos os outros pecados que alguém comete, fora do corpo os comete; mas quem peca sexualmente, peca contra o seu próprio corpo.</verse>
 		<verse number="19">Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são de si mesmos?</verse>
@@ -183,7 +183,7 @@
 		<verse number="2">Quem pensa conhecer alguma coisa, ainda não conhece como deveria.</verse>
 		<verse number="3">Mas quem ama a Deus, este é conhecido por Deus.</verse>
 		<verse number="4">Portanto, em relação ao alimento sacrificado aos ídolos, sabemos que o ídolo não significa nada no mundo e que só existe um Deus.</verse>
-		<verse number="5">Pois mesmo que haja os chamados deuses, quer no céu, quer na terra, ( como de fato há muitos &quot;deuses&quot; e muitos &quot;senhores&quot; ),</verse>
+		<verse number="5">Pois mesmo que haja os chamados deuses, quer no céu, quer na terra, ( como de fato há muitos "deuses" e muitos "senhores" ),</verse>
 		<verse number="6">para nós, porém, há um único Deus, o Pai, de quem vêm todas as coisas e para quem vivemos; e um só Senhor, Jesus Cristo, por meio de quem vieram todas as coisas e por meio de quem vivemos.</verse>
 		<verse number="7">Contudo, nem todos têm esse conhecimento. Alguns, ainda habituados com os ídolos, comem esse alimento como se fosse um sacrifício idólatra; e como a consciência deles é fraca, esta fica contaminada.</verse>
 		<verse number="8">A comida, porém, não nos torna aceitáveis diante de Deus; não seremos piores se não comermos, nem melhores se comermos.</verse>
@@ -202,8 +202,8 @@
 		<verse number="6">Ou será que apenas eu e Barnabé não temos o direito de deixar de trabalhar para termos sustento?</verse>
 		<verse number="7">Quem serve como soldado às suas próprias custas? Quem planta uma vinha e não come do seu fruto? Quem apascenta um rebanho e não bebe do seu leite?</verse>
 		<verse number="8">Não digo isso do ponto de vista meramente humano; a Lei não diz a mesma coisa?</verse>
-		<verse number="9">Pois está escrito na Lei de Moisés: &quot;Não amordace o boi enquanto ele estiver debulhando o cereal&quot;. Por acaso é com bois que Deus está preocupado?</verse>
-		<verse number="10">Não é certamente por nossa causa que ele o diz? Sim, isso foi escrito em nosso favor. Porque &quot;o lavrador quando ara e o debulhador quando debulha, devem fazê-lo na esperança de participar da colheita&quot;.</verse>
+		<verse number="9">Pois está escrito na Lei de Moisés: "Não amordace o boi enquanto ele estiver debulhando o cereal". Por acaso é com bois que Deus está preocupado?</verse>
+		<verse number="10">Não é certamente por nossa causa que ele o diz? Sim, isso foi escrito em nosso favor. Porque "o lavrador quando ara e o debulhador quando debulha, devem fazê-lo na esperança de participar da colheita".</verse>
 		<verse number="11">Se entre vocês semeamos coisas espirituais, seria demais colhermos de vocês coisas materiais?</verse>
 		<verse number="12">Se outros têm direito de ser sustentados por vocês, não o temos nós ainda mais? Mas nós nunca usamos desse direito. Pelo contrário, suportamos tudo para não colocar obstáculo algum ao evangelho de Cristo.</verse>
 		<verse number="13">Vocês não sabem que aqueles que trabalham no templo alimentam-se das coisas do templo, e que os que servem diante do altar participam do que é oferecido no altar?</verse>
@@ -229,7 +229,7 @@
 		<verse number="4">e beberam da mesma bebida espiritual; pois bebiam da rocha espiritual que os acompanhava, e essa rocha era Cristo.</verse>
 		<verse number="5">Contudo, Deus não se agradou da maioria deles; por isso os seus corpos ficaram espalhados no deserto.</verse>
 		<verse number="6">Essas coisas ocorreram como exemplos para nós, para que não cobicemos coisas más, como eles fizeram.</verse>
-		<verse number="7">Não sejam idólatras, como alguns deles foram, conforme está escrito: &quot;O povo se assentou para comer e beber, e levantou-se para se entregar à farra&quot;.</verse>
+		<verse number="7">Não sejam idólatras, como alguns deles foram, conforme está escrito: "O povo se assentou para comer e beber, e levantou-se para se entregar à farra".</verse>
 		<verse number="8">Não pratiquemos imoralidade, como alguns deles fizeram — e num só dia morreram vinte e três mil.</verse>
 		<verse number="9">Não devemos pôr o Senhor à prova, como alguns deles fizeram — e foram mortos por serpentes.</verse>
 		<verse number="10">E não se queixem, como alguns deles se queixaram — e foram mortos pelo anjo destruidor.</verse>
@@ -245,12 +245,12 @@
 		<verse number="20">Não! Quero dizer que o que os pagãos sacrificam é oferecido aos demônios e não a Deus, e não quero que vocês tenham comunhão com os demônios.</verse>
 		<verse number="21">Vocês não podem beber do cálice do Senhor e do cálice dos demônios; não podem participar da mesa do Senhor e da mesa dos demônios.</verse>
 		<verse number="22">Porventura provocaremos o ciúme do Senhor? Somos mais fortes do que ele?</verse>
-		<verse number="23">&quot;Tudo é permitido&quot;, mas nem tudo convém. &quot;Tudo é permitido&quot;, mas nem tudo edifica.</verse>
+		<verse number="23">"Tudo é permitido", mas nem tudo convém. "Tudo é permitido", mas nem tudo edifica.</verse>
 		<verse number="24">Ninguém deve buscar o seu próprio bem, mas sim o dos outros.</verse>
 		<verse number="25">Comam de tudo o que se vende no mercado, sem fazer perguntas por causa da consciência,</verse>
-		<verse number="26">pois &quot;do Senhor é a terra e tudo o que nela existe&quot;.</verse>
+		<verse number="26">pois "do Senhor é a terra e tudo o que nela existe".</verse>
 		<verse number="27">Se algum descrente o convidar para uma refeição e você quiser ir, coma de tudo o que lhe for apresentado, sem nada perguntar por causa da consciência.</verse>
-		<verse number="28">Mas se alguém lhe disser: &quot;Isto foi oferecido em sacrifício&quot;, não coma, tanto por causa da pessoa que o comentou, como da consciência,</verse>
+		<verse number="28">Mas se alguém lhe disser: "Isto foi oferecido em sacrifício", não coma, tanto por causa da pessoa que o comentou, como da consciência,</verse>
 		<verse number="29">isto é, da consciência do outro e não da sua própria. Pois, por que minha liberdade deve ser julgada pela consciência dos outros?</verse>
 		<verse number="30">Se participo da refeição com ação de graças, por que sou condenado por algo pelo qual dou graças a Deus?</verse>
 		<verse number="31">Assim, quer vocês comam, bebam ou façam qualquer outra coisa, façam tudo para a glória de Deus.</verse>
@@ -281,8 +281,8 @@
 		<verse number="21">porque cada um come sua própria ceia sem esperar pelos outros. Assim, enquanto um fica com fome, outro se embriaga.</verse>
 		<verse number="22">Será que vocês não têm casa onde comer e beber? Ou desprezam a igreja de Deus e humilham os que nada têm? Que lhes direi? Eu os elogiarei por isso? Certamente que não!</verse>
 		<verse number="23">Pois recebi do Senhor o que também lhes entreguei: que o Senhor Jesus, na noite em que foi traído, tomou o pão</verse>
-		<verse number="24">e, tendo dado graças, partiu-o e disse: &quot;Isto é o meu corpo, que é dado em favor de vocês; façam isto em memória de mim&quot;.</verse>
-		<verse number="25">Da mesma forma, depois da ceia ele tomou o cálice e disse: &quot;Este cálice é a nova aliança no meu sangue; façam isto, sempre que o beberem, em memória de mim&quot;.</verse>
+		<verse number="24">e, tendo dado graças, partiu-o e disse: "Isto é o meu corpo, que é dado em favor de vocês; façam isto em memória de mim".</verse>
+		<verse number="25">Da mesma forma, depois da ceia ele tomou o cálice e disse: "Este cálice é a nova aliança no meu sangue; façam isto, sempre que o beberem, em memória de mim".</verse>
 		<verse number="26">Porque, sempre que comerem deste pão e beberem deste cálice, vocês anunciam a morte do Senhor até que ele venha.</verse>
 		<verse number="27">Portanto, todo aquele que comer o pão ou beber o cálice do Senhor indignamente será culpado de pecar contra o corpo e o sangue do Senhor.</verse>
 		<verse number="28">Examine-se o homem a si mesmo, e então coma do pão e beba do cálice.</verse>
@@ -296,7 +296,7 @@
 	<chapter number="12">
 		<verse number="1">Irmãos, quanto aos dons espirituais, não quero que vocês sejam ignorantes.</verse>
 		<verse number="2">Vocês sabem que, quando eram pagãos, de uma forma ou de outra eram fortemente atraídos e levados para os ídolos mudos.</verse>
-		<verse number="3">Por isso, eu lhes afirmo que ninguém que fala pelo Espírito de Deus diz: &quot;Jesus seja amaldiçoado&quot;; e ninguém pode dizer: &quot;Jesus é Senhor&quot;, a não ser pelo Espírito Santo.</verse>
+		<verse number="3">Por isso, eu lhes afirmo que ninguém que fala pelo Espírito de Deus diz: "Jesus seja amaldiçoado"; e ninguém pode dizer: "Jesus é Senhor", a não ser pelo Espírito Santo.</verse>
 		<verse number="4">Há diferentes tipos de dons, mas o Espírito é o mesmo.</verse>
 		<verse number="5">Há diferentes tipos de ministérios, mas o Senhor é o mesmo.</verse>
 		<verse number="6">Há diferentes formas de atuação, mas é o mesmo Deus quem efetua tudo em todos.</verse>
@@ -308,13 +308,13 @@
 		<verse number="12">Ora, assim como o corpo é uma unidade, embora tenha muitos membros, e todos os membros, mesmo sendo muitos, formam um só corpo, assim também com respeito a Cristo.</verse>
 		<verse number="13">Pois em um só corpo todos nós fomos batizados em um único Espírito: quer judeus, quer gregos, quer escravos, quer livres. E a todos nós foi dado beber de um único Espírito.</verse>
 		<verse number="14">O corpo não é composto de um só membro, mas de muitos.</verse>
-		<verse number="15">Se o pé disser: &quot;Porque não sou mão, não pertenço ao corpo&quot;, nem por isso deixa de fazer parte do corpo.</verse>
-		<verse number="16">E se o ouvido disser: &quot;Porque não sou olho, não pertenço ao corpo&quot;, nem por isso deixa de fazer parte do corpo.</verse>
+		<verse number="15">Se o pé disser: "Porque não sou mão, não pertenço ao corpo", nem por isso deixa de fazer parte do corpo.</verse>
+		<verse number="16">E se o ouvido disser: "Porque não sou olho, não pertenço ao corpo", nem por isso deixa de fazer parte do corpo.</verse>
 		<verse number="17">Se todo o corpo fosse olho, onde estaria a audição? Se todo o corpo fosse ouvido, onde estaria o olfato?</verse>
 		<verse number="18">De fato, Deus dispôs cada um dos membros no corpo, segundo a sua vontade.</verse>
 		<verse number="19">Se todos fossem um só membro, onde estaria o corpo?</verse>
 		<verse number="20">Assim, há muitos membros, mas um só corpo.</verse>
-		<verse number="21">O olho não pode dizer à mão: &quot;Não preciso de você! &quot; Nem a cabeça pode dizer aos pés: &quot;Não preciso de vocês! &quot;</verse>
+		<verse number="21">O olho não pode dizer à mão: "Não preciso de você! " Nem a cabeça pode dizer aos pés: "Não preciso de vocês! "</verse>
 		<verse number="22">Pelo contrário, os membros do corpo que parecem mais fracos são indispensáveis,</verse>
 		<verse number="23">e os membros que pensamos serem menos honrosos, tratamos com especial honra. E os membros que em nós são indecorosos são tratados com decoro especial,</verse>
 		<verse number="24">enquanto os que em nós são decorosos não precisam ser tratados de maneira especial. Mas Deus estruturou o corpo dando maior honra aos membros que dela tinham falta,</verse>
@@ -357,16 +357,16 @@
 		<verse number="13">Por isso, quem fala em língua, ore para que a possa interpretar.</verse>
 		<verse number="14">Pois, se oro em língua, meu espírito ora, mas a minha mente fica infrutífera.</verse>
 		<verse number="15">Então, que farei? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento.</verse>
-		<verse number="16">Se você estiver louvando a Deus em espírito, como poderá aquele que está entre os não instruídos dizer o &quot;Amém&quot; à sua ação de graças, visto que não sabe o que você está dizendo?</verse>
+		<verse number="16">Se você estiver louvando a Deus em espírito, como poderá aquele que está entre os não instruídos dizer o "Amém" à sua ação de graças, visto que não sabe o que você está dizendo?</verse>
 		<verse number="17">Pode ser que você esteja dando graças muito bem, mas o outro não é edificado.</verse>
 		<verse number="18">Dou graças a Deus por falar em línguas mais do que todos vocês.</verse>
 		<verse number="19">Todavia, na igreja prefiro falar cinco palavras compreensíveis para instruir os outros a falar dez mil palavras em língua.</verse>
 		<verse number="20">Irmãos, deixem de pensar como crianças. Com respeito ao mal, sejam crianças; mas, quanto ao modo de pensar, sejam adultos.</verse>
-		<verse number="21">Pois está escrito na Lei: &quot;Por meio de homens de outras línguas e por meio de lábios de estrangeiros falarei a este povo, mas, mesmo assim, eles não me ouvirão&quot;, diz o Senhor.</verse>
+		<verse number="21">Pois está escrito na Lei: "Por meio de homens de outras línguas e por meio de lábios de estrangeiros falarei a este povo, mas, mesmo assim, eles não me ouvirão", diz o Senhor.</verse>
 		<verse number="22">Portanto, as línguas são um sinal para os descrentes, e não para os que crêem; a profecia, porém, é para os que crêem, e não para os descrentes.</verse>
 		<verse number="23">Assim, se toda a igreja se reunir e todos falarem em línguas, e entrarem alguns não instruídos ou descrentes não dirão que vocês estão loucos?</verse>
 		<verse number="24">Mas se entrar algum descrente ou não instruído quando todos estiverem profetizando, ele por todos será convencido de que é pecador e por todos será julgado,</verse>
-		<verse number="25">e os segredos do seu coração serão expostos. Assim, ele se prostrará, rosto em terra, e adorará a Deus, exclamando: &quot;Deus realmente está entre vocês! &quot;</verse>
+		<verse number="25">e os segredos do seu coração serão expostos. Assim, ele se prostrará, rosto em terra, e adorará a Deus, exclamando: "Deus realmente está entre vocês! "</verse>
 		<verse number="26">Portanto, que diremos, irmãos? Quando vocês se reúnem, cada um de vocês tem um salmo, ou uma palavra de instrução, uma revelação, uma palavra em língua ou uma interpretação. Tudo seja feito para a edificação da igreja.</verse>
 		<verse number="27">Se, porém, alguém falar em língua, devem falar dois, no máximo três, e alguém deve interpretar.</verse>
 		<verse number="28">Se não houver intérprete, fique calado na igreja, falando consigo mesmo e com Deus.</verse>
@@ -410,15 +410,15 @@
 		<verse number="24">Então virá o fim, quando ele entregar o Reino a Deus, o Pai, depois de ter destruído todo domínio, autoridade e poder.</verse>
 		<verse number="25">Pois é necessário que ele reine até que todos os seus inimigos sejam postos debaixo de seus pés.</verse>
 		<verse number="26">O último inimigo a ser destruído é a morte.</verse>
-		<verse number="27">Porque ele &quot;tudo sujeitou debaixo de seus pés&quot;. Ora, quando se diz que &quot;tudo&quot; lhe foi sujeito, fica claro que isso não inclui o próprio Deus, que tudo submeteu a Cristo.</verse>
+		<verse number="27">Porque ele "tudo sujeitou debaixo de seus pés". Ora, quando se diz que "tudo" lhe foi sujeito, fica claro que isso não inclui o próprio Deus, que tudo submeteu a Cristo.</verse>
 		<verse number="28">Quando, porém, tudo lhe estiver sujeito, então o próprio Filho se sujeitará àquele que todas as coisas lhe sujeitou, a fim de que Deus seja tudo em todos.</verse>
 		<verse number="29">Se não há ressurreição, que farão aqueles que se batizam pelos mortos? Se absolutamente os mortos não ressuscitam, por que se batizam por eles?</verse>
 		<verse number="30">Também nós, por que estamos nos expondo a perigos o tempo todo?</verse>
 		<verse number="31">Todos os dias enfrento a morte, irmãos; isso digo pelo orgulho que tenho de vocês em Cristo Jesus, nosso Senhor.</verse>
-		<verse number="32">Se foi por meras razões humanas que lutei com feras em Éfeso, que ganhei com isso? Se os mortos não ressuscitam, &quot;comamos e bebamos, porque amanhã morreremos&quot;.</verse>
-		<verse number="33">Não se deixem enganar: &quot;as más companhias corrompem os bons costumes&quot;.</verse>
+		<verse number="32">Se foi por meras razões humanas que lutei com feras em Éfeso, que ganhei com isso? Se os mortos não ressuscitam, "comamos e bebamos, porque amanhã morreremos".</verse>
+		<verse number="33">Não se deixem enganar: "as más companhias corrompem os bons costumes".</verse>
 		<verse number="34">Como justos, recuperem o bom senso e parem de pecar; pois alguns há que não têm conhecimento de Deus; digo isso para vergonha de vocês.</verse>
-		<verse number="35">Mas alguém pode perguntar: &quot;Como ressuscitam os mortos? Com que espécie de corpo virão? &quot;</verse>
+		<verse number="35">Mas alguém pode perguntar: "Como ressuscitam os mortos? Com que espécie de corpo virão? "</verse>
 		<verse number="36">Insensato! O que você semeia não nasce a não ser que morra.</verse>
 		<verse number="37">Quando você semeia, não semeia o corpo que virá a ser, mas apenas uma simples semente, como de trigo ou de alguma outra coisa.</verse>
 		<verse number="38">Mas Deus lhe dá um corpo, como determinou, e a cada espécie de semente dá seu corpo apropriado.</verse>
@@ -428,7 +428,7 @@
 		<verse number="42">Assim será com a ressurreição dos mortos. O corpo que é semeado é perecível e ressuscita imperecível;</verse>
 		<verse number="43">é semeado em desonra e ressuscita em glória; é semeado em fraqueza e ressuscita em poder;</verse>
 		<verse number="44">é semeado um corpo natural e ressuscita um corpo espiritual. Se há corpo natural, há também corpo espiritual.</verse>
-		<verse number="45">Assim está escrito: &quot;O primeiro homem, Adão, tornou-se um ser vivente&quot;; o último Adão, espírito vivificante.</verse>
+		<verse number="45">Assim está escrito: "O primeiro homem, Adão, tornou-se um ser vivente"; o último Adão, espírito vivificante.</verse>
 		<verse number="46">Não foi o espiritual que veio antes, mas o natural; depois dele, o espiritual.</verse>
 		<verse number="47">O primeiro homem era do pó da terra; o segundo homem, do céu.</verse>
 		<verse number="48">Os que são da terra são semelhantes ao homem terreno; os que são do céu, ao homem celestial.</verse>
@@ -437,8 +437,8 @@
 		<verse number="51">Eis que eu lhes digo um mistério: nem todos dormiremos, mas todos seremos transformados,</verse>
 		<verse number="52">num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis e nós seremos transformados.</verse>
 		<verse number="53">Pois é necessário que aquilo que é corruptível se revista de incorruptibilidade, e aquilo que é mortal, se revista de imortalidade.</verse>
-		<verse number="54">Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: &quot;A morte foi destruída pela vitória&quot;.</verse>
-		<verse number="55">&quot;Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão? &quot;</verse>
+		<verse number="54">Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: "A morte foi destruída pela vitória".</verse>
+		<verse number="55">"Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão? "</verse>
 		<verse number="56">O aguilhão da morte é o pecado, e a força do pecado é a lei.</verse>
 		<verse number="57">Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo.</verse>
 		<verse number="58">Portanto, meus amados irmãos, mantenham-se firmes, e que nada os abale. Sejam sempre dedicados à obra do Senhor, pois vocês sabem que, no Senhor, o trabalho de vocês não será inútil.</verse>

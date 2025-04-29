@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Gênesis" abbrev="gn" chapters="50">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Gênesis" abbrev="gn" chapters="50" id="1" testament="VT" group="Pentateuco" version="AA">
 	<chapter number="1">
 		<verse number="1">No princípio criou Deus os céus e a terra.</verse>
 		<verse number="2">A terra era sem forma e vazia; e havia trevas sobre a face do abismo, mas o Espírito de Deus pairava sobre a face das águas.</verse>
@@ -463,7 +463,7 @@
 		<verse number="1">Depois apareceu o Senhor a Abraão junto aos carvalhos de Manre, estando ele sentado à porta da tenda, no maior calor do dia.</verse>
 		<verse number="2">Levantando Abraão os olhos, olhou e eis três homens de pé em frente dele. Quando os viu, correu da porta da tenda ao seu encontro, e prostrou-se em terra,</verse>
 		<verse number="3">e disse: Meu Senhor, se agora tenho achado graça aos teus olhos, rogo-te que não passes de teu servo.</verse>
-		<verse number="4">Eia, traga-se um pouco d&#39;água, e lavai os pés e recostai-vos debaixo da árvore;</verse>
+		<verse number="4">Eia, traga-se um pouco d'água, e lavai os pés e recostai-vos debaixo da árvore;</verse>
 		<verse number="5">e trarei um bocado de pão; refazei as vossas forças, e depois passareis adiante; porquanto por isso chegastes ate o vosso servo. Responderam-lhe: Faze assim como disseste.</verse>
 		<verse number="6">Abraão, pois, apressou-se em ir ter com Sara na tenda, e disse-lhe: Amassa depressa três medidas de flor de farinha e faze bolos.</verse>
 		<verse number="7">Em seguida correu ao gado, apanhou um bezerro tenro e bom e deu-o ao criado, que se apressou em prepará-lo.</verse>

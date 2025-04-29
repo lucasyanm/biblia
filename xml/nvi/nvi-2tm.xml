@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª Timóteo" abbrev="2tm" chapters="4">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª Timóteo" abbrev="2tm" chapters="4" id="55" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,</verse>
 		<verse number="2">a Timóteo, meu amado filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor.</verse>
@@ -39,7 +39,7 @@
 		<verse number="16">Evite as conversas inúteis e profanas, pois os que se dão a isso prosseguem cada vez mais para a impiedade.</verse>
 		<verse number="17">O ensino deles alastra como câncer; entre eles estão Himeneu e Fileto.</verse>
 		<verse number="18">Estes se desviaram da verdade, dizendo que a ressurreição já aconteceu, e assim a alguns pervertem a fé.</verse>
-		<verse number="19">Entretanto, o firme fundamento de Deus permanece inabalável e selado com esta inscrição: &quot;O Senhor conhece quem lhe pertence&quot; e &quot;afaste-se da iniqüidade todo aquele que confessa o nome do Senhor&quot;.</verse>
+		<verse number="19">Entretanto, o firme fundamento de Deus permanece inabalável e selado com esta inscrição: "O Senhor conhece quem lhe pertence" e "afaste-se da iniqüidade todo aquele que confessa o nome do Senhor".</verse>
 		<verse number="20">Numa grande casa há vasos não apenas de ouro e prata, mas também de madeira e barro; alguns para fins honrosos, outros para fins desonrosos.</verse>
 		<verse number="21">Se alguém se purificar dessas coisas, será vaso para honra, santificado, útil para o Senhor e preparado para toda boa obra.</verse>
 		<verse number="22">Fuja dos desejos malignos da juventude e siga a justiça, a fé, o amor e a paz, juntamente com os que, de coração puro, invocam o Senhor.</verse>

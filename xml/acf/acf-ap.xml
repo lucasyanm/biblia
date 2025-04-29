@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Apocalipse" abbrev="ap" chapters="22">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Apocalipse" abbrev="ap" chapters="22" id="66" testament="NT" group="Revelação" version="ACF">
 	<chapter number="1">
 		<verse number="1">Revelação de Jesus Cristo, a qual Deus lhe deu, para mostrar aos seus servos as coisas que brevemente devem acontecer; e pelo seu anjo as enviou, e as notificou a João seu servo;</verse>
 		<verse number="2">O qual testificou da palavra de Deus, e do testemunho de Jesus Cristo, e de tudo o que tem visto.</verse>

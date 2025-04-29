@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Jonas" abbrev="jn" chapters="4">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Jonas" abbrev="jn" chapters="4" id="32" testament="VT" group="Profetas Menores" version="ACF">
 	<chapter number="1">
 		<verse number="1">E veio a palavra do SENHOR a Jonas, filho de Amitai, dizendo:</verse>
 		<verse number="2">Levanta-te, vai à grande cidade de Nínive, e clama contra ela, porque a sua malícia subiu até à minha presença.</verse>

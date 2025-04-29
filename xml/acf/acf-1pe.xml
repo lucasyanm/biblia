@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Pedro" abbrev="1pe" chapters="5">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Pedro" abbrev="1pe" chapters="5" id="60" testament="NT" group="Epístolas Universais" version="ACF">
 	<chapter number="1">
 		<verse number="1">Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;</verse>
 		<verse number="2">Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: Graça e paz vos sejam multiplicadas.</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª Pedro" abbrev="2pe" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª Pedro" abbrev="2pe" chapters="3" id="61" testament="NT" group="Epístolas Universais" version="NVI">
 	<chapter number="1">
 		<verse number="1">Simão Pedro, servo e apóstolo de Jesus Cristo, àqueles que, mediante a justiça de nosso Deus e Salvador Jesus Cristo, receberam conosco uma fé igualmente valiosa:</verse>
 		<verse number="2">Graça e paz lhes sejam multiplicadas, pelo pleno conhecimento de Deus e de Jesus, o nosso Senhor.</verse>
@@ -17,7 +17,7 @@
 		<verse number="14">porque sei que em breve deixarei este tabernáculo, como o nosso Senhor Jesus Cristo já me revelou.</verse>
 		<verse number="15">Eu me empenharei para que, também depois da minha partida, vocês sejam sempre capazes de lembrar-se destas coisas.</verse>
 		<verse number="16">De fato, não seguimos fábulas engenhosamente inventadas, quando lhes falamos a respeito do poder e da vinda de nosso Senhor Jesus Cristo; pelo contrário, nós fomos testemunhas oculares da sua majestade.</verse>
-		<verse number="17">Ele recebeu honra e glória da parte de Deus Pai, quando da suprema glória lhe foi dirigida a voz que disse: &quot;Este é o meu filho amado, em quem me agrado&quot;.</verse>
+		<verse number="17">Ele recebeu honra e glória da parte de Deus Pai, quando da suprema glória lhe foi dirigida a voz que disse: "Este é o meu filho amado, em quem me agrado".</verse>
 		<verse number="18">Nós mesmos ouvimos essa voz vinda do céu, quando estávamos com ele no monte santo.</verse>
 		<verse number="19">Assim, temos ainda mais firme a palavra dos profetas, e vocês farão bem se a ela prestarem atenção, como a uma candeia que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça em seus corações.</verse>
 		<verse number="20">Antes de mais nada, saibam que nenhuma profecia da Escritura provém de interpretação pessoal,</verse>
@@ -45,13 +45,13 @@
 		<verse number="19">Prometendo-lhes liberdade, eles mesmos são escravos da corrupção, pois o homem é escravo daquilo que o domina.</verse>
 		<verse number="20">Se, tendo escapado das contaminações do mundo por meio do conhecimento de nosso Senhor e Salvador Jesus Cristo, encontram-se novamente nelas enredados e por elas dominados, estão em pior estado do que no princípio.</verse>
 		<verse number="21">Teria sido melhor que não tivessem conhecido o caminho da justiça, do que, depois de o terem conhecido, voltarem as costas para o santo mandamento que lhes foi transmitido.</verse>
-		<verse number="22">Confirma-se neles que é verdadeiro o provérbio: &quot;O cão voltou ao seu vômito&quot; e ainda: &quot;A porca lavada voltou a revolver-se na lama&quot;.</verse>
+		<verse number="22">Confirma-se neles que é verdadeiro o provérbio: "O cão voltou ao seu vômito" e ainda: "A porca lavada voltou a revolver-se na lama".</verse>
 	</chapter>
 	<chapter number="3">
 		<verse number="1">Amados, esta é agora a segunda carta que lhes escrevo. Em ambas quero despertar com estas lembranças a sua mente sincera para que vocês se lembrem</verse>
 		<verse number="2">das palavras proferidas no passado pelos santos profetas, e do mandamento de nosso Senhor e Salvador que os apóstolos de vocês lhes ensinaram.</verse>
 		<verse number="3">Antes de tudo saibam que, nos últimos dias, surgirão escarnecedores zombando e seguindo suas próprias paixões.</verse>
-		<verse number="4">Eles dirão: &quot;O que houve com a promessa da sua vinda? Desde que os antepassados morreram, tudo continua como desde o princípio da criação&quot;.</verse>
+		<verse number="4">Eles dirão: "O que houve com a promessa da sua vinda? Desde que os antepassados morreram, tudo continua como desde o princípio da criação".</verse>
 		<verse number="5">Mas eles deliberadamente se esquecem de que há muito tempo, pela palavra de Deus, existiam céus e terra, esta formada da água e pela água.</verse>
 		<verse number="6">E pela água o mundo daquele tempo foi submerso e destruído.</verse>
 		<verse number="7">Pela mesma palavra os céus e a terra que agora existem estão reservados para o fogo, guardados para o dia do juízo e para a destruição dos ímpios.</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Colossenses" abbrev="cl" chapters="4">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Colossenses" abbrev="cl" chapters="4" id="51" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Timóteo,</verse>
 		<verse number="2">aos santos e fiéis irmãos em Cristo que estão em Colossos: A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -52,7 +52,7 @@
 		<verse number="18">Não permitam que ninguém que tenha prazer numa falsa humildade e na adoração de anjos os impeça de alcançar o prêmio. Tal pessoa conta detalhadamente suas visões, e sua mente carnal a torna orgulhosa.</verse>
 		<verse number="19">Trata-se de alguém que não está unido à Cabeça, a partir da qual todo o corpo, sustentado e unido por seus ligamentos e juntas, efetua o crescimento dado por Deus.</verse>
 		<verse number="20">Já que vocês morreram com Cristo para os princípios elementares deste mundo, por que é que vocês, então, como se ainda pertencessem a ele, se submetem a regras:</verse>
-		<verse number="21">&quot;Não manuseie! &quot; &quot;Não prove! &quot; &quot;Não toque! &quot;?</verse>
+		<verse number="21">"Não manuseie! " "Não prove! " "Não toque! "?</verse>
 		<verse number="22">Todas essas coisas estão destinadas a perecer pelo uso, pois se baseiam em mandamentos e ensinos humanos.</verse>
 		<verse number="23">Essas regras têm, de fato, aparência de sabedoria, com sua pretensa religiosidade, falsa humildade e severidade com o corpo, mas não têm valor algum para refrear os impulsos da carne.</verse>
 	</chapter>
@@ -100,7 +100,7 @@
 		<verse number="14">Lucas, o médico amado, e Demas, enviam saudações.</verse>
 		<verse number="15">Saúdem os irmãos de Laodicéia, bem como Ninfa e a igreja que se reúne em sua casa.</verse>
 		<verse number="16">Depois que esta carta for lida entre vocês, façam que também seja lida na igreja dos laodicenses, e que vocês igualmente leiam a carta de Laodicéia.</verse>
-		<verse number="17">Digam a Arquipo: &quot;Cuide em cumprir o ministério que você recebeu no Senhor&quot;.</verse>
+		<verse number="17">Digam a Arquipo: "Cuide em cumprir o ministério que você recebeu no Senhor".</verse>
 		<verse number="18">Eu, Paulo, escrevo esta saudação de próprio punho. Lembrem-se das minhas algemas. A graça seja com vocês.</verse>
 	</chapter>
 </book>

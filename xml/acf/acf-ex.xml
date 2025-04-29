@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Êxodo" abbrev="ex" chapters="40">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Êxodo" abbrev="ex" chapters="40" id="2" testament="VT" group="Pentateuco" version="ACF">
 	<chapter number="1">
 		<verse number="1">Estes pois são os nomes dos filhos de Israel, que entraram no Egito com Jacó; cada um entrou com sua casa:</verse>
 		<verse number="2">Rúben, Simeão, Levi, e Judá;</verse>

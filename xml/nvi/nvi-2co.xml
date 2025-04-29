@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª Coríntios" abbrev="2co" chapters="13">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª Coríntios" abbrev="2co" chapters="13" id="47" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Timóteo, à igreja de Deus que está em Corinto, juntamente com todos os santos de toda a Acaia:</verse>
 		<verse number="2">A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -17,10 +17,10 @@
 		<verse number="14">assim como vocês nos entenderam em parte, venham a entender plenamente que podem orgulhar-se de nós, assim como nos orgulharemos de vocês no dia do Senhor Jesus.</verse>
 		<verse number="15">Confiando nisso, e para que vocês fossem duplamente beneficiados, planejava primeiro visitá-los</verse>
 		<verse number="16">em minha ida à Macedônia e voltar a vocês vindo de lá, para que me ajudassem em minha viagem para a Judéia.</verse>
-		<verse number="17">Quando planejei isso, será que o fiz levianamente? Ou será que faço meus planos de modo mundano, dizendo ao mesmo tempo &quot;sim&quot; e &quot;não&quot;?</verse>
-		<verse number="18">Todavia, como Deus é fiel, nossa mensagem a vocês não é &quot;sim&quot; e &quot;não&quot;,</verse>
-		<verse number="19">pois o Filho de Deus, Jesus Cristo, pregado entre vocês por mim e também por Silvano e Timóteo, não foi &quot;sim&quot; e &quot;não&quot;, mas nele sempre houve &quot;sim&quot;;</verse>
-		<verse number="20">pois quantas forem as promessas feitas por Deus, tantas têm em Cristo o &quot;sim&quot;. Por isso, por meio dele, o &quot;Amém&quot; é pronunciado por nós para a glória de Deus.</verse>
+		<verse number="17">Quando planejei isso, será que o fiz levianamente? Ou será que faço meus planos de modo mundano, dizendo ao mesmo tempo "sim" e "não"?</verse>
+		<verse number="18">Todavia, como Deus é fiel, nossa mensagem a vocês não é "sim" e "não",</verse>
+		<verse number="19">pois o Filho de Deus, Jesus Cristo, pregado entre vocês por mim e também por Silvano e Timóteo, não foi "sim" e "não", mas nele sempre houve "sim";</verse>
+		<verse number="20">pois quantas forem as promessas feitas por Deus, tantas têm em Cristo o "sim". Por isso, por meio dele, o "Amém" é pronunciado por nós para a glória de Deus.</verse>
 		<verse number="21">Ora, é Deus que faz que nós e vocês permaneçamos firmes em Cristo. Ele nos ungiu,</verse>
 		<verse number="22">nos selou como sua propriedade e pôs o seu Espírito em nossos corações como garantia do que está por vir.</verse>
 		<verse number="23">Invoco a Deus como testemunha de que foi a fim de poupá-los que não voltei a Corinto.</verse>
@@ -71,14 +71,14 @@
 		<verse number="3">Mas se o nosso evangelho está encoberto, para os que estão perecendo é que está encoberto.</verse>
 		<verse number="4">O deus desta era cegou o entendimento dos descrentes, para que não vejam a luz do evangelho da glória de Cristo, que é a imagem de Deus.</verse>
 		<verse number="5">Pois não nos pregamos a nós mesmos, mas a Jesus Cristo, o Senhor, e a nós como escravos de vocês, por amor de Jesus.</verse>
-		<verse number="6">Pois Deus que disse: &quot;Das trevas resplandeça a luz&quot;, ele mesmo brilhou em nossos corações, para iluminação do conhecimento da glória de Deus na face de Cristo.</verse>
+		<verse number="6">Pois Deus que disse: "Das trevas resplandeça a luz", ele mesmo brilhou em nossos corações, para iluminação do conhecimento da glória de Deus na face de Cristo.</verse>
 		<verse number="7">Mas temos esse tesouro em vasos de barro, para mostrar que este poder que a tudo excede provém de Deus, e não de nós.</verse>
 		<verse number="8">De todos os lados somos pressionados, mas não desanimados; ficamos perplexos, mas não desesperados;</verse>
 		<verse number="9">somos perseguidos, mas não abandonados; abatidos, mas não destruídos.</verse>
 		<verse number="10">Trazemos sempre em nosso corpo o morrer de Jesus, para que a vida de Jesus também seja revelada em nosso corpo.</verse>
 		<verse number="11">Pois nós, que estamos vivos, somos sempre entregues à morte por amor a Jesus, para que a sua vida também se manifeste em nosso corpo mortal.</verse>
 		<verse number="12">De modo que em nós atua a morte; mas em vocês, a vida.</verse>
-		<verse number="13">Está escrito: &quot;Cri, por isso falei&quot;. Com esse mesmo espírito de fé nós também cremos e, por isso, falamos,</verse>
+		<verse number="13">Está escrito: "Cri, por isso falei". Com esse mesmo espírito de fé nós também cremos e, por isso, falamos,</verse>
 		<verse number="14">porque sabemos que aquele que ressuscitou ao Senhor Jesus dentre os mortos, também nos ressuscitará com Jesus e nos apresentará com vocês.</verse>
 		<verse number="15">Tudo isso é para o bem de vocês, para que a graça, que está alcançando um número cada vez maior de pessoas, faça que transbordem as ações de graças para a glória de Deus.</verse>
 		<verse number="16">Por isso não desanimamos. Embora exteriormente estejamos a desgastar-nos, interiormente estamos sendo renovados dia após dia,</verse>
@@ -110,7 +110,7 @@
 	</chapter>
 	<chapter number="6">
 		<verse number="1">Como cooperadores de Deus, insistimos com vocês para não receberem em vão a graça de Deus.</verse>
-		<verse number="2">Pois ele diz: &quot;Eu o ouvi no tempo favorável e o socorri no dia da salvação&quot;. Digo-lhes que agora é o tempo favorável, agora é o dia da salvação!</verse>
+		<verse number="2">Pois ele diz: "Eu o ouvi no tempo favorável e o socorri no dia da salvação". Digo-lhes que agora é o tempo favorável, agora é o dia da salvação!</verse>
 		<verse number="3">Não damos motivo de escândalo a ninguém, em circunstância alguma, para que o nosso ministério não caia em descrédito.</verse>
 		<verse number="4">Pelo contrário, como servos de Deus, recomendamo-nos de todas as formas: em muita perseverança; em sofrimentos, privações e tristezas;</verse>
 		<verse number="5">em açoites, prisões e tumultos; em trabalhos árduos, noites sem dormir e jejuns;</verse>
@@ -124,9 +124,9 @@
 		<verse number="13">Numa justa compensação, falo como a meus filhos, abram também o coração para nós!</verse>
 		<verse number="14">Não se ponham em jugo desigual com descrentes. Pois o que têm em comum a justiça e a maldade? Ou que comunhão pode ter a luz com as trevas?</verse>
 		<verse number="15">Que harmonia entre Cristo e Belial? Que há de comum entre o crente e o descrente?</verse>
-		<verse number="16">Que acordo há entre o templo de Deus e os ídolos? Pois somos santuário do Deus vivo. Como disse Deus: &quot;Habitarei com eles e entre eles andarei; serei o seu Deus, e eles serão o meu povo&quot;.</verse>
-		<verse number="17">Portanto, &quot;saiam do meio deles e separem-se&quot;, diz o Senhor. &quot;Não toquem em coisas impuras, e eu os receberei&quot;</verse>
-		<verse number="18">&quot;e lhes serei Pai, e vocês serão meus filhos e minhas filhas&quot;, diz o Senhor Todo-poderoso.</verse>
+		<verse number="16">Que acordo há entre o templo de Deus e os ídolos? Pois somos santuário do Deus vivo. Como disse Deus: "Habitarei com eles e entre eles andarei; serei o seu Deus, e eles serão o meu povo".</verse>
+		<verse number="17">Portanto, "saiam do meio deles e separem-se", diz o Senhor. "Não toquem em coisas impuras, e eu os receberei"</verse>
+		<verse number="18">"e lhes serei Pai, e vocês serão meus filhos e minhas filhas", diz o Senhor Todo-poderoso.</verse>
 	</chapter>
 	<chapter number="7">
 		<verse number="1">Amados, visto que temos essas promessas, purifiquemo-nos de tudo o que contamina o corpo e o espírito, aperfeiçoando a santidade no temor de Deus.</verse>
@@ -161,7 +161,7 @@
 		<verse number="12">Porque, se há prontidão, a contribuição é aceitável de acordo com aquilo que alguém tem, e não de acordo com o que não tem.</verse>
 		<verse number="13">Nosso desejo não é que outros sejam aliviados enquanto vocês são sobrecarregados, mas que haja igualdade.</verse>
 		<verse number="14">No presente momento, a fartura de vocês suprirá a necessidade deles, para que, por sua vez, a fartura deles supra a necessidade de vocês. Então haverá igualdade,</verse>
-		<verse number="15">como está escrito: &quot;Quem tinha recolhido muito não teve demais, e não faltou a quem tinha recolhido pouco&quot;.</verse>
+		<verse number="15">como está escrito: "Quem tinha recolhido muito não teve demais, e não faltou a quem tinha recolhido pouco".</verse>
 		<verse number="16">Agradeço a Deus, que pôs no coração de Tito o mesmo cuidado que tenho por vocês,</verse>
 		<verse number="17">pois Tito não apenas aceitou o nosso pedido, mas está indo até vocês, com muito entusiasmo e por iniciativa própria.</verse>
 		<verse number="18">Com ele estamos enviando o irmão que é recomendado por todas as igrejas por seu serviço no evangelho.</verse>
@@ -181,7 +181,7 @@
 		<verse number="6">Lembrem-se: aquele que semeia pouco, também colherá pouco, e aquele que semeia com fartura, também colherá fartamente.</verse>
 		<verse number="7">Cada um dê conforme determinou em seu coração, não com pesar ou por obrigação, pois Deus ama quem dá com alegria.</verse>
 		<verse number="8">E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra.</verse>
-		<verse number="9">Como está escrito: &quot;Distribuiu, deu os seus bens aos necessitados; a sua justiça dura para sempre&quot;.</verse>
+		<verse number="9">Como está escrito: "Distribuiu, deu os seus bens aos necessitados; a sua justiça dura para sempre".</verse>
 		<verse number="10">Aquele que supre a semente ao que semeia e o pão ao que come, também lhes suprirá e aumentará a semente e fará crescer os frutos da sua justiça.</verse>
 		<verse number="11">Vocês serão enriquecidos de todas as formas, para que possam ser generosos em qualquer ocasião e, por nosso intermédio, a sua generosidade resulte em ação de graças a Deus.</verse>
 		<verse number="12">O serviço ministerial que vocês estão realizando não está apenas suprindo as necessidades do povo de Deus, mas também transbordando em muitas expressões de gratidão a Deus.</verse>
@@ -190,7 +190,7 @@
 		<verse number="15">Graças a Deus por seu dom indescritível!</verse>
 	</chapter>
 	<chapter number="10">
-		<verse number="1">Eu, Paulo, pela mansidão e pela bondade de Cristo, apelo para vocês; eu, que sou &quot;humilde&quot; quando estou face a face com vocês, mas &quot;audaz&quot; quando ausente!</verse>
+		<verse number="1">Eu, Paulo, pela mansidão e pela bondade de Cristo, apelo para vocês; eu, que sou "humilde" quando estou face a face com vocês, mas "audaz" quando ausente!</verse>
 		<verse number="2">Rogo-lhes que, quando estiver presente, não me obriguem a agir com audácia, tal como penso que ousarei fazer, para com alguns que acham que procedemos segundo os padrões humanos.</verse>
 		<verse number="3">Pois, embora vivamos como homens, não lutamos segundo os padrões humanos.</verse>
 		<verse number="4">As armas com as quais lutamos não são humanas; pelo contrário, são poderosas em Deus para destruir fortalezas.</verse>
@@ -199,14 +199,14 @@
 		<verse number="7">Vocês observam apenas a aparência das coisas. Se alguém está convencido de que pertence a Cristo, deveria considerar novamente consigo mesmo que, assim como ele, nós também pertencemos a Cristo.</verse>
 		<verse number="8">Pois mesmo que eu tenha me orgulhado um pouco mais da autoridade que o Senhor nos deu, não me envergonho disso, pois essa autoridade é para edificá-los, e não para destruí-los.</verse>
 		<verse number="9">Não quero que pareça que estou tentando amedrontá-los com as minhas cartas.</verse>
-		<verse number="10">Pois alguns dizem: &quot;As cartas dele são duras e fortes, mas ele pessoalmente não impressiona, e a sua palavra é desprezível&quot;.</verse>
+		<verse number="10">Pois alguns dizem: "As cartas dele são duras e fortes, mas ele pessoalmente não impressiona, e a sua palavra é desprezível".</verse>
 		<verse number="11">Saibam tais pessoas que aquilo que somos em cartas, quando estamos ausentes, seremos em atos, quando estivermos presentes.</verse>
 		<verse number="12">Não temos a pretensão de nos igualar ou de nos comparar com alguns que se recomendam a si mesmos. Quando eles se medem e se comparam consigo mesmos, agem sem entendimento.</verse>
 		<verse number="13">Nós, porém, não nos gloriaremos além do limite adequado, mas limitaremos nosso orgulho à esfera de ação que Deus nos confiou, a qual alcança vocês inclusive.</verse>
 		<verse number="14">Não estamos indo longe demais em nosso orgulho, como seria o caso se não tivéssemos chegado até vocês, pois chegamos a vocês com o evangelho de Cristo.</verse>
 		<verse number="15">Da mesma forma, não vamos além de nossos limites, gloriando-nos de trabalhos que outros fizeram. Nossa esperança é que, à medida que for crescendo a fé que vocês têm, nossa atuação entre vocês aumente ainda mais,</verse>
 		<verse number="16">para que possamos pregar o evangelho nas regiões que estão além de vocês, sem nos vangloriarmos de trabalho já realizado em território de outro.</verse>
-		<verse number="17">Contudo, &quot;quem se gloriar, glorie-se no Senhor&quot;,</verse>
+		<verse number="17">Contudo, "quem se gloriar, glorie-se no Senhor",</verse>
 		<verse number="18">pois não é aprovado quem a si mesmo se recomenda, mas aquele a quem o Senhor recomenda.</verse>
 	</chapter>
 	<chapter number="11">
@@ -214,7 +214,7 @@
 		<verse number="2">O zelo que tenho por vocês é um zelo que vem de Deus. Eu os prometi a um único marido, Cristo, querendo apresentá-los a ele como uma virgem pura.</verse>
 		<verse number="3">O que receio, e quero evitar, é que assim como a serpente enganou Eva com astúcia, a mente de vocês seja corrompida e se desvie da sua sincera e pura devoção a Cristo.</verse>
 		<verse number="4">Pois, se alguém lhes vem pregando um Jesus que não é aquele que pregamos, ou se vocês acolhem um espírito diferente do que acolheram ou um evangelho diferente do que aceitaram, vocês o suportam facilmente.</verse>
-		<verse number="5">Todavia, não me julgo nem um pouco inferior a esses &quot;super-apóstolos&quot;.</verse>
+		<verse number="5">Todavia, não me julgo nem um pouco inferior a esses "super-apóstolos".</verse>
 		<verse number="6">Eu posso não ser um orador eloqüente; contudo tenho conhecimento. De fato, já manifestamos isso a vocês em todo tipo de situação.</verse>
 		<verse number="7">Será que cometi algum pecado ao humilhar-me a fim de elevá-los, pregando-lhes gratuitamente o evangelho de Deus?</verse>
 		<verse number="8">Despojei outras igrejas, recebendo delas sustento, a fim de servi-los.</verse>
@@ -253,9 +253,9 @@
 		<verse number="6">Mesmo que eu preferisse gloriar-me não seria insensato, porque estaria falando a verdade. Evito fazer isso para que ninguém pense a meu respeito mais do que em mim vê ou de mim ouve.</verse>
 		<verse number="7">Para impedir que eu me exaltasse por causa da grandeza dessas revelações, foi-me dado um espinho na carne, um mensageiro de Satanás, para me atormentar.</verse>
 		<verse number="8">Três vezes roguei ao Senhor que o tirasse de mim.</verse>
-		<verse number="9">Mas ele me disse: &quot;Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza&quot;. Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo repouse em mim.</verse>
+		<verse number="9">Mas ele me disse: "Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza". Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo repouse em mim.</verse>
 		<verse number="10">Por isso, por amor de Cristo, regozijo-me nas fraquezas, nos insultos, nas necessidades, nas perseguições, nas angústias. Pois, quando sou fraco é que sou forte.</verse>
-		<verse number="11">Fui insensato, mas vocês me obrigaram a isso. Eu devia ser recomendado por vocês, pois em nada sou inferior aos &quot;super-apóstolos&quot;, embora eu nada seja.</verse>
+		<verse number="11">Fui insensato, mas vocês me obrigaram a isso. Eu devia ser recomendado por vocês, pois em nada sou inferior aos "super-apóstolos", embora eu nada seja.</verse>
 		<verse number="12">As marcas de um apóstolo — sinais, maravilhas e milagres — foram demonstradas entre vocês, com grande perseverança.</verse>
 		<verse number="13">Em que vocês foram inferiores às outras igrejas, exceto no fato de eu nunca ter sido um peso para vocês? Perdoem-me esta ofensa!</verse>
 		<verse number="14">Agora, estou pronto para visitá-los pela terceira vez e não lhes serei um peso, porque o que desejo não são os seus bens, mas vocês mesmos. Além disso, os filhos não devem ajuntar riquezas para os pais, mas os pais para os filhos.</verse>
@@ -268,7 +268,7 @@
 		<verse number="21">Receio que, ao visitá-los outra vez, o meu Deus me humilhe diante de vocês e eu lamente por causa de muitos que pecaram anteriormente e não se arrependeram da impureza, da imoralidade sexual e da libertinagem que praticaram.</verse>
 	</chapter>
 	<chapter number="13">
-		<verse number="1">Esta será minha terceira visita a vocês. &quot;Toda questão precisa ser confirmada pelo depoimento de duas ou três testemunhas&quot;.</verse>
+		<verse number="1">Esta será minha terceira visita a vocês. "Toda questão precisa ser confirmada pelo depoimento de duas ou três testemunhas".</verse>
 		<verse number="2">Já os adverti quando estive com vocês pela segunda vez. Agora, estando ausente, escrevo aos que antes pecaram e aos demais: quando voltar, não os pouparei,</verse>
 		<verse number="3">visto que vocês estão exigindo uma prova de que Cristo fala por meu intermédio. Ele não é fraco ao tratar com vocês, mas poderoso entre vocês.</verse>
 		<verse number="4">Pois, na verdade, foi crucificado em fraqueza, mas vive pelo poder de Deus. Da mesma forma, somos fracos nele, mas, pelo poder de Deus, viveremos com ele para servir a vocês.</verse>

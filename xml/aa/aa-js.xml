@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Josué" abbrev="js" chapters="24">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Josué" abbrev="js" chapters="24" id="6" testament="VT" group="Históricos" version="AA">
 	<chapter number="1">
 		<verse number="1">Depois da morte de Moisés, servo do Senhor, falou o Senhor a Josué, filho de Num, servidor de Moisés, dizendo:</verse>
 		<verse number="2">Moisés, meu servo, é morto; levanta-te pois agora, passa este Jordão, tu e todo este povo, para a terra que eu dou aos filhos de Israel.</verse>
@@ -398,7 +398,7 @@
 		<verse number="16">Disse então Calebe: A quem atacar Quiriate-Sefer e a tomar, darei a minha filha Acsa por mulher.</verse>
 		<verse number="17">Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; e este lhe deu a sua filha Acsa por mulher.</verse>
 		<verse number="18">Estando ela em caminho para a casa de Otniel, persuadiu-o que pedisse um campo ao pai dela. E quando ela saltou do jumento, Calebe lhe perguntou: Que é que tens?</verse>
-		<verse number="19">Respondeu ela: Dá-me um presente; porquanto me deste terra no Negebe, dá-me também fontes d&#39;água. Então lhe deu as fontes superiores e as fontes inferiores.</verse>
+		<verse number="19">Respondeu ela: Dá-me um presente; porquanto me deste terra no Negebe, dá-me também fontes d'água. Então lhe deu as fontes superiores e as fontes inferiores.</verse>
 		<verse number="20">Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias.</verse>
 		<verse number="21">As cidades pertencentes à tribo dos filhos de Judá, no extremo sul, para o lado de Edom, são: Cabzeel, Eder, Jagur,</verse>
 		<verse number="22">Quiná, Dimona, Adada,</verse>

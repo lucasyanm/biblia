@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Timóteo" abbrev="1tm" chapters="6">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Timóteo" abbrev="1tm" chapters="6" id="54" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, a nossa esperança,</verse>
 		<verse number="2">a Timóteo, meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, o nosso Senhor.</verse>
@@ -93,7 +93,7 @@
 		<verse number="15">Algumas, na verdade, já se desviaram, para seguir a Satanás.</verse>
 		<verse number="16">Se alguma mulher crente tem viúvas em sua família, deve ajudá-las. Não seja a igreja sobrecarregada com elas, a fim de que as viúvas realmente necessitadas sejam auxiliadas.</verse>
 		<verse number="17">Os presbíteros que lideram bem a igreja são dignos de dupla honra, especialmente aqueles cujo trabalho é a pregação e o ensino,</verse>
-		<verse number="18">pois a Escritura diz: &quot;Não amordace o boi enquanto está debulhando o cereal&quot;, e &quot;o trabalhador merece o seu salário&quot;.</verse>
+		<verse number="18">pois a Escritura diz: "Não amordace o boi enquanto está debulhando o cereal", e "o trabalhador merece o seu salário".</verse>
 		<verse number="19">Não aceite acusação contra um presbítero, se não for apoiada por duas ou três testemunhas.</verse>
 		<verse number="20">Os que pecarem deverão ser repreendidos em público, para que os demais também temam.</verse>
 		<verse number="21">Eu o exorto solenemente, diante de Deus, de Cristo Jesus e dos anjos eleitos, a que procure observar essas instruções sem parcialidade; e não faça nada por favoritismo.</verse>

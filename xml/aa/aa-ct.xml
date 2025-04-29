@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Cânticos" abbrev="ct" chapters="8">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Cânticos" abbrev="ct" chapters="8" id="22" testament="VT" group="Poéticos" version="AA">
 	<chapter number="1">
 		<verse number="1">O cântico dos cânticos, que é de Salomão.</verse>
 		<verse number="2">Beije-me ele com os beijos da sua boca; porque melhor é o seu amor do que o vinho.</verse>

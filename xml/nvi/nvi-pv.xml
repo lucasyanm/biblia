@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Provérbios" abbrev="pv" chapters="31">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Provérbios" abbrev="pv" chapters="31" id="20" testament="VT" group="Poéticos" version="NVI">
 	<chapter number="1">
 		<verse number="1">Estes são os provérbios de Salomão, filho de Davi, rei de Israel.</verse>
 		<verse number="2">Eles ajudarão a experimentar a sabedoria e a disciplina; a compreender as palavras que dão entendimento;</verse>
@@ -11,10 +11,10 @@
 		<verse number="8">Ouça, meu filho, a instrução de seu pai e não despreze o ensino de sua mãe.</verse>
 		<verse number="9">Eles serão um enfeite para a sua cabeça, um adorno para o seu pescoço.</verse>
 		<verse number="10">Meu filho, se os maus tentarem seduzi-lo, não ceda!</verse>
-		<verse number="11">Se disserem: &quot;Venha conosco; fiquemos de tocaia para matar alguém, vamos divertir-nos armando emboscada contra quem de nada suspeita!</verse>
+		<verse number="11">Se disserem: "Venha conosco; fiquemos de tocaia para matar alguém, vamos divertir-nos armando emboscada contra quem de nada suspeita!</verse>
 		<verse number="12">Vamos engoli-los vivos, como a sepultura engole os mortos; vamos destruí-los inteiros, como são destruídos os que descem à cova;</verse>
 		<verse number="13">acharemos todo tipo de objetos valiosos e encheremos as nossas casas com o que roubarmos;</verse>
-		<verse number="14">junte-se ao nosso bando; dividiremos em partes iguais tudo o que conseguirmos! &quot;</verse>
+		<verse number="14">junte-se ao nosso bando; dividiremos em partes iguais tudo o que conseguirmos! "</verse>
 		<verse number="15">Meu filho, não vá pela vereda dessa gente! Afaste os pés do caminho que eles seguem,</verse>
 		<verse number="16">pois os pés deles correm para fazer o mal, estão sempre prontos para derramar sangue.</verse>
 		<verse number="17">Assim como é inútil estender a rede se as aves o observam,</verse>
@@ -22,18 +22,18 @@
 		<verse number="19">Tal é o caminho de todos os gananciosos; quem assim procede se destrói.</verse>
 		<verse number="20">A sabedoria clama em voz alta nas ruas, ergue a voz nas praças públicas;</verse>
 		<verse number="21">nas esquinas das ruas barulhentas ela clama, nas portas da cidade faz o seu discurso:</verse>
-		<verse number="22">&quot;Até quando vocês, inexperientes, irão contentar-se com a sua inexperiência? Vocês, zombadores, até quando terão prazer na zombaria? E vocês, tolos, até quando desprezarão o conhecimento?</verse>
+		<verse number="22">"Até quando vocês, inexperientes, irão contentar-se com a sua inexperiência? Vocês, zombadores, até quando terão prazer na zombaria? E vocês, tolos, até quando desprezarão o conhecimento?</verse>
 		<verse number="23">Se acatarem a minha repreensão, eu lhes darei um espírito de sabedoria e lhes revelarei os meus pensamentos.</verse>
 		<verse number="24">Vocês, porém, rejeitaram o meu convite; ninguém se importou quando estendi minha mão!</verse>
 		<verse number="25">Visto que desprezaram totalmente o meu conselho e não quiseram aceitar a minha repreensão,</verse>
 		<verse number="26">eu, de minha parte, vou rir-me da sua desgraça; zombarei quando o que temem se abater sobre vocês,</verse>
 		<verse number="27">quando aquilo que temem abater-se sobre vocês como uma tempestade, quando a desgraça os atingir como um vendaval, quando a angústia e a dor os dominarem.</verse>
-		<verse number="28">&quot;Então vocês me chamarão, mas não responderei; procurarão por mim, mas não me encontrarão.</verse>
+		<verse number="28">"Então vocês me chamarão, mas não responderei; procurarão por mim, mas não me encontrarão.</verse>
 		<verse number="29">Visto que desprezaram o conhecimento e recusaram o temor do Senhor,</verse>
 		<verse number="30">não quiseram aceitar o meu conselho e fizeram pouco caso da minha advertência,</verse>
 		<verse number="31">comerão do fruto da sua conduta e se fartarão de suas próprias maquinações.</verse>
 		<verse number="32">Pois a inconstância dos inexperientes os matará, e a falsa segurança dos tolos os destruirá;</verse>
-		<verse number="33">mas quem me ouvir viverá em segurança e estará tranqüilo, sem temer nenhum mal&quot;.</verse>
+		<verse number="33">mas quem me ouvir viverá em segurança e estará tranqüilo, sem temer nenhum mal".</verse>
 	</chapter>
 	<chapter number="2">
 		<verse number="1">Meu filho, se você aceitar as minhas palavras e guardar no coração os meus mandamentos;</verse>
@@ -87,7 +87,7 @@
 		<verse number="25">Não terá medo da calamidade repentina nem da ruína que atinge os ímpios,</verse>
 		<verse number="26">pois o Senhor será a sua segurança e o impedirá de cair em armadilha.</verse>
 		<verse number="27">Quanto lhe for possível, não deixe de fazer o bem a quem dele precisa,</verse>
-		<verse number="28">Não diga ao seu próximo: &quot;Volte amanhã, e eu lhe darei algo&quot;, se pode ajudá-lo hoje.</verse>
+		<verse number="28">Não diga ao seu próximo: "Volte amanhã, e eu lhe darei algo", se pode ajudá-lo hoje.</verse>
 		<verse number="29">Não planeje o mal contra o seu próximo, que confiantemente mora perto de você.</verse>
 		<verse number="30">Não acuse alguém sem motivo, se ele não lhe fez nenhum mal.</verse>
 		<verse number="31">Não tenha inveja de quem é violento nem adote nenhum dos seus procedimentos,</verse>
@@ -100,12 +100,12 @@
 		<verse number="1">Ouçam, meus filhos, a instrução de um pai; estejam atentos, e obterão discernimento.</verse>
 		<verse number="2">O ensino que lhes ofereço é bom; por isso não abandonem a minha instrução.</verse>
 		<verse number="3">Quando eu era menino, ainda pequeno, em companhia de meu pai, um filho muito especial para minha mãe,</verse>
-		<verse number="4">ele me ensinava e me dizia: &quot;Apegue-se às minhas palavras de todo o coração; obedeça aos meus mandamentos, e você terá vida.</verse>
+		<verse number="4">ele me ensinava e me dizia: "Apegue-se às minhas palavras de todo o coração; obedeça aos meus mandamentos, e você terá vida.</verse>
 		<verse number="5">Procure obter sabedoria e entendimento; não se esqueça das minhas palavras nem delas se afaste.</verse>
 		<verse number="6">Não abandone a sabedoria, e ela o protegerá; ame-a, e ela cuidará de você.</verse>
 		<verse number="7">O conselho da sabedoria é: procure obter sabedoria; use tudo que você possui para adquirir entendimento.</verse>
 		<verse number="8">Dedique alta estima à sabedoria, e ela o exaltará; abrace-a, e ela o honrará.</verse>
-		<verse number="9">Ela porá um belo diadema sobre a sua cabeça e lhe dará de presente uma coroa de esplendor&quot;.</verse>
+		<verse number="9">Ela porá um belo diadema sobre a sua cabeça e lhe dará de presente uma coroa de esplendor".</verse>
 		<verse number="10">Ouça, meu filho, e aceite o que digo, e você terá vida longa.</verse>
 		<verse number="11">Eu o conduzi pelo caminho da sabedoria e o encaminhei por veredas retas.</verse>
 		<verse number="12">Assim, quando você por elas seguir, não encontrará obstáculos; quando correr, não tropeçará.</verse>
@@ -137,9 +137,9 @@
 		<verse number="9">para que você não entregue aos outros o seu vigor nem a sua vida a algum homem cruel,</verse>
 		<verse number="10">para que estranhos não se fartem do seu trabalho e outros não se enriqueçam à custa do seu esforço.</verse>
 		<verse number="11">No final da vida você gemerá, com sua carne e seu corpo desgastados.</verse>
-		<verse number="12">Você dirá: &quot;Como odiei a disciplina! Como o meu coração rejeitou a repreensão!</verse>
+		<verse number="12">Você dirá: "Como odiei a disciplina! Como o meu coração rejeitou a repreensão!</verse>
 		<verse number="13">Não ouvi os meus mestres nem escutei os que me ensinavam.</verse>
-		<verse number="14">Cheguei à beira da ruína completa, à vista de toda a comunidade&quot;.</verse>
+		<verse number="14">Cheguei à beira da ruína completa, à vista de toda a comunidade".</verse>
 		<verse number="15">Beba das águas da sua cisterna, das águas que brotam do seu próprio poço.</verse>
 		<verse number="16">Por que deixar que as suas fontes transbordem pelas ruas, e os teus ribeiros pelas praças?</verse>
 		<verse number="17">Que elas sejam exclusivamente suas, nunca repartidas com estranhos.</verse>
@@ -191,7 +191,7 @@
 		<verse number="1">Meu filho, obedeça às minhas palavras e no íntimo guarde os meus mandamentos.</verse>
 		<verse number="2">Obedeça aos meus mandamentos, e você terá vida; guarde os meus ensinos como a pupila dos seus olhos.</verse>
 		<verse number="3">Amarre-os aos dedos; escreva-os na tábua do seu coração.</verse>
-		<verse number="4">Diga à sabedoria: &quot;Você é minha irmã&quot;, e chame ao entendimento seu parente;</verse>
+		<verse number="4">Diga à sabedoria: "Você é minha irmã", e chame ao entendimento seu parente;</verse>
 		<verse number="5">eles o manterão afastado da mulher imoral, da mulher leviana e suas palavras sedutoras.</verse>
 		<verse number="6">Da janela de minha casa olhei através da grade</verse>
 		<verse number="7">e vi entre os inexperientes, no meio dos jovens, um rapaz sem juízo.</verse>
@@ -201,13 +201,13 @@
 		<verse number="11">( Ela é espalhafatosa e provocadora, seus pés nunca param em casa;</verse>
 		<verse number="12">uma hora na rua, outra nas praças, em cada esquina fica à espreita. )</verse>
 		<verse number="13">Ela agarrou o rapaz, beijou-o e lhe disse descaradamente:</verse>
-		<verse number="14">&quot;Tenho em casa a carne dos sacrifícios de comunhão, que hoje fiz para cumprir os meus votos.</verse>
+		<verse number="14">"Tenho em casa a carne dos sacrifícios de comunhão, que hoje fiz para cumprir os meus votos.</verse>
 		<verse number="15">Por isso saí para encontrá-lo; vim à sua procura e o encontrei!</verse>
 		<verse number="16">Estendi sobre o meu leito cobertas de linho fino do Egito.</verse>
 		<verse number="17">Perfumei a minha cama com mirra, aloés e canela.</verse>
 		<verse number="18">Venha, vamos embriagar-nos de carícias até o amanhecer; gozemos as delícias do amor!</verse>
 		<verse number="19">Pois o meu marido não está em casa; partiu para uma longa viagem.</verse>
-		<verse number="20">Levou uma bolsa cheia de prata e não voltará antes da lua cheia&quot;.</verse>
+		<verse number="20">Levou uma bolsa cheia de prata e não voltará antes da lua cheia".</verse>
 		<verse number="21">Com a sedução das palavras o persuadiu, e o atraiu com o dulçor dos lábios.</verse>
 		<verse number="22">Imediatamente ele a seguiu como o boi levado ao matadouro, ou como o cervo que vai cair no laço</verse>
 		<verse number="23">até que uma flecha lhe atravesse o fígado, ou como o pássaro que salta para dentro do alçapão, sem saber que isso lhe custará a vida.</verse>
@@ -220,7 +220,7 @@
 		<verse number="1">A sabedoria está clamando, o discernimento ergue a sua voz;</verse>
 		<verse number="2">nos lugares altos, junto ao caminho, nos cruzamentos ela se coloca;</verse>
 		<verse number="3">ao lado das portas, à entrada da cidade, portas adentro, ela clama em alta voz:</verse>
-		<verse number="4">&quot;A vocês, homens, eu clamo; a todos levanto a minha voz.</verse>
+		<verse number="4">"A vocês, homens, eu clamo; a todos levanto a minha voz.</verse>
 		<verse number="5">Vocês, inexperientes, adquiram a prudência; e vocês, tolos, tenham bom senso.</verse>
 		<verse number="6">Ouçam, pois tenho coisas importantes para dizer; os meus lábios falarão do que é certo.</verse>
 		<verse number="7">Minha boca fala a verdade, pois a maldade causa repulsa aos meus lábios.</verse>
@@ -228,7 +228,7 @@
 		<verse number="9">Para os que têm discernimento, são todas claras, e retas para os que têm conhecimento.</verse>
 		<verse number="10">Prefiram a minha instrução à prata, e o conhecimento ao ouro puro,</verse>
 		<verse number="11">pois a sabedoria é mais preciosa do que rubis; nada do que vocês possam desejar compara-se a ela.</verse>
-		<verse number="12">&quot;Eu, a sabedoria, moro com a prudência, e tenho o conhecimento que vem do bom senso.</verse>
+		<verse number="12">"Eu, a sabedoria, moro com a prudência, e tenho o conhecimento que vem do bom senso.</verse>
 		<verse number="13">Temer ao Senhor é odiar o mal; odeio o orgulho e a arrogância, o mau comportamento e o falar perverso.</verse>
 		<verse number="14">Meu é o conselho sensato; a mim pertencem o entendimento e o poder.</verse>
 		<verse number="15">Por meu intermédio os reis governam, e as autoridades exercem a justiça;</verse>
@@ -238,7 +238,7 @@
 		<verse number="19">Meu fruto é melhor do que o ouro, do que o ouro puro; o que ofereço é superior à prata escolhida.</verse>
 		<verse number="20">Ando pelo caminho da retidão, pelas veredas da justiça,</verse>
 		<verse number="21">concedendo riqueza aos que me amam e enchendo os seus tesouros.</verse>
-		<verse number="22">&quot;O Senhor me criou como o princípio de seu caminho, antes das suas obras mais antigas;</verse>
+		<verse number="22">"O Senhor me criou como o princípio de seu caminho, antes das suas obras mais antigas;</verse>
 		<verse number="23">fui formada desde a eternidade, desde o princípio, antes de existir a terra.</verse>
 		<verse number="24">Nasci quando ainda não havia abismos, quando não existiam fontes de águas;</verse>
 		<verse number="25">antes de serem estabelecidos os montes e de existirem colinas eu nasci.</verse>
@@ -248,30 +248,30 @@
 		<verse number="29">quando determinou as fronteiras do mar para que as águas não violassem a sua ordem, quando marcou os limites dos alicerces da terra,</verse>
 		<verse number="30">eu estava ao seu lado, e era o seu arquiteto; dia a dia eu era o seu prazer e me alegrava continuamente com a sua presença.</verse>
 		<verse number="31">Eu me alegrava com o mundo que ele criou, e a humanidade me dava alegria.</verse>
-		<verse number="32">&quot;Ouçam-me agora, meus filhos: Como são felizes os que guardam os meus caminhos!</verse>
+		<verse number="32">"Ouçam-me agora, meus filhos: Como são felizes os que guardam os meus caminhos!</verse>
 		<verse number="33">Ouçam a minha instrução, e serão sábios. Não a desprezem.</verse>
 		<verse number="34">Como é feliz o homem que me ouve, vigiando diariamente à minha porta, esperando junto às portas da minha casa.</verse>
 		<verse number="35">Pois todo aquele que me encontra, encontra a vida e recebe o favor do Senhor.</verse>
-		<verse number="36">Mas aquele que de mim se afasta, a si mesmo se agride; todos os que me odeiam amam a morte&quot;.</verse>
+		<verse number="36">Mas aquele que de mim se afasta, a si mesmo se agride; todos os que me odeiam amam a morte".</verse>
 	</chapter>
 	<chapter number="9">
 		<verse number="1">A sabedoria construiu sua casa; ergueu suas sete colunas.</verse>
 		<verse number="2">Matou animais para a refeição, preparou seu vinho e arrumou sua mesa.</verse>
 		<verse number="3">E enviou as servas para fazerem convites desde o ponto mais alto da cidade, clamando:</verse>
-		<verse number="4">&quot;Venham todos os inexperientes! &quot; Aos que não têm bom senso ela diz:</verse>
-		<verse number="5">&quot;Venham comer a minha comida e beber o vinho que preparei.</verse>
+		<verse number="4">"Venham todos os inexperientes! " Aos que não têm bom senso ela diz:</verse>
+		<verse number="5">"Venham comer a minha comida e beber o vinho que preparei.</verse>
 		<verse number="6">Deixem a insensatez, e vocês terão vida; andem pelo caminho do entendimento.</verse>
-		<verse number="7">&quot;Quem corrige o zombador traz sobre si o insulto; quem repreende o ímpio mancha o próprio nome.</verse>
+		<verse number="7">"Quem corrige o zombador traz sobre si o insulto; quem repreende o ímpio mancha o próprio nome.</verse>
 		<verse number="8">Não repreenda o zombador, caso contrário ele o odiará; repreenda o sábio, e ele o amará.</verse>
 		<verse number="9">Instrua o homem sábio, e ele será ainda mais sábio; ensine o homem justo, e ele aumentará o seu saber.</verse>
-		<verse number="10">&quot;O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é entendimento.</verse>
+		<verse number="10">"O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é entendimento.</verse>
 		<verse number="11">Pois por meu intermédio os seus dias serão multiplicados, e o tempo da sua vida se prolongará.</verse>
-		<verse number="12">Se você for sábio, o benefício será seu; se for zombador, sofrerá as conseqüências&quot;.</verse>
+		<verse number="12">Se você for sábio, o benefício será seu; se for zombador, sofrerá as conseqüências".</verse>
 		<verse number="13">A insensatez é pura exibição, sedução e ignorância.</verse>
 		<verse number="14">Sentada à porta de sua casa, no ponto mais alto da cidade,</verse>
 		<verse number="15">clama aos que passam por ali seguindo o seu caminho.</verse>
-		<verse number="16">&quot;Venham todos os inexperientes! &quot; Aos que não têm bom senso ela diz:</verse>
-		<verse number="17">&quot;A água roubada é doce, e o pão que se come escondido é saboroso! &quot;</verse>
+		<verse number="16">"Venham todos os inexperientes! " Aos que não têm bom senso ela diz:</verse>
+		<verse number="17">"A água roubada é doce, e o pão que se come escondido é saboroso! "</verse>
 		<verse number="18">Mas eles nem imaginam que ali estão os espíritos dos mortos, que os seus convidados estão nas profundezas da sepultura.</verse>
 	</chapter>
 	<chapter number="10">
@@ -601,12 +601,12 @@
 		<verse number="6">Muitos se dizem amigos leais, mas um homem fiel, quem poderá achar?</verse>
 		<verse number="7">O homem justo leva uma vida íntegra; como são felizes os seus filhos!</verse>
 		<verse number="8">Quando o rei se assenta no trono para julgar, com o olhar esmiúça todo o mal.</verse>
-		<verse number="9">Quem poderá dizer: &quot;Purifiquei o coração; estou livre do meu pecado? &quot;</verse>
+		<verse number="9">Quem poderá dizer: "Purifiquei o coração; estou livre do meu pecado? "</verse>
 		<verse number="10">Pesos adulterados e medidas falsificadas, são coisas que o Senhor detesta.</verse>
 		<verse number="11">Até a criança mostra o que é por suas ações; o seu procedimento revelará se ela é pura e justa.</verse>
 		<verse number="12">Os ouvidos que ouvem e os olhos que vêem foram feitos pelo Senhor.</verse>
 		<verse number="13">Não ame o sono, ou você acabará ficando pobre; fique desperto, e terá alimento de sobra.</verse>
-		<verse number="14">&quot;Não vale isso! Não vale isso! &quot;, diz o comprador, mas, quando se vai, gaba-se do bom negócio.</verse>
+		<verse number="14">"Não vale isso! Não vale isso! ", diz o comprador, mas, quando se vai, gaba-se do bom negócio.</verse>
 		<verse number="15">Mesmo onde há ouro e rubis em grande quantidade, os lábios que transmitem conhecimento são uma rara preciosidade.</verse>
 		<verse number="16">Tome-se a veste de quem serve de fiador ao estranho; sirva ela de penhor de quem dá garantia a uma mulher leviana.</verse>
 		<verse number="17">Saborosa é a comida que se obtém com mentiras, mas depois dá areia na boca.</verse>
@@ -614,7 +614,7 @@
 		<verse number="19">Quem vive contando casos não guarda segredo; por isso, evite quem fala demais.</verse>
 		<verse number="20">Se alguém amaldiçoar seu pai ou sua mãe, a luz de sua vida se extinguirá na mais profunda escuridão.</verse>
 		<verse number="21">A herança que se obtém com ganância no princípio, no final não será abençoada.</verse>
-		<verse number="22">Não diga: &quot;Eu o farei pagar pelo mal que me fez! &quot; Espere pelo Senhor, e ele dará a vitória a você.</verse>
+		<verse number="22">Não diga: "Eu o farei pagar pelo mal que me fez! " Espere pelo Senhor, e ele dará a vitória a você.</verse>
 		<verse number="23">O Senhor detesta pesos adulterados, e balanças falsificadas não o agradam.</verse>
 		<verse number="24">Os passos do homem são dirigidos pelo Senhor. Como poderia alguém discernir o seu próprio caminho?</verse>
 		<verse number="25">É uma armadilha consagrar algo precipitadamente, e só pensar nas conseqüências depois que se fez o voto.</verse>
@@ -670,7 +670,7 @@
 		<verse number="10">Quando se manda embora o zombador, a briga acaba; cessam as contendas e os insultos.</verse>
 		<verse number="11">Quem ama a sinceridade de coração e se expressa com elegância será amigo do rei.</verse>
 		<verse number="12">Os olhos do Senhor protegem o conhecimento, mas ele frustra as palavras dos infiéis.</verse>
-		<verse number="13">O preguiçoso diz: &quot;Há um leão lá fora! &quot; &quot;Serei morto na rua! &quot;</verse>
+		<verse number="13">O preguiçoso diz: "Há um leão lá fora! " "Serei morto na rua! "</verse>
 		<verse number="14">A conversa da mulher imoral é uma cova profunda; nela cairá quem estiver sob a ira do Senhor.</verse>
 		<verse number="15">A insensatez está ligada ao coração da criança, mas a vara da disciplina a livrará dela.</verse>
 		<verse number="16">Tanto quem oprime o pobre para enriquecer-se como quem faz cortesia ao rico, com certeza passarão necessidade.</verse>
@@ -695,7 +695,7 @@
 		<verse number="4">Não esgote suas forças tentando ficar rico; tenha bom senso!</verse>
 		<verse number="5">As riquezas desaparecem assim que você as contempla; elas criam asas e voam como águias pelo céu.</verse>
 		<verse number="6">Não aceite a refeição de um hospedeiro invejoso, nem deseje as iguarias que lhe oferece;</verse>
-		<verse number="7">pois ele só pensa nos gastos. Ele lhe diz: &quot;Coma e beba! &quot;, mas não fala com sinceridade.</verse>
+		<verse number="7">pois ele só pensa nos gastos. Ele lhe diz: "Coma e beba! ", mas não fala com sinceridade.</verse>
 		<verse number="8">Você vomitará o pouco que comeu, e desperdiçará a sua cordialidade.</verse>
 		<verse number="9">Não vale a pena conversar com o tolo, pois ele despreza a sabedoria do que você fala.</verse>
 		<verse number="10">Não mude de lugar os antigos marcos de propriedade, nem invada as terras dos órfãos,</verse>
@@ -723,7 +723,7 @@
 		<verse number="32">No fim, ele morde como serpente e envenena como víbora.</verse>
 		<verse number="33">Seus olhos verão coisas estranhas, e sua mente imaginará coisas distorcidas.</verse>
 		<verse number="34">Você será como quem dorme no meio do mar, como quem se deita no alto das cordas do mastro.</verse>
-		<verse number="35">E dirá: &quot;Espancaram-me, mas eu nada senti! Bateram em mim, mas nem percebi! Quando acordarei para que possa beber mais uma vez? &quot;</verse>
+		<verse number="35">E dirá: "Espancaram-me, mas eu nada senti! Bateram em mim, mas nem percebi! Quando acordarei para que possa beber mais uma vez? "</verse>
 	</chapter>
 	<chapter number="24">
 		<verse number="1">Não tenha inveja dos ímpios, nem deseje a companhia deles;</verse>
@@ -737,7 +737,7 @@
 		<verse number="9">A intriga do insensato é pecado, e o zombador é detestado pelos homens.</verse>
 		<verse number="10">Se você vacila no dia da dificuldade, como será limitada a sua força!</verse>
 		<verse number="11">Liberte os que estão sendo levados para a morte; socorra os que caminham trêmulos para a matança!</verse>
-		<verse number="12">Mesmo que você diga: &quot;Não sabíamos o que estava acontecendo! &quot; Não o perceberia aquele que pesa os corações? Não o saberia aquele que preserva a sua vida? Não retribuirá ele a cada um segundo o seu procedimento?</verse>
+		<verse number="12">Mesmo que você diga: "Não sabíamos o que estava acontecendo! " Não o perceberia aquele que pesa os corações? Não o saberia aquele que preserva a sua vida? Não retribuirá ele a cada um segundo o seu procedimento?</verse>
 		<verse number="13">Coma mel, meu filho. É bom. O favo é doce ao paladar.</verse>
 		<verse number="14">Saiba que a sabedoria também será boa para a sua alma; se você a encontrar, certamente haverá futuro para você, e a sua esperança não vai decepcioná-lo.</verse>
 		<verse number="15">Não fique de tocaia, como faz o ímpio, contra a casa do justo, e não destrua o seu local de repouso;</verse>
@@ -749,16 +749,16 @@
 		<verse number="21">Tema ao Senhor e ao rei, meu filho, e não se associe aos dissidentes,</verse>
 		<verse number="22">pois terão repentina destruição, e quem pode imaginar a ruína que o Senhor e o rei podem causar?</verse>
 		<verse number="23">Aqui vão outros ditados dos sábios: Agir com parcialidade nos julgamentos não é nada bom.</verse>
-		<verse number="24">Quem disser ao ímpio: &quot;Você é justo&quot;, será amaldiçoado pelos povos e sofrerá a indignação das nações.</verse>
+		<verse number="24">Quem disser ao ímpio: "Você é justo", será amaldiçoado pelos povos e sofrerá a indignação das nações.</verse>
 		<verse number="25">Mas os que condenam o culpado terão vida agradável; receberão grandes bênçãos.</verse>
 		<verse number="26">A resposta sincera é como beijo nos lábios.</verse>
 		<verse number="27">Termine primeiro o seu trabalho a céu aberto; deixe pronta a sua lavoura. Depois constitua família.</verse>
 		<verse number="28">Não testemunhe sem motivo contra o seu próximo nem use os seus lábios para enganá-lo.</verse>
-		<verse number="29">Não diga: &quot;Farei com ele o que fez comigo; ele pagará pelo que fez&quot;.</verse>
+		<verse number="29">Não diga: "Farei com ele o que fez comigo; ele pagará pelo que fez".</verse>
 		<verse number="30">Passei pelo campo do preguiçoso, pela vinha do homem sem juízo;</verse>
 		<verse number="31">havia espinheiros por toda parte, o chão estava coberto de ervas daninhas e o muro de pedra estava em ruínas.</verse>
 		<verse number="32">Observei aquilo, e fiquei pensando, olhei e aprendi esta lição:</verse>
-		<verse number="33">&quot;Vou dormir um pouco&quot;, você diz. &quot;Vou cochilar um momento; vou cruzar os braços e descansar mais um pouco&quot;,</verse>
+		<verse number="33">"Vou dormir um pouco", você diz. "Vou cochilar um momento; vou cruzar os braços e descansar mais um pouco",</verse>
 		<verse number="34">mas a pobreza lhe virá como um assaltante, e a sua miséria como um homem armado.</verse>
 	</chapter>
 	<chapter number="25">
@@ -768,7 +768,7 @@
 		<verse number="4">Quando se retira a escória da prata, nesta se tem material para o ourives;</verse>
 		<verse number="5">quando os ímpios são retirados da presença do rei, a justiça firma o seu trono.</verse>
 		<verse number="6">Não se engrandeça na presença do rei, e não reivindique lugar entre os homens importantes;</verse>
-		<verse number="7">é melhor que ele lhe diga: &quot;Suba para cá! &quot;, do que ter que humilhá-lo diante de uma autoridade. O que você viu com os olhos</verse>
+		<verse number="7">é melhor que ele lhe diga: "Suba para cá! ", do que ter que humilhá-lo diante de uma autoridade. O que você viu com os olhos</verse>
 		<verse number="8">não leve precipitadamente ao tribunal, pois o que você fará, se o seu próximo o desacreditar?</verse>
 		<verse number="9">Procure resolver sua causa diretamente com o seu próximo, e não revele o segredo de outra pessoa,</verse>
 		<verse number="10">caso contrário, quem o ouvir poderá recriminá-lo e você jamais perderá sua má reputação.</verse>
@@ -804,13 +804,13 @@
 		<verse number="10">Como o arqueiro que atira ao acaso, assim é quem contrata o tolo ou o primeiro que passa.</verse>
 		<verse number="11">Como o cão volta ao seu vômito, assim o insensato repete a sua insensatez.</verse>
 		<verse number="12">Você conhece alguém que se julga sábio? Há mais esperança para o insensato do que para ele.</verse>
-		<verse number="13">O preguiçoso diz: &quot;Lá está um leão no caminho, um leão feroz rugindo nas ruas! &quot;</verse>
+		<verse number="13">O preguiçoso diz: "Lá está um leão no caminho, um leão feroz rugindo nas ruas! "</verse>
 		<verse number="14">Como a porta gira em suas dobradiças, assim o preguiçoso se revira em sua cama.</verse>
 		<verse number="15">O preguiçoso coloca a mão no prato, mas acha difícil demais levá-la de volta à boca.</verse>
 		<verse number="16">O preguiçoso considera-se mais sábio do que sete homens que respondem com bom senso.</verse>
 		<verse number="17">Como alguém que pega pelas orelhas um cão qualquer, assim é quem se mete em discussão alheia.</verse>
 		<verse number="18">Como o louco que atira brasas e flechas mortais,</verse>
-		<verse number="19">assim é o homem que engana o seu próximo e diz: &quot;Eu estava só brincando! &quot;</verse>
+		<verse number="19">assim é o homem que engana o seu próximo e diz: "Eu estava só brincando! "</verse>
 		<verse number="20">Sem lenha a fogueira se apaga; sem o caluniador morre a contenda.</verse>
 		<verse number="21">O que o carvão é para as brasas e a lenha para a fogueira, o amigo de brigas é para atiçar discórdias.</verse>
 		<verse number="22">As palavras do caluniador são como petiscos deliciosos; descem saborosos até o íntimo.</verse>
@@ -874,7 +874,7 @@
 		<verse number="21">Agir com parcialidade não é bom; pois até por um pedaço de pão o homem se dispõe a fazer o mal.</verse>
 		<verse number="22">O invejoso é ávido por riquezas, e não percebe que a pobreza o aguarda.</verse>
 		<verse number="23">Quem repreende o próximo obterá por fim mais favor do que aquele que só sabe bajular.</verse>
-		<verse number="24">Quem rouba seu pai ou sua mãe e diz: &quot;Não é errado&quot; é amigo de quem destrói.</verse>
+		<verse number="24">Quem rouba seu pai ou sua mãe e diz: "Não é errado" é amigo de quem destrói.</verse>
 		<verse number="25">O ganancioso provoca brigas, mas quem confia no Senhor prosperará.</verse>
 		<verse number="26">Quem confia em si mesmo é insensato, mas quem anda segundo a sabedoria não corre perigo.  </verse>
 		<verse number="27">Quem dá aos pobres não passará necessidade, mas quem fecha os olhos para não vê-los sofrerá muitas maldições.</verse>
@@ -911,49 +911,49 @@
 	</chapter>
 	<chapter number="30">
 		<verse number="1">Ditados de Agur, filho de Jaque; oráculo: Este homem declarou a Itiel; a Itiel e a Ucal:</verse>
-		<verse number="2">&quot;Sou o mais tolo dos homens; não tenho o entendimento de um ser humano.</verse>
+		<verse number="2">"Sou o mais tolo dos homens; não tenho o entendimento de um ser humano.</verse>
 		<verse number="3">Não aprendi sabedoria, nem tenho conhecimento do Santo.</verse>
 		<verse number="4">Quem subiu aos céus e desceu? Quem ajuntou nas mãos os ventos? Quem embrulhou as águas em sua capa? Quem fixou todos os limites da terra? Qual é o seu nome, e o nome do seu filho? Conte-me, se você sabe!</verse>
-		<verse number="5">&quot;Cada palavra de Deus é comprovadamente pura; ele é um escudo para quem nele se refugia.</verse>
+		<verse number="5">"Cada palavra de Deus é comprovadamente pura; ele é um escudo para quem nele se refugia.</verse>
 		<verse number="6">Nada acrescente às palavras dele, do contrário, ele o repreenderá e mostrará que você é mentiroso.</verse>
-		<verse number="7">&quot;Duas coisas peço que me dês antes que eu morra:</verse>
+		<verse number="7">"Duas coisas peço que me dês antes que eu morra:</verse>
 		<verse number="8">Mantém longe de mim a falsidade e a mentira; Não me dês nem pobreza nem riqueza; dá-me apenas o alimento necessário.</verse>
 		<verse number="9">Se não, tendo demais, eu te negaria e te deixaria, e diria: ‘Quem é o Senhor? ’ Se eu ficasse pobre, poderia vir a roubar, desonrando assim o nome do meu Deus.</verse>
-		<verse number="10">&quot;Não fale mal do servo ao seu senhor; do contrário, o servo o amaldiçoará, e você levará a culpa.</verse>
-		<verse number="11">&quot;Existem os que amaldiçoam seu pai e não abençoam sua mãe;</verse>
+		<verse number="10">"Não fale mal do servo ao seu senhor; do contrário, o servo o amaldiçoará, e você levará a culpa.</verse>
+		<verse number="11">"Existem os que amaldiçoam seu pai e não abençoam sua mãe;</verse>
 		<verse number="12">os que são puros aos seus próprios olhos e que ainda não foram purificados da sua impureza;</verse>
 		<verse number="13">os que têm olhos altivos e olhar desdenhoso;</verse>
 		<verse number="14">pessoas cujos dentes são espadas e cujas mandíbulas estão armadas de facas para devorarem os necessitados desta terra e os pobres da humanidade.</verse>
-		<verse number="15">&quot;Duas filhas tem a sanguessuga. ‘Dê! Dê! ’, gritam elas. &quot;Há três coisas que nunca estão satisfeitas, quatro que nunca dizem: ‘É o bastante! ’:</verse>
+		<verse number="15">"Duas filhas tem a sanguessuga. ‘Dê! Dê! ’, gritam elas. "Há três coisas que nunca estão satisfeitas, quatro que nunca dizem: ‘É o bastante! ’:</verse>
 		<verse number="16">O Sheol, o ventre estéril, a terra, que nunca se dessedenta, e o fogo, que nunca diz: ‘É o bastante! ’</verse>
-		<verse number="17">&quot;Os olhos de quem zomba do pai, e, zombando, nega obediência à mãe, serão arrancados pelos corvos do vale, e serão devorados pelos filhotes do abutre.</verse>
-		<verse number="18">&quot;Há três coisas misteriosas demais para mim, quatro que não consigo entender:</verse>
+		<verse number="17">"Os olhos de quem zomba do pai, e, zombando, nega obediência à mãe, serão arrancados pelos corvos do vale, e serão devorados pelos filhotes do abutre.</verse>
+		<verse number="18">"Há três coisas misteriosas demais para mim, quatro que não consigo entender:</verse>
 		<verse number="19">O caminho do abutre no céu, o caminho da serpente sobre a rocha, o caminho do navio em alto mar, e o caminho do homem com uma moça.</verse>
-		<verse number="20">&quot;Este é o caminho da adúltera: Ela come e limpa a boca, e diz: ‘Não fiz nada de errado’.</verse>
-		<verse number="21">&quot;Três coisas fazem tremer a terra, e quatro ela não pode suportar:</verse>
+		<verse number="20">"Este é o caminho da adúltera: Ela come e limpa a boca, e diz: ‘Não fiz nada de errado’.</verse>
+		<verse number="21">"Três coisas fazem tremer a terra, e quatro ela não pode suportar:</verse>
 		<verse number="22">O escravo que se torna rei, o insensato farto de comida,</verse>
 		<verse number="23">a mulher desprezada que por fim se casa, e a escrava que toma o lugar de sua senhora.</verse>
-		<verse number="24">&quot;Quatro seres da terra são pequenos, e, no entanto, muito sábios:</verse>
+		<verse number="24">"Quatro seres da terra são pequenos, e, no entanto, muito sábios:</verse>
 		<verse number="25">As formigas, criaturas de pouca força, contudo, armazenam sua comida no verão;</verse>
 		<verse number="26">os coelhos, criaturas sem nenhum poder, contudo, habitam nos penhascos;</verse>
 		<verse number="27">os gafanhotos, que não têm rei, contudo, avançam juntos em fileiras;</verse>
 		<verse number="28">a lagartixa, que se pode apanhar com as mãos, contudo, encontra-se nos palácios dos reis.</verse>
-		<verse number="29">&quot;Há três seres de andar elegante, quatro que se movem com passo garboso:</verse>
+		<verse number="29">"Há três seres de andar elegante, quatro que se movem com passo garboso:</verse>
 		<verse number="30">O leão, que é poderoso entre os animais e não foge de ninguém;</verse>
 		<verse number="31">o galo de andar altivo; o bode; e o rei à frente do seu exército.</verse>
-		<verse number="32">&quot;Se você agiu como tolo e exaltou-se a si mesmo, ou se planejou o mal, tape a boca com a mão!</verse>
-		<verse number="33">Pois assim como bater o leite produz manteiga, e assim como torcer o nariz produz sangue, também suscitar a raiva produz contenda&quot;.</verse>
+		<verse number="32">"Se você agiu como tolo e exaltou-se a si mesmo, ou se planejou o mal, tape a boca com a mão!</verse>
+		<verse number="33">Pois assim como bater o leite produz manteiga, e assim como torcer o nariz produz sangue, também suscitar a raiva produz contenda".</verse>
 	</chapter>
 	<chapter number="31">
 		<verse number="1">Ditados do rei Lemuel; uma exortação que sua mãe lhe fez:</verse>
-		<verse number="2">&quot;Ó meu filho, filho do meu ventre, filho de meus votos,</verse>
+		<verse number="2">"Ó meu filho, filho do meu ventre, filho de meus votos,</verse>
 		<verse number="3">não gaste sua força com mulheres, seu vigor com aquelas que destroem reis.</verse>
-		<verse number="4">&quot;Não convém aos reis, ó Lemuel; não convém aos reis beber vinho, não convém aos governantes desejar bebida fermentada,</verse>
+		<verse number="4">"Não convém aos reis, ó Lemuel; não convém aos reis beber vinho, não convém aos governantes desejar bebida fermentada,</verse>
 		<verse number="5">para não suceder que bebam e se esqueçam do que a lei determina, e deixem de fazer justiça aos oprimidos.</verse>
 		<verse number="6">Dê bebida fermentada aos que estão prestes a morrer, vinho aos que estão angustiados;</verse>
 		<verse number="7">para que bebam e se esqueçam da sua pobreza, e não mais se lembrem da sua infelicidade.</verse>
-		<verse number="8">&quot;Erga a voz em favor dos que não podem defender-se, seja o defensor de todos os desamparados.</verse>
-		<verse number="9">Erga a voz e julgue com justiça; defenda os direitos dos pobres e dos necessitados&quot;.</verse>
+		<verse number="8">"Erga a voz em favor dos que não podem defender-se, seja o defensor de todos os desamparados.</verse>
+		<verse number="9">Erga a voz e julgue com justiça; defenda os direitos dos pobres e dos necessitados".</verse>
 		<verse number="10">Uma esposa exemplar; feliz quem a encontrar! É muito mais valiosa que os rubis.</verse>
 		<verse number="11">Seu marido tem plena confiança nela e nunca lhe falta coisa alguma.</verse>
 		<verse number="12">Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida.</verse>
@@ -973,7 +973,7 @@
 		<verse number="26">Fala com sabedoria e ensina com amor.</verse>
 		<verse number="27">Cuida dos negócios de sua casa e não dá lugar à preguiça.</verse>
 		<verse number="28">Seus filhos se levantam e a elogiam; seu marido também a elogia, dizendo:</verse>
-		<verse number="29">&quot;Muitas mulheres são exemplares, mas você a todas supera&quot;.</verse>
+		<verse number="29">"Muitas mulheres são exemplares, mas você a todas supera".</verse>
 		<verse number="30">A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada.</verse>
 		<verse number="31">Que ela receba a recompensa merecida, e as suas obras sejam elogiadas à porta da cidade.</verse>
 	</chapter>

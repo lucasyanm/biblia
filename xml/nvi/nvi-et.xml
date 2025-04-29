@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Ester" abbrev="et" chapters="10">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Ester" abbrev="et" chapters="10" id="17" testament="VT" group="Históricos" version="NVI">
 	<chapter number="1">
 		<verse number="1">Foi no tempo de Xerxes, que reinou sobre cento e vinte e sete províncias, desde a Índia até a Etiópia:</verse>
 		<verse number="2">naquela época o rei Xerxes reinava em seu trono na cidadela de Susã</verse>
@@ -15,12 +15,12 @@
 		<verse number="12">Quando, porém, os oficiais transmitiram a ordem do rei à rainha Vasti, esta se recusou a ir, de modo que o rei ficou furioso e indignado.</verse>
 		<verse number="13">Como era costume o rei consultar especialistas em questões de direito e justiça, ele mandou chamar os sábios que entendiam das leis</verse>
 		<verse number="14">e eram muito amigos do rei: Carsena, Setar, Adamata, Társis, Meres, Marsena e Memucã; os sete nobres da Pérsia e da Média que tinham acesso direto ao rei e eram os mais importantes do reino.</verse>
-		<verse number="15">E o rei lhes perguntou: &quot;De acordo com a lei, o que se deve fazer à rainha Vasti? Ela não obedeceu à ordem do rei Xerxes transmitida pelos oficiais&quot;.</verse>
-		<verse number="16">Então Memucã respondeu na presença do rei e dos nobres: &quot;A rainha Vasti não ofendeu somente ao rei, mas também a todos os nobres e os povos de todas as províncias do rei Xerxes,</verse>
+		<verse number="15">E o rei lhes perguntou: "De acordo com a lei, o que se deve fazer à rainha Vasti? Ela não obedeceu à ordem do rei Xerxes transmitida pelos oficiais".</verse>
+		<verse number="16">Então Memucã respondeu na presença do rei e dos nobres: "A rainha Vasti não ofendeu somente ao rei, mas também a todos os nobres e os povos de todas as províncias do rei Xerxes,</verse>
 		<verse number="17">pois a conduta da rainha se tornará conhecida entre todas as mulheres, e assim também elas desprezarão seus maridos e dirão: ‘O rei Xerxes ordenou que a rainha Vasti fosse à sua presença, mas ela não foi’.</verse>
 		<verse number="18">Hoje mesmo as mulheres persas e medas da nobreza que ficarem sabendo do comportamento da rainha agirão da mesma maneira com todos os nobres do rei. Isso provocará desrespeito e discórdia sem fim.</verse>
-		<verse number="19">&quot;Por isso, se for do agrado do rei, que ele emita um decreto real, e que seja escrito na lei da Pérsia e da Média, que não se pode revogar, determinando que Vasti nunca mais compareça na presença do rei Xerxes. Também dê o rei a sua posição de rainha a outra que seja melhor do que ela.</verse>
-		<verse number="20">Assim, quando o decreto real for proclamado por todo o seu imenso domínio, todas as mulheres respeitarão seus maridos, do mais rico ao mais pobre&quot;.</verse>
+		<verse number="19">"Por isso, se for do agrado do rei, que ele emita um decreto real, e que seja escrito na lei da Pérsia e da Média, que não se pode revogar, determinando que Vasti nunca mais compareça na presença do rei Xerxes. Também dê o rei a sua posição de rainha a outra que seja melhor do que ela.</verse>
+		<verse number="20">Assim, quando o decreto real for proclamado por todo o seu imenso domínio, todas as mulheres respeitarão seus maridos, do mais rico ao mais pobre".</verse>
 		<verse number="21">O rei e seus nobres ficaram satisfeitos com o conselho, de modo que o rei acatou a proposta de Memucã.</verse>
 		<verse number="22">Assim enviou cartas a todas as partes do reino, a cada província e a cada povo em sua própria escrita e em sua própria língua, proclamando que cada homem deveria mandar em sua própria casa.</verse>
 	</chapter>
@@ -52,15 +52,15 @@
 	<chapter number="3">
 		<verse number="1">Depois desses acontecimentos, o rei Xerxes honrou a Hamã, filho de Hamedata, descendente de Agague, promovendo-o e dando-lhe uma posição mais elevada do que a de todos os demais nobres.</verse>
 		<verse number="2">Todos os oficiais do palácio real curvavam-se e prostravam-se diante de Hamã, conforme as ordens do rei. Mardoqueu, porém, não se curvava nem se prostrava diante dele.</verse>
-		<verse number="3">Então os oficiais do palácio real perguntaram a Mardoqueu: &quot;Por que você desobedece à ordem do rei? &quot;</verse>
+		<verse number="3">Então os oficiais do palácio real perguntaram a Mardoqueu: "Por que você desobedece à ordem do rei? "</verse>
 		<verse number="4">Dia após dia eles lhe falavam, mas ele não lhes dava atenção e dizia que era judeu. Então contaram tudo a Hamã para ver se o comportamento de Mardoqueu seria tolerado.</verse>
 		<verse number="5">Quando Hamã viu que Mardoqueu não se curvava nem se prostrava, ficou muito irado.</verse>
 		<verse number="6">Contudo, sabendo quem era o povo de Mardoqueu, achou que não bastava matá-lo. Em vez disso, Hamã procurou uma forma de exterminar todos os judeus, o povo de Mardoqueu, em todo o império de Xerxes.</verse>
 		<verse number="7">No primeiro mês do décimo segundo ano do reinado do rei Xerxes, no mês de nisã, lançaram o pur, isto é a sorte, na presença de Hamã para escolher um dia e um mês para executar o plano, e foi sorteado o décimo segundo mês, o mês de adar.</verse>
-		<verse number="8">Então Hamã disse ao rei Xerxes: &quot;Existe certo povo disperso e espalhado entre os povos de todas as províncias de teu império, cujos costumes são diferentes dos de todos os outros povos e que não obedecem às leis do rei; não convém ao rei tolerá-los.</verse>
-		<verse number="9">Se for do agrado do rei, que se decrete a destruição deles; e colocarei trezentas e cinqüenta toneladas de prata na tesouraria real à disposição para que se execute esse trabalho&quot;.</verse>
+		<verse number="8">Então Hamã disse ao rei Xerxes: "Existe certo povo disperso e espalhado entre os povos de todas as províncias de teu império, cujos costumes são diferentes dos de todos os outros povos e que não obedecem às leis do rei; não convém ao rei tolerá-los.</verse>
+		<verse number="9">Se for do agrado do rei, que se decrete a destruição deles; e colocarei trezentas e cinqüenta toneladas de prata na tesouraria real à disposição para que se execute esse trabalho".</verse>
 		<verse number="10">Então o rei tirou seu anel-selo do dedo, deu-o a Hamã, o inimigo dos judeus, filho de Hamedata, descendente de Agague, e lhe disse:</verse>
-		<verse number="11">&quot;Fique com a prata e faça com o povo o que você achar melhor&quot;.</verse>
+		<verse number="11">"Fique com a prata e faça com o povo o que você achar melhor".</verse>
 		<verse number="12">Assim, no décimo terceiro dia do primeiro mês os secretários do rei foram convocados. Hamã ordenou que escrevessem cartas na língua e na escrita de cada povo aos sátrapas do rei, aos governadores das várias províncias e aos chefes de cada povo. Tudo foi escrito em nome do rei Xerxes e selado com o seu anel.</verse>
 		<verse number="13">As cartas foram enviadas por mensageiros a todas as províncias do império com a ordem de exterminar e aniquilar completamente todos os judeus, jovens e idosos, mulheres e crianças, num único dia, o décimo terceiro dia do décimo segundo mês, o mês de adar, e de saquear os seus bens.</verse>
 		<verse number="14">Uma cópia do decreto deveria ser publicada como lei em cada província e levada ao conhecimento do povo de cada nação, a fim de que estivessem prontos para aquele dia.</verse>
@@ -77,56 +77,56 @@
 		<verse number="8">Deu-lhe também uma cópia do decreto que falava do extermínio, que tinha sido anunciado em Susã, para que ele o mostrasse a Ester e insistisse com ela para que fosse à presença do rei implorar misericórdia e interceder em favor do seu povo.</verse>
 		<verse number="9">Hatá retornou e relatou a Ester tudo o que Mardoqueu tinha dito.</verse>
 		<verse number="10">Então ela o instruiu que dissesse o seguinte a Mardoqueu:</verse>
-		<verse number="11">&quot;Todos os oficiais do rei e o povo das províncias do império sabem que existe somente uma lei para qualquer homem ou mulher que se aproxime do rei no pátio interno sem por ele ser chamado: será morto, a não ser que o rei estenda o cetro de ouro para a pessoa e lhe poupe a vida. E eu não sou chamada à presença do rei há mais de trinta dias&quot;.</verse>
+		<verse number="11">"Todos os oficiais do rei e o povo das províncias do império sabem que existe somente uma lei para qualquer homem ou mulher que se aproxime do rei no pátio interno sem por ele ser chamado: será morto, a não ser que o rei estenda o cetro de ouro para a pessoa e lhe poupe a vida. E eu não sou chamada à presença do rei há mais de trinta dias".</verse>
 		<verse number="12">Quando Mardoqueu recebeu a resposta de Ester,</verse>
-		<verse number="13">mandou dizer-lhe: &quot;Não pense que pelo fato de estar no palácio do rei, de todos os judeus só você escapará,</verse>
-		<verse number="14">pois, se você ficar calada nesta hora, socorro e livramento surgirão de outra parte para os judeus, mas você e a família de seu pai morrerão. Quem sabe se não foi para um momento como este que você chegou à posição de rainha? &quot;</verse>
+		<verse number="13">mandou dizer-lhe: "Não pense que pelo fato de estar no palácio do rei, de todos os judeus só você escapará,</verse>
+		<verse number="14">pois, se você ficar calada nesta hora, socorro e livramento surgirão de outra parte para os judeus, mas você e a família de seu pai morrerão. Quem sabe se não foi para um momento como este que você chegou à posição de rainha? "</verse>
 		<verse number="15">Então Ester mandou esta resposta a Mardoqueu:</verse>
-		<verse number="16">&quot;Vá reunir todos os judeus que estão em Susã, e jejuem em meu favor. Não comam nem bebam durante três dias e três noites. Eu e minhas criadas jejuaremos como vocês. Depois disso irei ao rei, ainda que seja contra a lei. Se eu tiver que morrer, morrerei&quot;.</verse>
+		<verse number="16">"Vá reunir todos os judeus que estão em Susã, e jejuem em meu favor. Não comam nem bebam durante três dias e três noites. Eu e minhas criadas jejuaremos como vocês. Depois disso irei ao rei, ainda que seja contra a lei. Se eu tiver que morrer, morrerei".</verse>
 		<verse number="17">Mardoqueu retirou-se e cumpriu todas as instruções de Ester.</verse>
 	</chapter>
 	<chapter number="5">
 		<verse number="1">Três dias depois, Ester vestiu seus trajes de rainha e colocou-se no pátio interno do palácio, em frente ao salão do rei. O rei estava no trono, de frente para a entrada.</verse>
 		<verse number="2">Quando viu a rainha Ester ali no pátio, teve misericórdia dela e estendeu-lhe o cetro de ouro que tinha na mão. Ester aproximou-se e tocou a ponta do cetro.</verse>
-		<verse number="3">E o rei lhe perguntou: &quot;Que há, rainha Ester? Qual é o seu pedido? Mesmo que seja a metade do reino, lhe será dado&quot;.</verse>
-		<verse number="4">Respondeu Ester: &quot;Se for do agrado do rei, venha com Hamã a um banquete que lhe preparei&quot;.</verse>
-		<verse number="5">Disse o rei: &quot;Tragam Hamã imediatamente, para que ele atenda ao pedido de Ester&quot;. Então o rei e Hamã foram ao banquete que Ester havia preparado.</verse>
-		<verse number="6">Enquanto bebiam vinho, o rei tornou a perguntar a Ester: &quot;Qual é o seu pedido? Você será atendida. Qual o seu desejo? Mesmo que seja a metade do reino, lhe será concedido&quot;.</verse>
-		<verse number="7">E Ester respondeu: &quot;Este é o meu pedido e o meu desejo:</verse>
-		<verse number="8">Se o rei tem consideração por mim, e se lhe agrada atender e conceder o meu pedido, que o rei e Hamã venham amanhã ao banquete que lhes prepararei. Então responderei à pergunta do rei&quot;.</verse>
+		<verse number="3">E o rei lhe perguntou: "Que há, rainha Ester? Qual é o seu pedido? Mesmo que seja a metade do reino, lhe será dado".</verse>
+		<verse number="4">Respondeu Ester: "Se for do agrado do rei, venha com Hamã a um banquete que lhe preparei".</verse>
+		<verse number="5">Disse o rei: "Tragam Hamã imediatamente, para que ele atenda ao pedido de Ester". Então o rei e Hamã foram ao banquete que Ester havia preparado.</verse>
+		<verse number="6">Enquanto bebiam vinho, o rei tornou a perguntar a Ester: "Qual é o seu pedido? Você será atendida. Qual o seu desejo? Mesmo que seja a metade do reino, lhe será concedido".</verse>
+		<verse number="7">E Ester respondeu: "Este é o meu pedido e o meu desejo:</verse>
+		<verse number="8">Se o rei tem consideração por mim, e se lhe agrada atender e conceder o meu pedido, que o rei e Hamã venham amanhã ao banquete que lhes prepararei. Então responderei à pergunta do rei".</verse>
 		<verse number="9">Naquele dia Hamã saiu alegre e contente. Mas, ficou furioso quando viu que Mardoqueu, que estava junto à porta do palácio real, não se levantou nem mostrou respeito em sua presença.</verse>
 		<verse number="10">Hamã, porém, controlou-se e foi para casa. Reunindo seus amigos e Zeres, sua mulher,</verse>
 		<verse number="11">Hamã vangloriou-se de sua grande riqueza, de seus muitos filhos e de como o rei o havia honrado e promovido acima de todos os outros nobres e oficiais.</verse>
-		<verse number="12">E acrescentou Hamã: &quot;Além disso, sou o único que a rainha Ester convidou para acompanhar o rei ao banquete que ela lhe ofereceu. Ela me convidou para comparecer amanhã, junto com o rei.</verse>
-		<verse number="13">Mas tudo isso não me dará satisfação, enquanto eu vir aquele judeu Mardoqueu sentado junto à porta do palácio real&quot;.</verse>
-		<verse number="14">Então Zeres, sua mulher, e todos os seus amigos lhe sugeriram: &quot;Mande fazer uma forca, de mais de vinte metros de altura, e logo pela manhã peça ao rei que Mardoqueu seja enforcado nela. Assim você poderá acompanhar o rei ao jantar e alegrar-se&quot;. A sugestão agradou Hamã, e ele mandou fazer a forca.</verse>
+		<verse number="12">E acrescentou Hamã: "Além disso, sou o único que a rainha Ester convidou para acompanhar o rei ao banquete que ela lhe ofereceu. Ela me convidou para comparecer amanhã, junto com o rei.</verse>
+		<verse number="13">Mas tudo isso não me dará satisfação, enquanto eu vir aquele judeu Mardoqueu sentado junto à porta do palácio real".</verse>
+		<verse number="14">Então Zeres, sua mulher, e todos os seus amigos lhe sugeriram: "Mande fazer uma forca, de mais de vinte metros de altura, e logo pela manhã peça ao rei que Mardoqueu seja enforcado nela. Assim você poderá acompanhar o rei ao jantar e alegrar-se". A sugestão agradou Hamã, e ele mandou fazer a forca.</verse>
 	</chapter>
 	<chapter number="6">
 		<verse number="1">Naquela noite o rei não conseguiu dormir; por isso ordenou que trouxessem o livro das crônicas do seu reinado, e que o lessem para ele.</verse>
 		<verse number="2">E foi lido o registro de que Mardoqueu tinha denunciado Bigtã e Teres, dois dos oficiais do rei que guardavam a entrada do Palácio, que haviam conspirado para assassinar o rei Xerxes.</verse>
-		<verse number="3">&quot;Que honra e reconhecimento Mardoqueu recebeu por isso? &quot;, perguntou o rei. Seus oficiais responderam: &quot;Nada lhe foi feito&quot;.</verse>
-		<verse number="4">O rei perguntou: &quot;Quem está no pátio? &quot; Ora, Hamã havia acabado de entrar no pátio externo do palácio para pedir ao rei o enforcamento de Mardoqueu na forca que ele lhe havia preparado.</verse>
-		<verse number="5">Os oficiais do rei responderam: &quot;É Hamã que está no pátio&quot;. &quot;Façam-no entrar&quot;, ordenou o rei.</verse>
-		<verse number="6">Entrando Hamã, o rei lhe perguntou: &quot;O que se deve fazer ao homem que o rei tem o prazer de honrar? &quot; E Hamã pensou consigo: &quot;A quem o rei teria prazer de honrar, senão a mim? &quot;</verse>
-		<verse number="7">Por isso respondeu ao rei: &quot;Ao homem que o rei tem prazer de honrar,</verse>
+		<verse number="3">"Que honra e reconhecimento Mardoqueu recebeu por isso? ", perguntou o rei. Seus oficiais responderam: "Nada lhe foi feito".</verse>
+		<verse number="4">O rei perguntou: "Quem está no pátio? " Ora, Hamã havia acabado de entrar no pátio externo do palácio para pedir ao rei o enforcamento de Mardoqueu na forca que ele lhe havia preparado.</verse>
+		<verse number="5">Os oficiais do rei responderam: "É Hamã que está no pátio". "Façam-no entrar", ordenou o rei.</verse>
+		<verse number="6">Entrando Hamã, o rei lhe perguntou: "O que se deve fazer ao homem que o rei tem o prazer de honrar? " E Hamã pensou consigo: "A quem o rei teria prazer de honrar, senão a mim? "</verse>
+		<verse number="7">Por isso respondeu ao rei: "Ao homem que o rei tem prazer de honrar,</verse>
 		<verse number="8">ordena que tragam um manto do próprio rei e um cavalo que o rei montou, e que leve o brasão do rei na cabeça.</verse>
-		<verse number="9">Em seguida, sejam o manto e o cavalo confiados a alguns dos príncipes mais nobres do rei, e ponham eles o manto sobre o homem que o rei deseja honrar e o conduzam sobre o cavalo pelas ruas da cidade, proclamando diante dele: ‘Isto é o que se faz ao homem que o rei tem o prazer de honrar! ’ &quot;</verse>
-		<verse number="10">O rei ordenou então a Hamã: &quot;Vá depressa apanhar o manto e o cavalo, e faça ao judeu Mardoqueu o que você sugeriu. Ele está sentado junto à porta do palácio real. Não omita nada do que você recomendou&quot;.</verse>
-		<verse number="11">Então, Hamã apanhou o cavalo, vestiu Mardoqueu com o manto e o conduziu sobre o cavalo pelas ruas da cidade, proclamando à frente dele: &quot;Isto é o que se faz ao homem que o rei tem o prazer de honrar! &quot;</verse>
+		<verse number="9">Em seguida, sejam o manto e o cavalo confiados a alguns dos príncipes mais nobres do rei, e ponham eles o manto sobre o homem que o rei deseja honrar e o conduzam sobre o cavalo pelas ruas da cidade, proclamando diante dele: ‘Isto é o que se faz ao homem que o rei tem o prazer de honrar! ’ "</verse>
+		<verse number="10">O rei ordenou então a Hamã: "Vá depressa apanhar o manto e o cavalo, e faça ao judeu Mardoqueu o que você sugeriu. Ele está sentado junto à porta do palácio real. Não omita nada do que você recomendou".</verse>
+		<verse number="11">Então, Hamã apanhou o cavalo, vestiu Mardoqueu com o manto e o conduziu sobre o cavalo pelas ruas da cidade, proclamando à frente dele: "Isto é o que se faz ao homem que o rei tem o prazer de honrar! "</verse>
 		<verse number="12">Depois disso, Mardoqueu voltou para a porta do palácio real. Hamã, porém, correu para casa com o rosto coberto, muito aborrecido</verse>
-		<verse number="13">e contou a Zeres, sua mulher, e a todos os seus amigos tudo o que lhe havia acontecido. Tanto o seus conselheiros como Zeres, sua mulher, lhe disseram: &quot;Visto que Mardoqueu, diante de quem começou a sua queda, é de origem judaica, você não terá condições de enfrentá-lo. Sem dúvida, você ficará arruinado! &quot;</verse>
+		<verse number="13">e contou a Zeres, sua mulher, e a todos os seus amigos tudo o que lhe havia acontecido. Tanto o seus conselheiros como Zeres, sua mulher, lhe disseram: "Visto que Mardoqueu, diante de quem começou a sua queda, é de origem judaica, você não terá condições de enfrentá-lo. Sem dúvida, você ficará arruinado! "</verse>
 		<verse number="14">E, enquanto ainda conversavam, chegaram os oficiais do rei e, às pressas, levaram Hamã para o banquete que Ester havia preparado.</verse>
 	</chapter>
 	<chapter number="7">
 		<verse number="1">Então o rei e Hamã foram ao banquete com a rainha Ester,</verse>
-		<verse number="2">e, enquanto estavam bebendo vinho no segundo dia, o rei perguntou de novo: &quot;Rainha Ester, qual é o seu pedido? Você será atendida. Qual o seu desejo? Mesmo que seja a metade do reino, isso lhe será concedido&quot;.</verse>
-		<verse number="3">Então a rainha Ester respondeu: &quot;Se posso contar com o favor do rei, e se isto lhe agrada, poupe a minha vida e a vida do meu povo; este é o meu pedido e o meu desejo.</verse>
-		<verse number="4">Pois eu e meu povo fomos vendidos para destruição, morte e aniquilação. Se apenas tivéssemos sido vendidos como escravos e escravas, eu teria ficado em silêncio, porque nenhuma aflição como essa justificaria perturbar o rei&quot;.</verse>
-		<verse number="5">O rei Xerxes perguntou à rainha Ester: &quot;Quem se atreveu a uma coisa dessas? Onde está ele? &quot;</verse>
-		<verse number="6">Respondeu Ester: &quot;O adversário e inimigo é Hamã, esse perverso&quot;. Diante disso, Hamã ficou apavorado na presença do rei e da rainha.</verse>
+		<verse number="2">e, enquanto estavam bebendo vinho no segundo dia, o rei perguntou de novo: "Rainha Ester, qual é o seu pedido? Você será atendida. Qual o seu desejo? Mesmo que seja a metade do reino, isso lhe será concedido".</verse>
+		<verse number="3">Então a rainha Ester respondeu: "Se posso contar com o favor do rei, e se isto lhe agrada, poupe a minha vida e a vida do meu povo; este é o meu pedido e o meu desejo.</verse>
+		<verse number="4">Pois eu e meu povo fomos vendidos para destruição, morte e aniquilação. Se apenas tivéssemos sido vendidos como escravos e escravas, eu teria ficado em silêncio, porque nenhuma aflição como essa justificaria perturbar o rei".</verse>
+		<verse number="5">O rei Xerxes perguntou à rainha Ester: "Quem se atreveu a uma coisa dessas? Onde está ele? "</verse>
+		<verse number="6">Respondeu Ester: "O adversário e inimigo é Hamã, esse perverso". Diante disso, Hamã ficou apavorado na presença do rei e da rainha.</verse>
 		<verse number="7">Furioso, o rei levantou-se, deixou o vinho, saiu dali e foi para o jardim do palácio. E percebendo Hamã que o rei já tinha decidido condená-lo, ficou ali para implorar por sua vida à rainha Ester.</verse>
-		<verse number="8">E voltando o rei do jardim do palácio ao salão do banquete, viu Hamã caído sobre o assento onde Ester estava reclinada. E então exclamou: &quot;Chegaria ele ao cúmulo de violentar a rainha na minha presença e em minha própria casa? &quot; Mal o rei terminou de dizer isso, alguns oficiais cobriram o rosto de Hamã.</verse>
-		<verse number="9">E um deles, chamado Harbona, que estava a serviço do rei, disse: &quot;Há uma forca de mais de vinte metros de altura junto à casa de Hamã, que ele fez para Mardoqueu, que intercedeu pela vida do rei&quot;. Então o rei ordenou: &quot;Enforquem-no nela! &quot;</verse>
+		<verse number="8">E voltando o rei do jardim do palácio ao salão do banquete, viu Hamã caído sobre o assento onde Ester estava reclinada. E então exclamou: "Chegaria ele ao cúmulo de violentar a rainha na minha presença e em minha própria casa? " Mal o rei terminou de dizer isso, alguns oficiais cobriram o rosto de Hamã.</verse>
+		<verse number="9">E um deles, chamado Harbona, que estava a serviço do rei, disse: "Há uma forca de mais de vinte metros de altura junto à casa de Hamã, que ele fez para Mardoqueu, que intercedeu pela vida do rei". Então o rei ordenou: "Enforquem-no nela! "</verse>
 		<verse number="10">Assim Hamã morreu na forca que tinha preparado para Mardoqueu; e a ira do rei se acalmou.</verse>
 	</chapter>
 	<chapter number="8">
@@ -134,10 +134,10 @@
 		<verse number="2">O rei tirou seu anel-selo, que havia tomado de Hamã, e o deu a Mardoqueu; e Ester o nomeou para administrar os bens de Hamã.</verse>
 		<verse number="3">Mas Ester tornou a implorar ao rei, chorando aos seus pés, que revogasse o plano maligno de Hamã, o agagita, contra os judeus.</verse>
 		<verse number="4">Então o rei estendeu o cetro de ouro para Ester, e ela se levantou diante dele e disse:</verse>
-		<verse number="5">&quot;Se for do agrado do rei, se posso contar com o seu favor, e se ele considerar justo, que se escreva uma ordem revogando as cartas que Hamã, filho do agagita Hamedata, escreveu para que os judeus fossem exterminados em todas as províncias do império.</verse>
-		<verse number="6">Pois, como suportarei ver a desgraça que cairá sobre meu o povo? Como suportarei a destruição da minha própria família? &quot;</verse>
-		<verse number="7">O rei Xerxes respondeu à rainha Ester e ao judeu Mardoqueu: &quot;Mandei enforcar Hamã e dei os seus bens a Ester porque ele atentou contra os judeus.</verse>
-		<verse number="8">Escrevam agora outro decreto em nome do rei, em favor dos judeus, como melhor lhes parecer, e selem-no com o anel-selo do rei, pois nenhum documento escrito em nome do rei e selado com o seu anel pode ser revogado&quot;.</verse>
+		<verse number="5">"Se for do agrado do rei, se posso contar com o seu favor, e se ele considerar justo, que se escreva uma ordem revogando as cartas que Hamã, filho do agagita Hamedata, escreveu para que os judeus fossem exterminados em todas as províncias do império.</verse>
+		<verse number="6">Pois, como suportarei ver a desgraça que cairá sobre meu o povo? Como suportarei a destruição da minha própria família? "</verse>
+		<verse number="7">O rei Xerxes respondeu à rainha Ester e ao judeu Mardoqueu: "Mandei enforcar Hamã e dei os seus bens a Ester porque ele atentou contra os judeus.</verse>
+		<verse number="8">Escrevam agora outro decreto em nome do rei, em favor dos judeus, como melhor lhes parecer, e selem-no com o anel-selo do rei, pois nenhum documento escrito em nome do rei e selado com o seu anel pode ser revogado".</verse>
 		<verse number="9">Isso aconteceu no dia vinte e três do terceiro mês, o mês de sivã. Os secretários do rei foram imediatamente convocados e escreveram todas as ordens de Mardoqueu aos judeus, aos sátrapas, aos governadores e aos nobres das cento e vinte e sete províncias que se estendiam da Índia até a Etiópia. Essas ordens foram redigidas na língua e na escrita de cada província e de cada povo, e também na língua e na escrita dos judeus.</verse>
 		<verse number="10">Mardoqueu escreveu em nome do rei Xerxes, selou as cartas com o anel-selo do rei, e as enviou por meio de mensageiros montados em cavalos velozes, das estrebarias do próprio rei.</verse>
 		<verse number="11">O decreto do rei concedia aos judeus de cada cidade o direito de reunir-se e de proteger-se, de destruir, matar e aniquilar qualquer força armada de qualquer povo ou província que os ameaçasse, a eles, suas mulheres e seus filhos, e de saquear os bens dos seus inimigos.</verse>
@@ -160,8 +160,8 @@
 		<verse number="9">Farmasta, Arisai, Aridai e Vaisata,</verse>
 		<verse number="10">os dez filhos de Hamã, filho de Hamedata, o inimigo dos judeus. Mas não se apossaram dos seus bens.</verse>
 		<verse number="11">Naquele mesmo dia o total de mortos na cidadela de Susã foi relatado ao rei,</verse>
-		<verse number="12">que disse à rainha Ester: &quot;Os judeus mataram e destruíram quinhentos homens e os dez filhos de Hamã na cidadela de Susã. Que terão feito nas outras províncias do império? Agora, diga qual é o seu pedido, e você será atendida. Tem ainda algum desejo? Este lhe será concedido&quot;.</verse>
-		<verse number="13">Respondeu Ester: &quot;Se for do agrado do rei, que os judeus de Susã tenham autorização para executar também amanhã o decreto de hoje, para que os corpos dos dez filhos de Hamã sejam pendurados na forca&quot;.</verse>
+		<verse number="12">que disse à rainha Ester: "Os judeus mataram e destruíram quinhentos homens e os dez filhos de Hamã na cidadela de Susã. Que terão feito nas outras províncias do império? Agora, diga qual é o seu pedido, e você será atendida. Tem ainda algum desejo? Este lhe será concedido".</verse>
+		<verse number="13">Respondeu Ester: "Se for do agrado do rei, que os judeus de Susã tenham autorização para executar também amanhã o decreto de hoje, para que os corpos dos dez filhos de Hamã sejam pendurados na forca".</verse>
 		<verse number="14">Então o rei deu ordens para que assim sem fizesse. O decreto foi publicado em Susã, e os corpos dos dez filhos de Hamã foram pendurados na forca.</verse>
 		<verse number="15">Os judeus de Susã ajuntaram-se no décimo quarto dia do mês de adar e mataram trezentos homens em Susã, mas não se apossaram de seus bens.</verse>
 		<verse number="16">Enquanto isso, ajuntou-se também o restante dos judeus que viviam nas províncias do império, para se protegerem e se livrarem dos seus inimigos. Eles mataram setenta e cinco mil deles, mas não se apossaram de seus bens.</verse>

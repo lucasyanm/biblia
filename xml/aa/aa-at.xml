@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Atos" abbrev="at" chapters="28">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Atos" abbrev="at" chapters="28" id="44" testament="NT" group="Histórico" version="AA">
 	<chapter number="1">
 		<verse number="1">Fiz o primeiro tratado, ó Teófilo, acerca de tudo quanto Jesus começou a fazer e ensinar,</verse>
 		<verse number="2">até o dia em que foi levado para cima, depois de haver dado mandamento, pelo Espírito Santo, aos apóstolos que escolhera;</verse>

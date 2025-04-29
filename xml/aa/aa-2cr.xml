@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2º Crônicas" abbrev="2cr" chapters="36">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2º Crônicas" abbrev="2cr" chapters="36" id="14" testament="VT" group="Históricos" version="AA">
 	<chapter number="1">
 		<verse number="1">Ora, Salomão, filho de Davi, fortaleceu-se no seu reino, e o Senhor seu Deus era com ele, e muito o engrandeceu.</verse>
 		<verse number="2">E falou Salomão a todo o Israel, aos chefes de mil e de cem, e aos juízes, e a todos os príncipes em todo o Israel, chefes das casas paternas.</verse>

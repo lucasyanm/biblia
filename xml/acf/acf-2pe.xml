@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª Pedro" abbrev="2pe" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª Pedro" abbrev="2pe" chapters="3" id="61" testament="NT" group="Epístolas Universais" version="ACF">
 	<chapter number="1">
 		<verse number="1">Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:</verse>
 		<verse number="2">Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor;</verse>

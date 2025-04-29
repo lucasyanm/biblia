@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Tito" abbrev="tt" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Tito" abbrev="tt" chapters="3" id="56" testament="NT" group="Epístolas Paulinas" version="AA">
 	<chapter number="1">
 		<verse number="1">Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o pleno conhecimento da verdade que é segundo a piedade,</verse>
 		<verse number="2">na esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos eternos,</verse>

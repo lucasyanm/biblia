@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Daniel" abbrev="dn" chapters="12">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Daniel" abbrev="dn" chapters="12" id="27" testament="VT" group="Profetas Maiores" version="AA">
 	<chapter number="1">
 		<verse number="1">No ano terceiro do reinado de Jeoiaquim, rei de Judá, veio Nabucodonosor, rei de Babilônia, a Jerusalém, e a sitiou.</verse>
 		<verse number="2">E o Senhor lhe entregou nas mãos a Jeoiaquim, rei de Judá, e uma parte dos vasos da casa de Deus; e ele os levou para a terra de Sinar, para a casa do seu deus; e os pôs na casa do tesouro do seu deus.</verse>

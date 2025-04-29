@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1º Samuel" abbrev="1sm" chapters="31">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1º Samuel" abbrev="1sm" chapters="31" id="9" testament="VT" group="Históricos" version="AA">
 	<chapter number="1">
 		<verse number="1">Houve um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efraimita.</verse>
 		<verse number="2">Tinha ele duas mulheres: uma se chamava Ana, e a outra Penina. Penina tinha filhos, porém Ana não os tinha.</verse>
@@ -755,12 +755,12 @@
 		<verse number="8">Então disse Abisai a Davi: Deus te entregou hoje nas mãos o teu inimigo; deixa-me, pois, agora encravá-lo na terra, com a lança, de um só golpe; não o ferirei segunda vez.</verse>
 		<verse number="9">Mas Davi respondeu a Abisai: Não o mates; pois quem pode estender a mão contra o ungido do Senhor, e ficar inocente?</verse>
 		<verse number="10">Disse mais Davi: Como vive o Senhor, ou o Senhor o ferirá, ou chegará o seu dia e morrerá, ou descerá para a batalha e perecerá;</verse>
-		<verse number="11">o Senhor, porém, me guarde de que eu estenda a mão contra o ungido do Senhor. Agora, pois, toma a lança que está à sua cabeceira, e a bilha d&#39;água, e vamo-nos.</verse>
-		<verse number="12">Tomou, pois, Davi a lança e a bilha d&#39;água da cabeceira de Saul, e eles se foram. Ninguém houve que o visse, nem que o soubesse, nem que acordasse; porque todos estavam dormindo, pois da parte do Senhor havia caído sobre eles um profundo sono.</verse>
+		<verse number="11">o Senhor, porém, me guarde de que eu estenda a mão contra o ungido do Senhor. Agora, pois, toma a lança que está à sua cabeceira, e a bilha d'água, e vamo-nos.</verse>
+		<verse number="12">Tomou, pois, Davi a lança e a bilha d'água da cabeceira de Saul, e eles se foram. Ninguém houve que o visse, nem que o soubesse, nem que acordasse; porque todos estavam dormindo, pois da parte do Senhor havia caído sobre eles um profundo sono.</verse>
 		<verse number="13">Então Davi, passando à outra banda, pôs-se no cume do monte, ao longe, de maneira que havia grande distância entre eles.</verse>
 		<verse number="14">E Davi bradou ao povo, e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então Abner respondeu e disse: Quem és tu, que bradas ao rei?</verse>
 		<verse number="15">Ao que disse Davi a Abner: Não és tu um homem? e quem há em Israel como tu? Por que, então, não guardaste o rei, teu senhor? porque um do povo veio para destruir o rei, teu senhor.</verse>
-		<verse number="16">Não é bom isso que fizeste. Vive o Senhor, que sois dignos de morte, porque não guardastes a vosso senhor, o ungido do Senhor. Vede, pois, agora onde está a lança do rei, e a bilha d&#39;água que estava à sua cabeceira.</verse>
+		<verse number="16">Não é bom isso que fizeste. Vive o Senhor, que sois dignos de morte, porque não guardastes a vosso senhor, o ungido do Senhor. Vede, pois, agora onde está a lança do rei, e a bilha d'água que estava à sua cabeceira.</verse>
 		<verse number="17">Saul reconheceu a voz de Davi, e disse: Não é esta a tua voz, meu filho Davi? Respondeu Davi: E minha voz, ó rei, meu senhor.</verse>
 		<verse number="18">Disse mais: Por que o meu senhor persegue tanto o seu servo? que fiz eu? e que maldade se acha na minha mão?</verse>
 		<verse number="19">Ouve pois agora, ó rei, meu senhor, as palavras de teu servo: Se é o Senhor quem te incita contra mim, receba ele uma oferta; se, porém, são os filhos dos homens, malditos sejam perante o Senhor, pois eles me expulsaram hoje para que eu não tenha parte na herança do Senhor, dizendo: Vai, serve a outros deuses.</verse>

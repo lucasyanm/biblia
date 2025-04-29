@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Tito" abbrev="tt" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Tito" abbrev="tt" chapters="3" id="56" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, servo de Deus e apóstolo de Jesus Cristo para levar os eleitos de Deus à fé e ao conhecimento da verdade que conduz à piedade,</verse>
 		<verse number="2">fé e conhecimento que se fundamentam na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos.</verse>
@@ -12,7 +12,7 @@
 		<verse number="9">e apegue-se firmemente à mensagem fiel, da maneira como foi ensinada, para que seja capaz de encorajar outros pela sã doutrina e de refutar os que se opõem a ela.</verse>
 		<verse number="10">Pois há muitos insubordinados, que não passam de faladores e enganadores, especialmente os do grupo da circuncisão.</verse>
 		<verse number="11">É necessário que eles sejam silenciados, pois estão arruinando famílias inteiras, ensinando coisas que não devem, e tudo por ganância.</verse>
-		<verse number="12">Um dos seus próprios profetas chegou a dizer: &quot;Cretenses, sempre mentirosos, feras malignas, glutões preguiçosos&quot;.</verse>
+		<verse number="12">Um dos seus próprios profetas chegou a dizer: "Cretenses, sempre mentirosos, feras malignas, glutões preguiçosos".</verse>
 		<verse number="13">Tal testemunho é verdadeiro. Portanto, repreenda-os severamente, para que sejam sadios na fé</verse>
 		<verse number="14">e não dêem atenção a lendas judaicas nem a mandamentos de homens que rejeitam a verdade.</verse>
 		<verse number="15">Para os puros, todas as coisas são puras; mas para os impuros e descrentes, nada é puro. De fato, tanto a mente como a consciência deles estão corrompidas.</verse>

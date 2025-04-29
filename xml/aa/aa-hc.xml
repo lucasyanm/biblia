@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Habacuque" abbrev="hc" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Habacuque" abbrev="hc" chapters="3" id="35" testament="VT" group="Profetas Menores" version="AA">
 	<chapter number="1">
 		<verse number="1">O oráculo que o profeta Habacuque viu.</verse>
 		<verse number="2">Até quando Senhor, clamarei eu, e tu não escutarás? ou gritarei a ti: Violência! e não salvarás?</verse>

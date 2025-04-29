@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Obadias" abbrev="ob" chapters="1">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Obadias" abbrev="ob" chapters="1" id="31" testament="VT" group="Profetas Menores" version="NVI">
 	<chapter number="1">
 		<verse number="1">Visão de Obadias. Assim diz o Soberano, o SENHOR, a respeito de Edom: Nós ouvimos uma mensagem do SENHOR. Um mensageiro foi enviado às nações para dizer: “Levantem-se! Vamos atacar Edom! ”</verse>
 		<verse number="2">“Veja! Eu tornarei você pequeno entre as nações. Será completamente desprezado!</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Ezequiel" abbrev="ez" chapters="48">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Ezequiel" abbrev="ez" chapters="48" id="26" testament="VT" group="Profetas Maiores" version="AA">
 	<chapter number="1">
 		<verse number="1">Ora aconteceu no trigésimo ano, no quarto mês, no dia quinto do mês, que estando eu no meio dos cativos, junto ao rio Quebar, se abriram os céus, e eu tive visões de Deus.</verse>
 		<verse number="2">No quinto dia do mês, já no quinto ano do cativeiro do rei Joaquim,</verse>
@@ -928,7 +928,7 @@
 		<verse number="10">Assim diz o Senhor Deus: Eis que eu estou contra os pastores; das suas mãos requererei as minhas ovelhas, e farei que eles deixem de apascentar as ovelhas, de sorte que não se apascentarão mais a si mesmos. Livrarei as minhas ovelhas da sua boca, para que não lhes sirvam mais de pasto.</verse>
 		<verse number="11">Porque assim diz o Senhor Deus: Eis que eu, eu mesmo, procurarei as minhas ovelhas, e as buscarei.</verse>
 		<verse number="12">Como o pastor busca o seu rebanho, no dia em que está no meio das suas ovelhas dispersas, assim buscarei as minhas ovelhas. Livrá-las-ei de todos os lugares por onde foram espalhadas, no dia de nuvens e de escuridão.</verse>
-		<verse number="13">Sim, tirá-las-ei para fora dos povos, e as congregarei dos países, e as introduzirei na sua terra, e as apascentarei sobre os montes de Israel, junto às correntes d&#39;água, e em todos os lugares habitados da terra.</verse>
+		<verse number="13">Sim, tirá-las-ei para fora dos povos, e as congregarei dos países, e as introduzirei na sua terra, e as apascentarei sobre os montes de Israel, junto às correntes d'água, e em todos os lugares habitados da terra.</verse>
 		<verse number="14">Em bons pastos as apascentarei, e nos altos montes de Israel será o seu curral; deitar-se-ão ali num bom curral, e pastarão em pastos gordos nos montes de Israel.</verse>
 		<verse number="15">Eu mesmo apascentarei as minhas ovelhas, e eu as farei repousar, diz o Senhor Deus.</verse>
 		<verse number="16">A perdida buscarei, e a desgarrada tornarei a trazer; a quebrada ligarei, e a enferma fortalecerei; e a gorda e a forte vigiarei. Apascentá-las-ei com justiça.</verse>
@@ -956,7 +956,7 @@
 		<verse number="5">Pois que guardaste perpétua inimizade, e entregaste os filhos de Israel ao poder da espada no tempo da sua calamidade, no tempo do castigo final;</verse>
 		<verse number="6">por isso vivo eu, diz o Senhor Deus, que te prepararei para sangue, e o sangue te perseguirá; visto que não aborreceste o sangue, por isso o sangue te perseguirá.</verse>
 		<verse number="7">Farei do monte Seir um espanto e uma desolação, e exterminarei dele o que por ele passar, e o que por ele voltar;</verse>
-		<verse number="8">e encherei os seus montes dos seus mortos; nos teus outeiros, e nos teus vales, e em todas as tuas correntes d&#39;água cairão os mortos à espada.</verse>
+		<verse number="8">e encherei os seus montes dos seus mortos; nos teus outeiros, e nos teus vales, e em todas as tuas correntes d'água cairão os mortos à espada.</verse>
 		<verse number="9">Em desolações perpétuas te porei, e não serão habitadas as tuas cidades. Então sabereis que eu sou o Senhor.</verse>
 		<verse number="10">Visto como dizes: Estes dois povos e estas duas terras serão meus, e havemos de possuí-los, sendo que o Senhor se achava ali;</verse>
 		<verse number="11">portanto, vivo eu, diz o Senhor Deus, que procederei conforme a tua ira, e conforme a tua inveja, de que usaste, no teu ódio contra eles; e me darei a conhecer entre eles, quando eu te julgar.</verse>
@@ -969,9 +969,9 @@
 		<verse number="1">Tu, ó filho do homem, profetiza aos montes de Israel, e dize: Montes de Israel, ouvi a palavra do Senhor.</verse>
 		<verse number="2">Assim diz o Senhor Deus: Pois que disse o inimigo contra vós: Ah! ah! e: As alturas antigas são nossas para as possuirmos;</verse>
 		<verse number="3">portanto, profetiza, e dize: Assim diz o Senhor Deus: Porquanto, sim, porquanto vos assolaram e vos devoraram de todos os lados, para que ficásseis feitos herança do resto das nações, e tendes andado em lábios paroleiros, e chegastes a ser a infâmia do povo;</verse>
-		<verse number="4">portanto, ouvi, ó montes de Israel, a palavra do Senhor Deus: Assim diz o Senhor Deus aos montes e aos outeiros, às correntes d&#39;água e aos vales, aos desertos assolados e às cidades desamparadas, que se tornaram presa e escárnio para o resto das nações que estão ao redor delas;</verse>
+		<verse number="4">portanto, ouvi, ó montes de Israel, a palavra do Senhor Deus: Assim diz o Senhor Deus aos montes e aos outeiros, às correntes d'água e aos vales, aos desertos assolados e às cidades desamparadas, que se tornaram presa e escárnio para o resto das nações que estão ao redor delas;</verse>
 		<verse number="5">portanto, assim diz o Senhor Deus: Certamente no fogo do meu zelo falei contra o resto das nações, e contra todo o Edom, que se apropriaram da minha terra, com toda a alegria de seu coração, e com menosprezo da alma, para a lançarem fora a rapina;</verse>
-		<verse number="6">portanto, profetiza sobre a terra de Israel, e dize aos montes e aos outeiros, às correntes d&#39;água e aos vales: Assim diz o Senhor Deus: Eis que falei no meu zelo e no meu furor, porque levastes sobre vós o opróbrio das nações.</verse>
+		<verse number="6">portanto, profetiza sobre a terra de Israel, e dize aos montes e aos outeiros, às correntes d'água e aos vales: Assim diz o Senhor Deus: Eis que falei no meu zelo e no meu furor, porque levastes sobre vós o opróbrio das nações.</verse>
 		<verse number="7">Portanto, assim diz o Senhor Deus: Eu levantei a minha mão, jurando: Certamente as nações que estão ao redor de vós levarão o seu opróbrio sobre si mesmas.</verse>
 		<verse number="8">Mas vós, ó montes de Israel, vós produzireis os vossos ramos, e dareis o vosso fruto para o meu povo de Israel, pois já está prestes a vir.</verse>
 		<verse number="9">pois eis que eu estou convosco, e eu me voltarei para vós, e sereis lavrados e semeados;</verse>

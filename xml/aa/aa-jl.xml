@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Joel" abbrev="jl" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Joel" abbrev="jl" chapters="3" id="29" testament="VT" group="Profetas Menores" version="AA">
 	<chapter number="1">
 		<verse number="1">Palavra do Senhor, que foi dirigida a Joel, filho de Petuel.</verse>
 		<verse number="2">Ouvi isto, vós anciãos, e escutai, todos os moradores da terra: Aconteceu isto em vossos dias, ou nos dias de vossos pais?</verse>
@@ -20,7 +20,7 @@
 		<verse number="17">A semente mirrou debaixo dos seus torrões; os celeiros estão desolados, os armazéns arruinados; porque falharam os cereais.</verse>
 		<verse number="18">Como geme o gado! As manadas de vacas estão confusas, porque não têm pasto; também os rebanhos de ovelhas estão desolados.</verse>
 		<verse number="19">A ti clamo, ó Senhor; porque o fogo consumiu os pastos do deserto, e a chama abrasou todas as árvores do campo.</verse>
-		<verse number="20">Até os animais do campo suspiram por ti; porque as correntes d&#39;água se secaram, e o fogo consumiu os pastos do deserto.</verse>
+		<verse number="20">Até os animais do campo suspiram por ti; porque as correntes d'água se secaram, e o fogo consumiu os pastos do deserto.</verse>
 	</chapter>
 	<chapter number="2">
 		<verse number="1">Tocai a trombeta em Sião, e dai o alarma no meu santo monte. Tremam todos os moradores da terra, porque vem vindo o dia do Senhor; já está perto;</verse>

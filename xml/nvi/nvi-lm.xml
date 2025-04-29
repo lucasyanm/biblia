@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Lamentações de Jeremias" abbrev="lm" chapters="5">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Lamentações de Jeremias" abbrev="lm" chapters="5" id="25" testament="VT" group="Profetas Maiores" version="NVI">
 	<chapter number="1">
 		<verse number="1">Como está deserta a cidade, antes tão cheia de gente! Como se parece com uma viúva, a que antes era grandiosa entre as nações! A que era a princesa das províncias agora tornou-se uma escrava.</verse>
 		<verse number="2">Chora amargamente à noite, as lágrimas rolam por seu rosto. De todos os seus amantes nenhum a consola. Todos os seus amigos a traíram; tornaram-se seus inimigos.</verse>
@@ -9,20 +9,20 @@
 		<verse number="6">Todo o esplendor fugiu da cidade de Sião. Seus líderes são como corças que não encontram pastagem; sem forças fugiram diante do perseguidor.</verse>
 		<verse number="7">Nos dias de sua aflição e de seu desnorteio Jerusalém se lembra de todos os tesouros que lhe pertenciam nos tempos passados. Quando o seu povo caiu nas mãos do inimigo, ninguém veio ajudá-la. Seus inimigos olharam para ela e zombaram da sua queda.</verse>
 		<verse number="8">Jerusalém cometeu graves pecados; por isso tornou-se impura. Todos os que a honravam agora a desprezam, porque viram a sua nudez; ela mesma geme e se desvia deles.</verse>
-		<verse number="9">Sua impureza prende-se às suas saias; ela não esperava que chegaria o seu fim. Sua queda foi surpreendente; ninguém veio consolá-la. &quot;Olha, Senhor, para a minha aflição, pois o inimigo triunfou. &quot;</verse>
+		<verse number="9">Sua impureza prende-se às suas saias; ela não esperava que chegaria o seu fim. Sua queda foi surpreendente; ninguém veio consolá-la. "Olha, Senhor, para a minha aflição, pois o inimigo triunfou. "</verse>
 		<verse number="10">O adversário saqueia todos os seus tesouros; ela viu nações pagãs entrarem em seu santuário, sendo que tu as tinhas proibido de participar das tuas assembléias.</verse>
-		<verse number="11">Todo o seu povo se lamenta enquanto vai em busca de pão; e para sobreviverem, trocam os tesouros por comida. &quot;Olha, Senhor, e considera, pois tenho sido desprezada. &quot;</verse>
-		<verse number="12">&quot;Vocês não se comovem, todos vocês que passam por aqui? Olhem ao redor e vejam se há sofrimento maior do que o que me foi imposto e que o Senhor trouxe sobre mim no dia em que se acendeu a sua ira.</verse>
+		<verse number="11">Todo o seu povo se lamenta enquanto vai em busca de pão; e para sobreviverem, trocam os tesouros por comida. "Olha, Senhor, e considera, pois tenho sido desprezada. "</verse>
+		<verse number="12">"Vocês não se comovem, todos vocês que passam por aqui? Olhem ao redor e vejam se há sofrimento maior do que o que me foi imposto e que o Senhor trouxe sobre mim no dia em que se acendeu a sua ira.</verse>
 		<verse number="13">Do alto ele fez cair fogo sobre os meus ossos. Armou uma rede para os meus pés e me derrubou de costas. Deixou-me desolada, desfalecida o dia todo.</verse>
 		<verse number="14">Os meus pecados foram amarrados num jugo; suas mãos os ataram todos juntos, e os colocaram em meu pescoço; o Senhor abateu a minha força. Ele me entregou àqueles que não consigo vencer.</verse>
 		<verse number="15">O Senhor dispersou todos os guerreiros que me apoiavam; convocou um exército contra mim para destruir os meus jovens. O Senhor pisou no seu lagar a virgem, a cidade de Judá.</verse>
-		<verse number="16">É por isso que eu choro; as lágrimas inundam os meus olhos. Ninguém está por perto para consolar-me, não há ninguém que restaure o meu espírito. Meus filhos estão desamparados porque o inimigo prevaleceu. &quot;</verse>
+		<verse number="16">É por isso que eu choro; as lágrimas inundam os meus olhos. Ninguém está por perto para consolar-me, não há ninguém que restaure o meu espírito. Meus filhos estão desamparados porque o inimigo prevaleceu. "</verse>
 		<verse number="17">Sião estende as mãos suplicantes mas não há quem a console. O Senhor decretou que os vizinhos de Jacó se tornem seus adversários; Jerusalém tornou-se coisa imunda entre eles.</verse>
-		<verse number="18">&quot;O Senhor é justo, mas eu me rebelei contra a sua ordem. Ouçam, todos os povos; olhem para o meu sofrimento. Meus jovens e minhas moças foram para o exílio.</verse>
+		<verse number="18">"O Senhor é justo, mas eu me rebelei contra a sua ordem. Ouçam, todos os povos; olhem para o meu sofrimento. Meus jovens e minhas moças foram para o exílio.</verse>
 		<verse number="19">Chamei os meus aliados, mas eles me traíram. Meus sacerdotes e meus líderes pereceram na cidade, enquanto procuravam comida para poderem sobreviver.</verse>
 		<verse number="20">Veja, Senhor, como estou angustiada! Estou atormentada no íntimo, e no meu coração me perturbo pois tenho sido muito rebelde. Lá fora, a espada a todos consome; dentro impera a morte.</verse>
 		<verse number="21">Os meus lamentos têm sido ouvidos, mas não há ninguém que me console. Todos os meus inimigos sabem da minha agonia; eles se alegram com o que fizeste. Quem dera trouxesses o dia que anunciaste para que eles ficassem como eu.</verse>
-		<verse number="22">Que toda a maldade deles seja conhecida diante de ti; faze com eles o que fizeste comigo por causa de todos os meus pecados. Os meus gemidos são muitos e o meu coração desfalece. &quot;</verse>
+		<verse number="22">Que toda a maldade deles seja conhecida diante de ti; faze com eles o que fizeste comigo por causa de todos os meus pecados. Os meus gemidos são muitos e o meu coração desfalece. "</verse>
 	</chapter>
 	<chapter number="2">
 		<verse number="1">O Senhor cobriu a cidade de Sião com a nuvem da sua ira! Lançou por terra o esplendor de Israel, que se elevava para os céus; não se lembrou do estrado dos seus pés no dia da sua ira.</verse>
@@ -36,17 +36,17 @@
 		<verse number="9">Suas portas caíram por terra; suas trancas ele quebrou e destruiu. O seu rei e os seus líderes foram exilados para diferentes nações, e a lei já não existe; seus profetas já não recebem visões do Senhor.</verse>
 		<verse number="10">Os líderes da cidade de Sião sentam-se no chão em silêncio; despejam pó sobre a cabeça e usam vestes de lamento. As moças de Jerusalém inclinam a cabeça até o chão.</verse>
 		<verse number="11">Meus olhos estão cansados de chorar, minha alma está atormentada, meu coração se derrama, porque o meu povo está destruído, porque crianças e bebês desmaiam pelas ruas da cidade.</verse>
-		<verse number="12">&quot;Eles clamam às suas mães: Onde estão o pão e o vinho? &quot; Ao mesmo tempo em que desmaiam pelas ruas da cidade, como os feridos, e suas vidas se desvanecem nos braços de suas mães.</verse>
+		<verse number="12">"Eles clamam às suas mães: Onde estão o pão e o vinho? " Ao mesmo tempo em que desmaiam pelas ruas da cidade, como os feridos, e suas vidas se desvanecem nos braços de suas mães.</verse>
 		<verse number="13">Que posso dizer a seu favor? Com que posso compará-la, ó cidade de Jerusalém? Com que posso assemelhá-la, a fim de trazer-lhe consolo, ó virgem, ó cidade de Sião? Sua ferida é tão profunda quanto o oceano; quem pode curá-la?</verse>
 		<verse number="14">As visões dos seus profetas eram falsas e inúteis; eles não expuseram o seu pecado para evitar o seu cativeiro. As mensagens que eles lhe deram eram falsas e enganosas.</verse>
-		<verse number="15">Todos os que cruzam o seu caminho batem palmas; eles zombam e meneiam a cabeça diante da cidade de Jerusalém: &quot;É esta a cidade que era chamada, a perfeição da beleza, a alegria de toda a terra? &quot;</verse>
-		<verse number="16">Todos os seus inimigos escancaram a boca contra você; eles zombam, rangem os dentes e dizem: &quot;Nós a devoramos. Este é o dia que esperávamos; pois não é que vivemos até vê-lo chegar? &quot;</verse>
+		<verse number="15">Todos os que cruzam o seu caminho batem palmas; eles zombam e meneiam a cabeça diante da cidade de Jerusalém: "É esta a cidade que era chamada, a perfeição da beleza, a alegria de toda a terra? "</verse>
+		<verse number="16">Todos os seus inimigos escancaram a boca contra você; eles zombam, rangem os dentes e dizem: "Nós a devoramos. Este é o dia que esperávamos; pois não é que vivemos até vê-lo chegar? "</verse>
 		<verse number="17">O Senhor fez o que planejou; cumpriu a sua palavra, que há muito tinha decretado. Derrubou tudo sem piedade, permitiu que o inimigo zombasse de você, exaltou o poder dos seus adversários.</verse>
 		<verse number="18">O coração do povo clama ao Senhor. Ó muro da cidade de Sião, corram como um rio as suas lágrimas dia e noite; não se permita nenhum descanso nem dê repouso à menina dos seus olhos.</verse>
 		<verse number="19">Levante-se, grite no meio da noite, quando começam as vigílias noturnas; derrame o seu coração como água na presença do Senhor. Levante para ele as mãos em favor da vida de seus filhos, que desmaiam de fome nas esquinas de todas as ruas.</verse>
-		<verse number="20">&quot;Olha, Senhor, e considera: A quem o Senhor tratou dessa maneira? Deverão as mulheres comer os próprios filhos, as crianças de quem elas cuidaram? Deverão os profetas e os sacerdotes ser assassinados no santuário do Senhor?</verse>
+		<verse number="20">"Olha, Senhor, e considera: A quem o Senhor tratou dessa maneira? Deverão as mulheres comer os próprios filhos, as crianças de quem elas cuidaram? Deverão os profetas e os sacerdotes ser assassinados no santuário do Senhor?</verse>
 		<verse number="21">Jovens e velhos espalham-se em meio ao pó das ruas; meus jovens e minhas virgens caíram mortos à espada. Tu os sacrificaste no dia da tua ira; tu os mataste sem piedade.</verse>
-		<verse number="22">Como se faz convocação para um dia de festa, convocaste contra mim terrores por todos os lados. No dia da ira do Senhor, ninguém escapou nem sobreviveu; aqueles dos quais eu cuidava e os quais eu fiz crescer, o meu inimigo destruiu. &quot;</verse>
+		<verse number="22">Como se faz convocação para um dia de festa, convocaste contra mim terrores por todos os lados. No dia da ira do Senhor, ninguém escapou nem sobreviveu; aqueles dos quais eu cuidava e os quais eu fiz crescer, o meu inimigo destruiu. "</verse>
 	</chapter>
 	<chapter number="3">
 		<verse number="1">Eu sou o homem que viu a aflição trazida pela vara da sua ira.</verse>
@@ -66,7 +66,7 @@
 		<verse number="15">Fez-me comer ervas amargas e fartou-me de fel.</verse>
 		<verse number="16">Quebrou os meus dentes com pedras; e pisoteou-me no pó.</verse>
 		<verse number="17">Tirou-me a paz; esqueci-me do que significa prosperidade.</verse>
-		<verse number="18">Por isso digo: &quot;Meu esplendor já se foi, bem como tudo o que eu esperava do Senhor&quot;.</verse>
+		<verse number="18">Por isso digo: "Meu esplendor já se foi, bem como tudo o que eu esperava do Senhor".</verse>
 		<verse number="19">Lembro-me da minha aflição e do meu delírio, da minha amargura e do meu pesar.</verse>
 		<verse number="20">Lembro-me bem disso tudo, e a minha alma desfalece dentro de mim.</verse>
 		<verse number="21">Todavia, lembro-me também do que pode dar-me esperança:</verse>
@@ -90,12 +90,12 @@
 		<verse number="39">Como pode um homem reclamar quando é punido por seus pecados?</verse>
 		<verse number="40">Examinemos e submetamos à prova os nossos caminhos, e depois voltemos ao Senhor.</verse>
 		<verse number="41">Levantemos o coração e as mãos para Deus, que está nos céus, e digamos:</verse>
-		<verse number="42">&quot;Pecamos e nos rebelamos, e tu não nos perdoaste.</verse>
+		<verse number="42">"Pecamos e nos rebelamos, e tu não nos perdoaste.</verse>
 		<verse number="43">Tu te cobriste de ira e nos perseguiste, massacraste-nos sem piedade.</verse>
 		<verse number="44">Tu te escondeste atrás de uma nuvem para que nenhuma oração chegasse a ti.</verse>
 		<verse number="45">Tu nos tornaste escória e refugo entre as nações.</verse>
 		<verse number="46">Todos os nossos inimigos escancaram a boca contra nós.</verse>
-		<verse number="47">Sofremos terror e ciladas, ruína e destruição&quot;.</verse>
+		<verse number="47">Sofremos terror e ciladas, ruína e destruição".</verse>
 		<verse number="48">Rios de lágrimas correm dos meus ohos porque o meu povo foi destruído.</verse>
 		<verse number="49">Meus olhos choram sem parar, sem nenhum descanso,</verse>
 		<verse number="50">até que o Senhor contemple dos céus e veja.</verse>
@@ -104,8 +104,8 @@
 		<verse number="53">Procuraram fazer minha vida acabar na cova e me jogaram pedras;</verse>
 		<verse number="54">as águas me encobriram a cabeça, e cheguei a pensar que o fim de tudo tinha chegado.</verse>
 		<verse number="55">Clamei pelo teu nome, Senhor, das profundezas da cova.</verse>
-		<verse number="56">Tu ouviste o meu clamor: &quot;Não feches os teus ouvidos aos meus gritos de socorro&quot;.</verse>
-		<verse number="57">Tu te aproximaste quando a ti clamei, e disseste: &quot;Não tenha medo&quot;.</verse>
+		<verse number="56">Tu ouviste o meu clamor: "Não feches os teus ouvidos aos meus gritos de socorro".</verse>
+		<verse number="57">Tu te aproximaste quando a ti clamei, e disseste: "Não tenha medo".</verse>
 		<verse number="58">Senhor, tu assumiste a minha causa; e redimiste a minha vida.</verse>
 		<verse number="59">Tu tens visto, Senhor, o mal que me tem sido feito. Toma a teu cargo a minha causa!</verse>
 		<verse number="60">Tu viste como é terrível a vingança deles, todas as suas ciladas contra mim.</verse>
@@ -131,7 +131,7 @@
 		<verse number="12">Os reis da terra e os povos de todo o mundo, não acreditavam que os inimigos e os adversários pudessem entrar pelas portas de Jerusalém.</verse>
 		<verse number="13">Dentro da cidade foi derramado o sangue dos justos por causa do pecado dos seus profetas e das maldades dos seus sacerdotes.</verse>
 		<verse number="14">Hoje eles tateiam pelas ruas como cegos, e tão sujos de sangue estão, que ninguém ousa tocar em suas vestes.</verse>
-		<verse number="15">&quot;Vocês estão imundos! &quot;, o povo grita para eles. &quot;Afastem-se! Não nos toquem! &quot; Quando eles fogem e ficam vagando, os povos das outras nações dizem: &quot;Aqui eles não podem habitar&quot;.</verse>
+		<verse number="15">"Vocês estão imundos! ", o povo grita para eles. "Afastem-se! Não nos toquem! " Quando eles fogem e ficam vagando, os povos das outras nações dizem: "Aqui eles não podem habitar".</verse>
 		<verse number="16">O próprio Senhor os espalhou; ele já não cuida deles. Ninguém honra os sacerdotes nem respeita os líderes.</verse>
 		<verse number="17">Nossos olhos estão cansados de buscar ajuda em vão; de nossas torres buscávamos uma nação que não podia salvar-nos.</verse>
 		<verse number="18">Cada passo nosso era vigiado, de forma que não podíamos caminhar por nossas ruas. Nosso fim estava próximo, nossos dias estavam contados; o nosso fim já havia chegado.</verse>

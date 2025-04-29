@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="João" abbrev="jo" chapters="21">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="João" abbrev="jo" chapters="21" id="43" testament="NT" group="Evangelhos" version="ACF">
 	<chapter number="1">
 		<verse number="1">No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.</verse>
 		<verse number="2">Ele estava no princípio com Deus.</verse>

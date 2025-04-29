@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Amós" abbrev="am" chapters="9">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Amós" abbrev="am" chapters="9" id="30" testament="VT" group="Profetas Menores" version="AA">
 	<chapter number="1">
 		<verse number="1">As palavras de Amós, que estava entre os pastores de Tecoa, o que ele viu a respeito de Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.</verse>
 		<verse number="2">Disse ele: O Senhor brama de Sião, e de Jerusalém faz ouvir a sua voz; os prados dos pastores lamentam, seca-se o cume do Carmelo.</verse>

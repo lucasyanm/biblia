@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Eclesiastes" abbrev="ec" chapters="12">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Eclesiastes" abbrev="ec" chapters="12" id="21" testament="VT" group="Poéticos" version="NVI">
 	<chapter number="1">
 		<verse number="1">As palavras do Mestre, filho de Davi, rei em Jerusalém:</verse>
-		<verse number="2">&quot;Que grande inutilidade! &quot;, diz o Mestre. &quot;Que grande inutilidade! Nada faz sentido! &quot;</verse>
+		<verse number="2">"Que grande inutilidade! ", diz o Mestre. "Que grande inutilidade! Nada faz sentido! "</verse>
 		<verse number="3">O que o homem ganha com todo o seu trabalho em que tanto se esforça debaixo do sol?</verse>
 		<verse number="4">Gerações vêm e gerações vão, mas a terra permanece para sempre.</verse>
 		<verse number="5">O sol se levanta e o sol se põe, e depressa volta ao lugar de onde se levanta.</verse>
@@ -10,7 +10,7 @@
 		<verse number="7">Todos os rios vão para o mar, contudo o mar nunca se enche; ainda que sempre corram para lá, para lá voltam a correr.</verse>
 		<verse number="8">Todas as coisas trazem canseira. O homem não é capaz de descrevê-las; os olhos nunca se saciam de ver, nem os ouvidos de ouvir.</verse>
 		<verse number="9">O que foi tornará a ser, o que foi feito se fará novamente; não há nada novo debaixo do sol.</verse>
-		<verse number="10">Haverá algo de que se possa dizer: &quot;Veja! Isto é novo! &quot;? Não! Já existiu há muito tempo; bem antes da nossa época.</verse>
+		<verse number="10">Haverá algo de que se possa dizer: "Veja! Isto é novo! "? Não! Já existiu há muito tempo; bem antes da nossa época.</verse>
 		<verse number="11">Ninguém se lembra dos que viveram na antigüidade, e aqueles que ainda virão tampouco serão lembrados pelos que vierem depois deles.</verse>
 		<verse number="12">Eu, o mestre, fui rei de Israel em Jerusalém.</verse>
 		<verse number="13">Dediquei-me a investigar e a usar a sabedoria para explorar tudo que é feito debaixo do céu. Que fardo pesado Deus pôs sobre os homens!</verse>
@@ -80,7 +80,7 @@
 		<verse number="5">O tolo cruza os braços e destrói a própria vida.</verse>
 		<verse number="6">Melhor é ter um punhado com tranqüilidade do que dois punhados à custa de muito esforço e de correr atrás do vento.</verse>
 		<verse number="7">Descobri ainda outra situação absurda debaixo do sol:</verse>
-		<verse number="8">Havia um homem totalmente solitário; não tinha filho nem irmão. Trabalhava sem parar! Contudo, os seus olhos não se satisfaziam com a sua riqueza. Ele sequer perguntava: &quot;Para quem estou trabalhando tanto, e por que razão deixo de me divertir? &quot; Isso também é absurdo. É um trabalho muito ingrato!</verse>
+		<verse number="8">Havia um homem totalmente solitário; não tinha filho nem irmão. Trabalhava sem parar! Contudo, os seus olhos não se satisfaziam com a sua riqueza. Ele sequer perguntava: "Para quem estou trabalhando tanto, e por que razão deixo de me divertir? " Isso também é absurdo. É um trabalho muito ingrato!</verse>
 		<verse number="9">É melhor ter companhia do que estar sozinho, porque maior é a recompensa do trabalho de duas pessoas.</verse>
 		<verse number="10">Se um cair, o amigo pode ajudá-lo a levantar-se. Mas pobre do homem que cai e não tem quem o ajude a levantar-se!</verse>
 		<verse number="11">E se dois dormirem juntos, vão manter-se aquecidos. Como, porém, manter-se aquecido sozinho?</verse>
@@ -96,7 +96,7 @@
 		<verse number="3">Das muitas ocupações brotam sonhos; do muito falar nasce a prosa vã do tolo.</verse>
 		<verse number="4">Quando você fizer um voto, cumpra-o sem demora, pois os tolos desagradam a Deus; cumpra o seu voto.</verse>
 		<verse number="5">É melhor não fazer voto do que fazer e não cumprir.</verse>
-		<verse number="6">Não permita que a sua boca o faça pecar. E não diga ao mensageiro de Deus: &quot;O meu voto foi um engano&quot;. Por que irritar a Deus com o que você diz e deixá-lo destruir o que você realizou?</verse>
+		<verse number="6">Não permita que a sua boca o faça pecar. E não diga ao mensageiro de Deus: "O meu voto foi um engano". Por que irritar a Deus com o que você diz e deixá-lo destruir o que você realizou?</verse>
 		<verse number="7">Em meio a tantos sonhos, absurdos e conversas inúteis, tenha temor de Deus.</verse>
 		<verse number="8">Se você vir o pobre oprimido numa província e vir que lhe são negados o direito e a justiça, não fique surpreso; pois todo oficial está subordinado a alguém em posição superior, e sobre os dois há outros em posição ainda mais alta.</verse>
 		<verse number="9">Mesmo assim, é vantagem a nação ter um rei que a governe e que se interesse pela agricultura.</verse>
@@ -136,7 +136,7 @@
 		<verse number="7">A opressão transforma o sábio em tolo, e o suborno corrompe o coração.</verse>
 		<verse number="8">O fim das coisas é melhor do que o seu início, e o paciente é melhor que o orgulhoso.</verse>
 		<verse number="9">Não permita que a ira domine depressa o seu espírito, pois a ira se aloja no íntimo dos tolos.</verse>
-		<verse number="10">Não diga: &quot;Por que os dias do passado foram melhores que os de hoje? &quot; Pois não é sábio fazer tais perguntas.</verse>
+		<verse number="10">Não diga: "Por que os dias do passado foram melhores que os de hoje? " Pois não é sábio fazer tais perguntas.</verse>
 		<verse number="11">A sabedoria, como uma herança, é coisa boa e beneficia aqueles que vêem o sol.</verse>
 		<verse number="12">A sabedoria oferece proteção, como o faz o dinheiro, mas a vantagem do conhecimento é esta: a sabedoria preserva a vida de quem a possui.</verse>
 		<verse number="13">Considere o que Deus fez: Quem pode endireitar o que ele fez torto?</verse>
@@ -153,15 +153,15 @@
 		<verse number="24">A realidade está bem distante e é muito profunda; quem pode descobri-la?</verse>
 		<verse number="25">Por isso dediquei-me a aprender, a investigar, a buscar a sabedoria e a razão de ser das coisas, para compreender a insensatez da impiedade e a loucura da insensatez.</verse>
 		<verse number="26">Descobri que muito mais amarga do que a morte é a mulher que serve de laço, cujo coração é uma armadilha e cujas mãos são correntes. O homem que agrada a Deus escapará dela, mas ao pecador ela apanhará.</verse>
-		<verse number="27">&quot;Veja&quot;, diz o Mestre, &quot;foi isto que descobri: Ao comparar uma coisa com outra para descobrir a sua razão de ser,</verse>
+		<verse number="27">"Veja", diz o Mestre, "foi isto que descobri: Ao comparar uma coisa com outra para descobrir a sua razão de ser,</verse>
 		<verse number="28">sim, durante essa minha busca que ainda não terminou, entre mil homens, descobri apenas um que julgo digno, mas entre as mulheres não achei uma sequer.</verse>
-		<verse number="29">Assim, cheguei a esta conclusão: Deus fez os homens justos, mas eles foram em busca de muitas intrigas. &quot;</verse>
+		<verse number="29">Assim, cheguei a esta conclusão: Deus fez os homens justos, mas eles foram em busca de muitas intrigas. "</verse>
 	</chapter>
 	<chapter number="8">
 		<verse number="1">Quem é como o sábio? Quem sabe interpretar as coisas? A sabedoria de um homem Alcança o favor do rei e muda o seu semblante carregado.</verse>
 		<verse number="2">Este é o meu conselho: obedeça às ordens do rei porque você fez um juramento diante de Deus.</verse>
 		<verse number="3">Não se apresse em deixar a presença do rei, nem se levante em favor de uma causa errada, pois o rei faz o que bem entende.</verse>
-		<verse number="4">Pois a palavra do rei é soberana, e ninguém lhe pode perguntar: &quot;Que é que estás fazendo? &quot;</verse>
+		<verse number="4">Pois a palavra do rei é soberana, e ninguém lhe pode perguntar: "Que é que estás fazendo? "</verse>
 		<verse number="5">Quem obedece às suas ordens não sofrerá mal algum, pois o coração sábio saberá a hora e a maneira certa de agir.</verse>
 		<verse number="6">Pois há uma hora certa e também uma maneira certa de agir para cada situação. O sofrimento de um homem, no entanto, pesa muito sobre ele,</verse>
 		<verse number="7">visto que ninguém conhece o futuro. Quem lhe poderá dizer o que vai acontecer?</verse>
@@ -231,14 +231,14 @@
 		<verse number="10">Afaste do coração a ansiedade e acabe com o sofrimento do seu corpo, pois a juventude e o vigor são passageiros.</verse>
 	</chapter>
 	<chapter number="12">
-		<verse number="1">Lembre-se do seu Criador nos dias da sua juventude, antes que venham os dias difíceis e antes que se aproximem os anos em que você dirá: &quot;Não tenho satisfação neles&quot;;</verse>
+		<verse number="1">Lembre-se do seu Criador nos dias da sua juventude, antes que venham os dias difíceis e antes que se aproximem os anos em que você dirá: "Não tenho satisfação neles";</verse>
 		<verse number="2">antes que se escureçam o sol e a luz, a lua e as estrelas, e as nuvens voltem depois da chuva;</verse>
 		<verse number="3">quando os guardas da casa tremerem e os homens fortes caminharem encurvados, e pararem os moedores por serem poucos, e aqueles que olham pelas janelas enxergarem embaçado;</verse>
 		<verse number="4">quando as portas da rua forem fechadas e diminuir o som da moagem; quando o barulho das aves o fizer despertar, mas o som de todas as canções lhe parecer fraco;</verse>
 		<verse number="5">quando você tiver medo de altura, e dos perigos das ruas; quando florir a amendoeira, o gafanhoto for um peso e o desejo já não se despertar. Então o homem se vai para o seu lar eterno, e os pranteadores já vagueiam pelas ruas.</verse>
 		<verse number="6">Sim, lembre-se dele, antes que se rompa o cordão de prata, ou se quebre a taça de ouro; antes que o cântaro se despedace junto à fonte, a roda se quebre junto ao poço,</verse>
 		<verse number="7">o pó volte à terra, de onde veio, e o espírito volte a Deus, que o deu.</verse>
-		<verse number="8">&quot;Tudo sem sentido! Sem sentido! &quot;, diz o mestre. &quot;Nada faz sentido! Nada faz sentido! &quot;</verse>
+		<verse number="8">"Tudo sem sentido! Sem sentido! ", diz o mestre. "Nada faz sentido! Nada faz sentido! "</verse>
 		<verse number="9">Além de ser sábio, o mestre também ensinou conhecimento ao povo. Ele escutou, examinou e colecionou muitos provérbios.</verse>
 		<verse number="10">Procurou também encontrar as palavras certas, e o que ele escreveu era reto e verdadeiro.</verse>
 		<verse number="11">As palavras dos sábios são como aguilhões, a coleção dos seus ditos como pregos bem fixados, provenientes do único Pastor.</verse>

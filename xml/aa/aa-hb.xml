@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Hebreus" abbrev="hb" chapters="13">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Hebreus" abbrev="hb" chapters="13" id="58" testament="NT" group="Epístolas Universais" version="AA">
 	<chapter number="1">
 		<verse number="1">Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas,</verse>
 		<verse number="2">nestes últimos dias a nós nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas, e por quem fez também o mundo;</verse>

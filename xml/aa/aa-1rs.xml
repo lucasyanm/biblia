@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1º Reis" abbrev="1rs" chapters="22">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1º Reis" abbrev="1rs" chapters="22" id="11" testament="VT" group="Históricos" version="AA">
 	<chapter number="1">
 		<verse number="1">Ora, o rei Davi era já velho, de idade mui avançada; e por mais que o cobrissem de roupas não se aquecia.</verse>
 		<verse number="2">Disseram-lhe, pois, os seus servos: Busque-se para o rei meu senhor uma jovem donzela, que esteja perante o rei, e tenha cuidado dele; e durma no seu seio, para que o rei meu senhor se aqueça.</verse>
@@ -642,7 +642,7 @@
 		<verse number="7">Mas, decorridos alguns dias, o ribeiro secou, porque não tinha havido chuva na terra.</verse>
 		<verse number="8">Veio-lhe então a palavra do Senhor, dizendo:</verse>
 		<verse number="9">Levanta-te, vai para Sarepta, que pertence a Sidom, e habita ali; eis que eu ordenei a uma mulher viúva ali que te sustente.</verse>
-		<verse number="10">Levantou-se, pois, e foi para Sarepta. Chegando ele à porta da cidade, eis que estava ali uma mulher viúva apanhando lenha; ele a chamou e lhe disse: Traze-me, peço-te, num vaso um pouco d&#39;água, para eu beber.</verse>
+		<verse number="10">Levantou-se, pois, e foi para Sarepta. Chegando ele à porta da cidade, eis que estava ali uma mulher viúva apanhando lenha; ele a chamou e lhe disse: Traze-me, peço-te, num vaso um pouco d'água, para eu beber.</verse>
 		<verse number="11">Quando ela ia buscá-la, ele a chamou e lhe disse: Traze-me também um bocado de pão contigo.</verse>
 		<verse number="12">Ela, porém, respondeu: Vive o Senhor teu Deus, que não tenho nem um bolo, senão somente um punhado de farinha na vasilha, e um pouco de azeite na botija; e eis que estou apanhando uns dois gravetos, para ir prepará-lo para mim e para meu filho, a fim de que o comamos, e morramos.</verse>
 		<verse number="13">Ao que lhe disse Elias: Não temas; vai, faze como disseste; porém, faze disso primeiro para mim um bolo pequeno, e traze-mo aqui; depois o farás para ti e para teu filho.</verse>

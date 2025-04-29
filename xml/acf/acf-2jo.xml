@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª João" abbrev="2jo" chapters="1">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª João" abbrev="2jo" chapters="1" id="63" testament="NT" group="Epístolas Universais" version="ACF">
 	<chapter number="1">
 		<verse number="1">O ancião à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,</verse>
 		<verse number="2">Por amor da verdade que está em nós, e para sempre estará conosco:</verse>

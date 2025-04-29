@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1º Reis" abbrev="1rs" chapters="22">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1º Reis" abbrev="1rs" chapters="22" id="11" testament="VT" group="Históricos" version="ACF">
 	<chapter number="1">
 		<verse number="1">Sendo, pois, o rei Davi já velho, e entrado em dias, cobriam-no de roupas, porém não se aquecia.</verse>
 		<verse number="2">Então disseram-lhe os seus servos: Busquem para o rei meu senhor uma moça virgem, que esteja perante o rei, e tenha cuidado dele; e durma no seu seio, para que o rei meu senhor se aqueça.</verse>

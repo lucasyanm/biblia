@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Naum" abbrev="na" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Naum" abbrev="na" chapters="3" id="34" testament="VT" group="Profetas Menores" version="NVI">
 	<chapter number="1">
 		<verse number="1">Advertência contra Nínive. Livro da visão de Naum, de Elcós.</verse>
 		<verse number="2">O SENHOR é Deus zeloso e vingador! O SENHOR é vingador! Seu furor é terrível! O SENHOR executa vingança contra os seus adversários e manifesta o seu furor contra os seus inimigos.</verse>

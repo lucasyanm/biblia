@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Isaías" abbrev="is" chapters="66">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Isaías" abbrev="is" chapters="66" id="23" testament="VT" group="Profetas Maiores" version="ACF">
 	<chapter number="1">
 		<verse number="1">Visão de Isaías, filho de Amós, que ele teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz, e Ezequias, reis de Judá.</verse>
 		<verse number="2">Ouvi, ó céus, e dá ouvidos, tu, ó terra; porque o Senhor tem falado: Criei filhos, e engrandeci-os; mas eles se rebelaram contra mim.</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="3ª João" abbrev="3jo" chapters="1">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="3ª João" abbrev="3jo" chapters="1" id="64" testament="NT" group="Epístolas Universais" version="NVI">
 	<chapter number="1">
 		<verse number="1">O presbítero ao amado Gaio, a quem amo na verdade.</verse>
 		<verse number="2">Amado, oro para que você tenha boa saúde e tudo lhe corra bem, assim como vai bem a sua alma.</verse>

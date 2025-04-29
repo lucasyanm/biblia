@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Números" abbrev="nm" chapters="36">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Números" abbrev="nm" chapters="36" id="4" testament="VT" group="Pentateuco" version="AA">
 	<chapter number="1">
 		<verse number="1">Falou o Senhor a Moisés no deserto de Sinai, na tenda da revelação, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel da terra do Egito, dizendo:</verse>
 		<verse number="2">Tomai a soma de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo as casas de seus pais, conforme o número dos nomes de todo homem, cabeça por cabeça;</verse>

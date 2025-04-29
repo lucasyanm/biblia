@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Levítico" abbrev="lv" chapters="27">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Levítico" abbrev="lv" chapters="27" id="3" testament="VT" group="Pentateuco" version="AA">
 	<chapter number="1">
 		<verse number="1">Ora, chamou o Senhor a Moisés e, da tenda da revelação, lhe disse:</verse>
 		<verse number="2">Fala aos filhos de Israel e dize-lhes: Quando algum de vós oferecer oferta ao Senhor, oferecereis as vossas ofertas do gado, isto é, do gado vacum e das ovelhas.</verse>

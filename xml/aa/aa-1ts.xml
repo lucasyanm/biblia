@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Tessalonicenses" abbrev="1ts" chapters="5">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Tessalonicenses" abbrev="1ts" chapters="5" id="52" testament="NT" group="Epístolas Paulinas" version="AA">
 	<chapter number="1">
 		<verse number="1">Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus Pai e no Senhor Jesus Cristo: Graça e paz vos sejam dadas.</verse>
 		<verse number="2">Sempre damos graças a Deus por vós todos, fazendo menção de vós em nossas orações,</verse>

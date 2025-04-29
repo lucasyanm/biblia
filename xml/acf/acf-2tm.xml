@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="2ª Timóteo" abbrev="2tm" chapters="4">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="2ª Timóteo" abbrev="2tm" chapters="4" id="55" testament="NT" group="Epístolas Paulinas" version="ACF">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,</verse>
 		<verse number="2">A Timóteo, meu amado filho: Graça, misericórdia, e paz da parte de Deus Pai, e da de Cristo Jesus, Senhor nosso.</verse>

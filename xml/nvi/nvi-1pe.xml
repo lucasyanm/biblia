@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Pedro" abbrev="1pe" chapters="5">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Pedro" abbrev="1pe" chapters="5" id="60" testament="NT" group="Epístolas Universais" version="NVI">
 	<chapter number="1">
 		<verse number="1">Pedro, apóstolo de Jesus Cristo, aos eleitos de Deus, peregrinos dispersos no Ponto, na Galácia, na Capadócia, na província da Ásia e na Bitínia,</verse>
 		<verse number="2">escolhidos de acordo com a pré-conhecimento de Deus Pai, pela obra santificadora do Espírito, para a obediência a Jesus Cristo e a aspersão do seu sangue: Graça e paz lhes sejam multiplicadas.</verse>
@@ -16,7 +16,7 @@
 		<verse number="13">Portanto, estejam com a mente preparada, prontos para a ação; sejam sóbrios e coloquem toda a esperança na graça que lhes será dada quando Jesus Cristo for revelado.</verse>
 		<verse number="14">Como filhos obedientes, não se deixem amoldar pelos maus desejos de outrora, quando viviam na ignorância.</verse>
 		<verse number="15">Mas, assim como é santo aquele que os chamou, sejam santos vocês também em tudo o que fizerem,</verse>
-		<verse number="16">pois está escrito: &quot;Sejam santos, porque eu sou santo&quot;.</verse>
+		<verse number="16">pois está escrito: "Sejam santos, porque eu sou santo".</verse>
 		<verse number="17">Uma vez que vocês chamam Pai aquele que julga imparcialmente as obras de cada um, portem-se com temor durante a jornada terrena de vocês.</verse>
 		<verse number="18">Pois vocês sabem que não foi por meio de coisas perecíveis como prata ou ouro que vocês foram redimidos da sua maneira vazia de viver que lhes foi transmitida por seus antepassados,</verse>
 		<verse number="19">mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha e sem defeito,</verse>
@@ -24,8 +24,8 @@
 		<verse number="21">Por meio dele vocês crêem em Deus, que o ressuscitou dentre os mortos e o glorificou, de modo que a fé e a esperança de vocês estão em Deus.</verse>
 		<verse number="22">Agora que vocês purificaram as suas vidas pela obediência à verdade, visando ao amor fraternal e sincero, amem sinceramente uns aos outros e de todo o coração.</verse>
 		<verse number="23">Pois vocês foram regenerados, não de uma semente perecível, mas imperecível, por meio da palavra de Deus, viva e permanente.</verse>
-		<verse number="24">Pois, &quot;toda a humanidade é como a relva, e toda a sua glória, como a flor da relva; a relva murcha e cai a sua flor,</verse>
-		<verse number="25">mas a palavra do Senhor permanece para sempre&quot;. Essa é a palavra que lhes foi anunciada.</verse>
+		<verse number="24">Pois, "toda a humanidade é como a relva, e toda a sua glória, como a flor da relva; a relva murcha e cai a sua flor,</verse>
+		<verse number="25">mas a palavra do Senhor permanece para sempre". Essa é a palavra que lhes foi anunciada.</verse>
 	</chapter>
 	<chapter number="2">
 		<verse number="1">Livrem-se, pois, de toda maldade e de todo engano, hipocrisia, inveja e toda espécie de maledicência.</verse>
@@ -33,9 +33,9 @@
 		<verse number="3">agora que provaram que o Senhor é bom.</verse>
 		<verse number="4">À medida que se aproximam dele, a pedra viva — rejeitada pelos homens, mas escolhida por Deus e preciosa para ele —</verse>
 		<verse number="5">vocês também estão sendo utilizados como pedras vivas na edificação de uma casa espiritual para serem sacerdócio santo, oferecendo sacrifícios espirituais aceitáveis a Deus, por meio de Jesus Cristo.</verse>
-		<verse number="6">Pois assim é dito na Escritura: &quot;Eis que ponho em Sião uma pedra angular, escolhida e preciosa, e aquele que nela confia jamais será envergonhado&quot;.</verse>
-		<verse number="7">Portanto, para vocês, os que crêem, esta pedra é preciosa; mas para os que não crêem, &quot;a pedra que os construtores rejeitaram tornou-se a pedra angular&quot;,</verse>
-		<verse number="8">e, &quot;pedra de tropeço e rocha que faz cair&quot;. Os que não crêem tropeçam, porque desobedecem à mensagem; para o que também foram destinados.</verse>
+		<verse number="6">Pois assim é dito na Escritura: "Eis que ponho em Sião uma pedra angular, escolhida e preciosa, e aquele que nela confia jamais será envergonhado".</verse>
+		<verse number="7">Portanto, para vocês, os que crêem, esta pedra é preciosa; mas para os que não crêem, "a pedra que os construtores rejeitaram tornou-se a pedra angular",</verse>
+		<verse number="8">e, "pedra de tropeço e rocha que faz cair". Os que não crêem tropeçam, porque desobedecem à mensagem; para o que também foram destinados.</verse>
 		<verse number="9">Vocês, porém, são geração eleita, sacerdócio real, nação santa, povo exclusivo de Deus, para anunciar as grandezas daquele que os chamou das trevas para a sua maravilhosa luz.</verse>
 		<verse number="10">Antes vocês nem sequer eram povo, mas agora são povo de Deus; não haviam recebido misericórdia, mas agora a receberam.</verse>
 		<verse number="11">Amados, insisto em que, como estrangeiros e peregrinos no mundo, vocês se abstenham dos desejos carnais que guerreiam contra a alma.</verse>
@@ -49,7 +49,7 @@
 		<verse number="19">Porque é louvável que, por motivo de sua consciência para com Deus, alguém suporte aflições sofrendo injustamente.</verse>
 		<verse number="20">Pois que vantagem há em suportar açoites recebidos por terem cometido o mal? Mas se vocês suportam o sofrimento por terem feito o bem, isso é louvável diante de Deus.</verse>
 		<verse number="21">Para isso vocês foram chamados, pois também Cristo sofreu no lugar de vocês, deixando-lhes exemplo, para que sigam os seus passos.</verse>
-		<verse number="22">&quot;Ele não cometeu pecado algum, e nenhum engano foi encontrado em sua boca&quot;.</verse>
+		<verse number="22">"Ele não cometeu pecado algum, e nenhum engano foi encontrado em sua boca".</verse>
 		<verse number="23">Quando insultado, não revidava; quando sofria, não fazia ameaças, mas entregava-se àquele que julga com justiça.</verse>
 		<verse number="24">Ele mesmo levou em seu corpo os nossos pecados sobre o madeiro, a fim de que morrêssemos para os pecados e vivêssemos para a justiça; por suas feridas vocês foram curados.</verse>
 		<verse number="25">Pois vocês eram como ovelhas desgarradas, mas agora se converteram ao Pastor e Bispo de suas almas.</verse>
@@ -64,11 +64,11 @@
 		<verse number="7">Do mesmo modo vocês, maridos, sejam sábios no convívio com suas mulheres e tratem-nas com honra, como parte mais frágil e co-herdeiras do dom da graça da vida, de forma que não sejam interrompidas as suas orações.</verse>
 		<verse number="8">Quanto ao mais, tenham todos o mesmo modo de pensar, sejam compassivos, amem-se fraternalmente, sejam misericordiosos e humildes.</verse>
 		<verse number="9">Não retribuam mal com mal nem insulto com insulto; pelo contrário, bendigam; pois para isso vocês foram chamados, para receberem bênção por herança.</verse>
-		<verse number="10">Pois, &quot;quem quiser amar a vida e ver dias felizes, guarde a sua língua do mal e os seus lábios da falsidade.</verse>
+		<verse number="10">Pois, "quem quiser amar a vida e ver dias felizes, guarde a sua língua do mal e os seus lábios da falsidade.</verse>
 		<verse number="11">Afaste-se do mal e faça o bem; busque a paz com perseverança.</verse>
-		<verse number="12">Porque os olhos do Senhor estão sobre os justos e os seus ouvidos estão atentos à sua oração, mas o rosto do Senhor volta-se contra os que praticam o mal&quot;.</verse>
+		<verse number="12">Porque os olhos do Senhor estão sobre os justos e os seus ouvidos estão atentos à sua oração, mas o rosto do Senhor volta-se contra os que praticam o mal".</verse>
 		<verse number="13">Quem há de maltratá-los, se vocês forem zelosos na prática do bem?</verse>
-		<verse number="14">Todavia, mesmo que venham a sofrer porque praticam a justiça, vocês serão felizes. &quot;Não temam aquilo que eles temem, não fiquem amedrontados. &quot;</verse>
+		<verse number="14">Todavia, mesmo que venham a sofrer porque praticam a justiça, vocês serão felizes. "Não temam aquilo que eles temem, não fiquem amedrontados. "</verse>
 		<verse number="15">Antes, santifiquem Cristo como Senhor no coração. Estejam sempre preparados para responder a qualquer que lhes pedir a razão da esperança que há em vocês.</verse>
 		<verse number="16">Contudo, façam isso com mansidão e respeito, conservando boa consciência, de forma que os que falam maldosamente contra o bom procedimento de vocês, porque estão em Cristo, fiquem envergonhados de suas calúnias.</verse>
 		<verse number="17">É melhor sofrer por fazer o bem, se for da vontade de Deus, do que por fazer o mal.</verse>
@@ -96,7 +96,7 @@
 		<verse number="15">Se algum de vocês sofre, que não seja como assassino, ladrão, criminoso ou como quem se intromete em negócios alheios.</verse>
 		<verse number="16">Contudo, se sofre como cristão, não se envergonhe, mas glorifique a Deus por meio desse nome.</verse>
 		<verse number="17">Pois chegou a hora de começar o julgamento pela casa de Deus; e, se começa primeiro conosco, qual será o fim daqueles que não obedecem ao evangelho de Deus?</verse>
-		<verse number="18">E, &quot;se ao justo é difícil ser salvo, que será do ímpio e pecador? &quot;</verse>
+		<verse number="18">E, "se ao justo é difícil ser salvo, que será do ímpio e pecador? "</verse>
 		<verse number="19">Por isso mesmo, aqueles que sofrem de acordo com a vontade de Deus devem confiar suas vidas ao seu fiel Criador e praticar o bem.</verse>
 	</chapter>
 	<chapter number="5">
@@ -104,7 +104,7 @@
 		<verse number="2">Pastoreiem o rebanho de Deus que está aos seus cuidados. Olhem por ele, não por obrigação, mas de livre vontade, como Deus quer. Não façam isso por ganância, mas com o desejo de servir.</verse>
 		<verse number="3">Não ajam como dominadores dos que lhes foram confiados, mas como exemplos para o rebanho.</verse>
 		<verse number="4">Quando se manifestar o Supremo Pastor, vocês receberão a imperecível coroa da glória.</verse>
-		<verse number="5">Da mesma forma jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque &quot;Deus se opõe aos orgulhosos, mas concede graça aos humildes&quot;.</verse>
+		<verse number="5">Da mesma forma jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque "Deus se opõe aos orgulhosos, mas concede graça aos humildes".</verse>
 		<verse number="6">Portanto, humilhem-se debaixo da poderosa mão de Deus, para que ele os exalte no tempo devido.</verse>
 		<verse number="7">Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês.</verse>
 		<verse number="8">Sejam sóbrios e vigiem. O diabo, o inimigo de vocês, anda ao redor como leão, rugindo e procurando a quem possa devorar.</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Salmos" abbrev="sl" chapters="150">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Salmos" abbrev="sl" chapters="150" id="19" testament="VT" group="Poéticos" version="NVI">
 	<chapter number="1">
 		<verse number="1">Como é feliz aquele que não segue o conselho dos ímpios, não imita a conduta dos pecadores, nem se assenta na roda dos zombadores!</verse>
 		<verse number="2">Ao contrário, sua satisfação está na lei do Senhor, e nessa lei medita dia e noite.</verse>
@@ -11,20 +11,20 @@
 	<chapter number="2">
 		<verse number="1">Por que se amotinam as nações e os povos tramam em vão?</verse>
 		<verse number="2">Os reis da terra tomam posição e os governantes conspiram unidos contra o Senhor e contra o seu ungido, e dizem:</verse>
-		<verse number="3">&quot;Façamos em pedaços as suas correntes, lancemos de nós as suas algemas! &quot;</verse>
+		<verse number="3">"Façamos em pedaços as suas correntes, lancemos de nós as suas algemas! "</verse>
 		<verse number="4">Do seu trono nos céus o Senhor põe-se a rir e caçoa deles.</verse>
 		<verse number="5">Em sua ira os repreende e em seu furor os aterroriza, dizendo:</verse>
-		<verse number="6">&quot;Eu mesmo estabeleci o meu rei em Sião, no meu santo monte&quot;.</verse>
-		<verse number="7">Proclamarei o decreto do Senhor: Ele me disse: &quot;Tu és meu filho; eu hoje te gerei.</verse>
+		<verse number="6">"Eu mesmo estabeleci o meu rei em Sião, no meu santo monte".</verse>
+		<verse number="7">Proclamarei o decreto do Senhor: Ele me disse: "Tu és meu filho; eu hoje te gerei.</verse>
 		<verse number="8">Pede-me, e te darei as nações como herança e os confins da terra como tua propriedade.</verse>
-		<verse number="9">Tu as quebrarás com vara de ferro e as despedaçarás como a um vaso de barro&quot;.</verse>
+		<verse number="9">Tu as quebrarás com vara de ferro e as despedaçarás como a um vaso de barro".</verse>
 		<verse number="10">Por isso, ó reis, sejam prudentes; aceitem a advertência, autoridades da terra.</verse>
 		<verse number="11">Adorem ao Senhor com temor; exultem com tremor.</verse>
 		<verse number="12">Beijem o filho, para que ele não se ire e vocês não sejam destruídos de repente, pois num instante acende-se a sua ira. Como são felizes todos os que nele se refugiam!</verse>
 	</chapter>
 	<chapter number="3">
 		<verse number="1">Senhor, muitos são os meus adversários! Muitos se rebelam contra mim!</verse>
-		<verse number="2">São muitos os que dizem a meu respeito: &quot;Deus nunca o salvará! &quot; Pausa</verse>
+		<verse number="2">São muitos os que dizem a meu respeito: "Deus nunca o salvará! " Pausa</verse>
 		<verse number="3">Mas tu, Senhor, és o escudo que me protege; és a minha glória e me fazes andar de cabeça erguida.</verse>
 		<verse number="4">Ao Senhor clamo em alta voz, e do seu santo monte ele me responde. Pausa</verse>
 		<verse number="5">Eu me deito e durmo, e torno a acordar, porque é o Senhor que me sustém.</verse>
@@ -38,7 +38,7 @@
 		<verse number="3">Saibam que o Senhor escolheu o piedoso; o Senhor ouvirá quando eu o invocar.</verse>
 		<verse number="4">Quando vocês ficarem irados, não pequem; ao deitar-se reflitam nisso, e aquietem-se. Pausa</verse>
 		<verse number="5">Ofereçam sacrifícios como Deus exige e confiem no Senhor.</verse>
-		<verse number="6">Muitos perguntam: &quot;Quem nos fará desfrutar o bem? &quot; Faze, ó Senhor, resplandecer sobre nós a luz do teu rosto!</verse>
+		<verse number="6">Muitos perguntam: "Quem nos fará desfrutar o bem? " Faze, ó Senhor, resplandecer sobre nós a luz do teu rosto!</verse>
 		<verse number="7">Encheste o meu coração de alegria, alegria maior do que a daqueles que têm fartura de trigo e de vinho.</verse>
 		<verse number="8">Em paz me deito e logo adormeço, pois só tu, Senhor, me fazes viver em segurança.</verse>
 	</chapter>
@@ -126,14 +126,14 @@
 		<verse number="3">Ele se gaba de sua própria cobiça e, em sua ganância, amaldiçoa e insulta o Senhor.</verse>
 		<verse number="4">Em sua presunção o ímpio não o busca; não há lugar para Deus em nenhum dos seus planos.</verse>
 		<verse number="5">Os seus caminhos prosperam sempre; tão acima da sua compreensão estão as tuas leis que ele faz pouco caso de todos os seus adversários,</verse>
-		<verse number="6">pensando consigo mesmo: &quot;Nada me abalará! Desgraça alguma me atingirá, nem a mim nem aos meus descendentes&quot;.</verse>
+		<verse number="6">pensando consigo mesmo: "Nada me abalará! Desgraça alguma me atingirá, nem a mim nem aos meus descendentes".</verse>
 		<verse number="7">Sua boca está cheia de maldições, mentiras e ameaças; violência e maldade estão em sua língua.</verse>
 		<verse number="8">Fica à espreita perto dos povoados; em emboscadas mata os inocentes, procurando às escondidas as suas vítimas.</verse>
 		<verse number="9">Fica à espreita como o leão escondido; fica à espreita para apanhar o necessitado; apanha o necessitado e o arrasta para a sua rede.</verse>
 		<verse number="10">Agachado, fica de tocaia; as suas vítimas caem em seu poder.</verse>
-		<verse number="11">Pensa consigo mesmo: &quot;Deus se esqueceu; escondeu o rosto e nunca verá isto&quot;.</verse>
+		<verse number="11">Pensa consigo mesmo: "Deus se esqueceu; escondeu o rosto e nunca verá isto".</verse>
 		<verse number="12">Levanta-te, Senhor! Ergue a tua mão, ó Deus! Não te esqueças dos necessitados.</verse>
-		<verse number="13">Por que o ímpio insulta a Deus, dizendo no seu íntimo: &quot;De nada me pedirás contas! &quot;?</verse>
+		<verse number="13">Por que o ímpio insulta a Deus, dizendo no seu íntimo: "De nada me pedirás contas! "?</verse>
 		<verse number="14">Mas tu enxergas o sofrimento e a dor; observa-os para tomá-los em tuas mãos. A vítima deles entrega-se a ti; tu és o protetor do órfão.</verse>
 		<verse number="15">Quebra o braço do ímpio e do perverso, pede contas de sua impiedade até que dela nada mais se ache.</verse>
 		<verse number="16">O Senhor é rei para todo o sempre; da sua terra desapareceram os outros povos.</verse>
@@ -141,7 +141,7 @@
 		<verse number="18">Defendes o órfão e o oprimido, a fim de que o homem, que é pó, já não cause terror.</verse>
 	</chapter>
 	<chapter number="11">
-		<verse number="1">No Senhor me refugio. Como então vocês podem dizer-me: &quot;Fuja como um pássaro para os montes&quot;?</verse>
+		<verse number="1">No Senhor me refugio. Como então vocês podem dizer-me: "Fuja como um pássaro para os montes"?</verse>
 		<verse number="2">Vejam! Os ímpios preparam os seus arcos; colocam as flechas contra as cordas para das sombras as atirarem nos retos de coração.</verse>
 		<verse number="3">Quando os fundamentos estão sendo destruídos, que pode fazer o justo?</verse>
 		<verse number="4">O Senhor está no seu santo templo; o Senhor tem o seu trono nos céus. Seus olhos observam; seus olhos examinam os filhos dos homens.</verse>
@@ -153,8 +153,8 @@
 		<verse number="1">Salva-nos, Senhor! Já não há quem seja fiel; já não se confia em ninguém entre os homens.</verse>
 		<verse number="2">Cada um mente ao seu próximo; seus lábios bajuladores falam com segundas intenções.</verse>
 		<verse number="3">Que o Senhor corte todos os lábios bajuladores e toda língua arrogante</verse>
-		<verse number="4">dos que dizem: &quot;Venceremos graças à nossa língua; somos donos dos nossos lábios! Quem é senhor sobre nós? &quot;</verse>
-		<verse number="5">&quot;Por causa da opressão do necessitado e do gemido do pobre, agora me levantarei&quot;, diz o Senhor. &quot;Eu lhes darei a segurança que tanto anseiam. &quot;</verse>
+		<verse number="4">dos que dizem: "Venceremos graças à nossa língua; somos donos dos nossos lábios! Quem é senhor sobre nós? "</verse>
+		<verse number="5">"Por causa da opressão do necessitado e do gemido do pobre, agora me levantarei", diz o Senhor. "Eu lhes darei a segurança que tanto anseiam. "</verse>
 		<verse number="6">As palavras do Senhor são puras, são como prata purificada num forno, sete vezes refinada.</verse>
 		<verse number="7">Senhor, tu nos guardarás seguros, e dessa gente nos protegerás para sempre.</verse>
 		<verse number="8">Os ímpios andam altivos por toda parte, quando a corrupção é exaltada entre os homens.</verse>
@@ -163,12 +163,12 @@
 		<verse number="1">Até quando, Senhor? Para sempre te esquecerás de mim? Até quando esconderás de mim o teu rosto?</verse>
 		<verse number="2">Até quando terei inquietações e tristeza no coração dia após dia? Até quando o meu inimigo triunfará sobre mim?</verse>
 		<verse number="3">Olha para mim e responde, Senhor meu Deus. Ilumina os meus olhos, do contrário dormirei o sono da morte;</verse>
-		<verse number="4">os meus inimigos dirão: &quot;Eu o venci&quot;, e os meus adversários festejarão o meu fracasso.</verse>
+		<verse number="4">os meus inimigos dirão: "Eu o venci", e os meus adversários festejarão o meu fracasso.</verse>
 		<verse number="5">Eu, porém, confio em teu amor; o meu coração exulta em tua salvação.</verse>
 		<verse number="6">Quero cantar ao Senhor pelo bem que me tem feito.</verse>
 	</chapter>
 	<chapter number="14">
-		<verse number="1">Diz o tolo em seu coração: &quot;Deus não existe&quot;. Corromperam-se e cometeram atos detestáveis; não há ninguém que faça o bem.</verse>
+		<verse number="1">Diz o tolo em seu coração: "Deus não existe". Corromperam-se e cometeram atos detestáveis; não há ninguém que faça o bem.</verse>
 		<verse number="2">O Senhor olha dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.</verse>
 		<verse number="3">Todos se desviaram, igualmente se corromperam; não há ninguém que faça o bem, não há nem um sequer.</verse>
 		<verse number="4">Será que nenhum dos malfeitores aprende? Eles devoram o meu povo como quem come pão, e não clamam pelo Senhor!</verse>
@@ -185,7 +185,7 @@
 	</chapter>
 	<chapter number="16">
 		<verse number="1">Protege-me, ó Deus, pois em ti me refugio.</verse>
-		<verse number="2">Ao Senhor declaro: &quot;Tu és o meu Senhor; não tenho bem nenhum além de ti&quot;.</verse>
+		<verse number="2">Ao Senhor declaro: "Tu és o meu Senhor; não tenho bem nenhum além de ti".</verse>
 		<verse number="3">Quanto aos fiéis que há na terra, eles é que são os notáveis em quem está todo o meu prazer.</verse>
 		<verse number="4">Grande será o sofrimento dos que correm atrás de outros deuses. Não participarei dos seus sacrifícios de sangue, e os meus lábios nem mencionarão os seus nomes.</verse>
 		<verse number="5">Senhor, tu és a minha porção e o meu cálice; és tu que garantes o meu futuro.</verse>
@@ -315,7 +315,7 @@
 		<verse number="5">Clamaram a ti, e foram libertos; em ti confiaram, e não se decepcionaram.</verse>
 		<verse number="6">Mas eu sou verme, e não homem, motivo de zombaria e objeto de desprezo do povo.</verse>
 		<verse number="7">Caçoam de mim todos os que me vêem; balançando a cabeça, lançam insultos contra mim, dizendo:</verse>
-		<verse number="8">&quot;Recorra ao Senhor! Que o Senhor o liberte! Que ele o livre, já que lhe quer bem! &quot;</verse>
+		<verse number="8">"Recorra ao Senhor! Que o Senhor o liberte! Que ele o livre, já que lhe quer bem! "</verse>
 		<verse number="9">Contudo, tu mesmo me tiraste do ventre; deste-me segurança junto ao seio de minha mãe.</verse>
 		<verse number="10">Desde que nasci fui entregue a ti; desde o ventre materno és o meu Deus.</verse>
 		<verse number="11">Não fiques distante de mim, pois a angústia está perto e não há ninguém que me socorra.</verse>
@@ -406,7 +406,7 @@
 		<verse number="5">Pois no dia da adversidade ele me guardará protegido em sua habitação; no seu tabernáculo me esconderá e me porá em segurança sobre um rochedo.</verse>
 		<verse number="6">Então triunfarei sobre os inimigos que me cercam. Em seu tabernáculo oferecerei sacrifícios com aclamações; cantarei e louvarei ao Senhor.</verse>
 		<verse number="7">Ouve a minha voz quando clamo, ó Senhor; tem misericórdia de mim e responde-me.</verse>
-		<verse number="8">A teu respeito diz o meu coração: &quot;Busque a minha face! &quot; A tua face, Senhor, buscarei.</verse>
+		<verse number="8">A teu respeito diz o meu coração: "Busque a minha face! " A tua face, Senhor, buscarei.</verse>
 		<verse number="9">Não escondas de mim a tua face, não rejeites com ira o teu servo; tu tens sido o meu ajudador. Não me desampares nem me abandones, ó Deus, meu salvador!</verse>
 		<verse number="10">Ainda que me abandonem pai e mãe, o Senhor me acolherá.</verse>
 		<verse number="11">Ensina-me o teu caminho, Senhor; conduze-me por uma vereda segura por causa dos meus inimigos.</verse>
@@ -434,7 +434,7 @@
 		<verse number="6">Ele faz o Líbano saltar como bezerro, o Siriom como novilho selvagem.</verse>
 		<verse number="7">A voz do Senhor corta os céus com raios flamejantes.</verse>
 		<verse number="8">A voz do Senhor faz tremer o deserto; o Senhor faz tremer o deserto de Cades.</verse>
-		<verse number="9">A voz do Senhor retorce os carvalhos e despe as florestas. E no seu templo todos clamam: &quot;Glória! &quot;</verse>
+		<verse number="9">A voz do Senhor retorce os carvalhos e despe as florestas. E no seu templo todos clamam: "Glória! "</verse>
 		<verse number="10">O Senhor assentou-se soberano sobre o dilúvio; o Senhor reina soberano para sempre.</verse>
 		<verse number="11">O Senhor dá força ao seu povo; o Senhor dá a seu povo a bênção da paz.</verse>
 	</chapter>
@@ -444,11 +444,11 @@
 		<verse number="3">Senhor, tiraste-me da sepultura; prestes a descer à cova, devolveste-me à vida.</verse>
 		<verse number="4">Cantem louvores ao Senhor, vocês, os seus fiéis; louvem o seu santo nome.</verse>
 		<verse number="5">Pois a sua ira só dura um instante, mas o seu favor dura a vida toda; o choro pode persistir uma noite, mas de manhã irrompe a alegria.</verse>
-		<verse number="6">Quando me senti seguro, disse: &quot;Jamais serei abalado! &quot;</verse>
+		<verse number="6">Quando me senti seguro, disse: "Jamais serei abalado! "</verse>
 		<verse number="7">Senhor, com o teu favor, deste-me firmeza e estabilidade; mas, quando escondeste a tua face, fiquei aterrorizado.</verse>
 		<verse number="8">A ti, Senhor, clamei, ao Senhor pedi misericórdia:</verse>
-		<verse number="9">&quot;Se eu morrer, se eu descer à cova, que vantagem haverá? Acaso o pó te louvará? Proclamará a tua fidelidade?</verse>
-		<verse number="10">Ouve, Senhor, e tem misericórdia de mim; Senhor, sê tu o meu auxílio&quot;.</verse>
+		<verse number="9">"Se eu morrer, se eu descer à cova, que vantagem haverá? Acaso o pó te louvará? Proclamará a tua fidelidade?</verse>
+		<verse number="10">Ouve, Senhor, e tem misericórdia de mim; Senhor, sê tu o meu auxílio".</verse>
 		<verse number="11">Mudaste o meu pranto em dança, a minha veste de lamento em veste de alegria,</verse>
 		<verse number="12">para que o meu coração cante louvores a ti e não se cale. Senhor, meu Deus, eu te darei graças para sempre.</verse>
 	</chapter>
@@ -466,7 +466,7 @@
 		<verse number="11">Por causa de todos os meus adversários, sou motivo de ultraje para os meus vizinhos e de medo para os meus amigos; os que me vêem na rua fogem de mim.</verse>
 		<verse number="12">Sou esquecido por eles como se estivesse morto; tornei-me como um pote quebrado.</verse>
 		<verse number="13">Ouço muitos cochicharem a meu respeito; o pavor me domina, pois conspiram contra mim, tramando tirar-me a vida.</verse>
-		<verse number="14">Mas eu confio em ti, Senhor, e digo: &quot;Tu és o meu Deus&quot;.</verse>
+		<verse number="14">Mas eu confio em ti, Senhor, e digo: "Tu és o meu Deus".</verse>
 		<verse number="15">O meu futuro está nas tuas mãos; livra-me dos meus inimigos e daqueles que me perseguem.</verse>
 		<verse number="16">Faze o teu rosto resplandecer sobre o teu servo; salva-me por teu amor leal.</verse>
 		<verse number="17">Não permitas que eu seja humilhado, Senhor, pois tenho clamado a ti; mas que os ímpios sejam humilhados e calados fiquem no Sheol.</verse>
@@ -474,7 +474,7 @@
 		<verse number="19">Como é grande a tua bondade, que reservaste para aqueles que te temem, e que, à vista dos homens, concedes àqueles que se refugiam em ti!</verse>
 		<verse number="20">No abrigo da tua presença os escondes das intrigas dos homens; na tua habitação os proteges das línguas acusadoras.</verse>
 		<verse number="21">Bendito seja o Senhor, pois mostrou o seu maravilhoso amor para comigo quando eu estava numa cidade cercada.</verse>
-		<verse number="22">Alarmado, eu disse: &quot;Fui excluído da tua presença! &quot; Contudo, ouviste as minhas súplicas quando clamei a ti por socorro.</verse>
+		<verse number="22">Alarmado, eu disse: "Fui excluído da tua presença! " Contudo, ouviste as minhas súplicas quando clamei a ti por socorro.</verse>
 		<verse number="23">Amem o Senhor, todos vocês, os seus santos! O Senhor preserva os fiéis, mas aos arrogantes dá o que merecem.</verse>
 		<verse number="24">Sejam fortes e corajosos, todos vocês que esperam no Senhor!</verse>
 	</chapter>
@@ -483,7 +483,7 @@
 		<verse number="2">Como é feliz aquele a quem o Senhor não atribui culpa e em quem não há hipocrisia!</verse>
 		<verse number="3">Enquanto escondi os meus pecados, o meu corpo definhava de tanto gemer.</verse>
 		<verse number="4">Pois de dia e de noite a tua mão pesava sobre mim; minha força foi se esgotando como em tempo de seca. Pausa</verse>
-		<verse number="5">Então reconheci diante de ti o meu pecado e não encobri as minhas culpas. Eu disse: &quot;Confessarei as minhas transgressões ao Senhor&quot;, e tu perdoaste a culpa do meu pecado. Pausa</verse>
+		<verse number="5">Então reconheci diante de ti o meu pecado e não encobri as minhas culpas. Eu disse: "Confessarei as minhas transgressões ao Senhor", e tu perdoaste a culpa do meu pecado. Pausa</verse>
 		<verse number="6">Portanto, que todos os que são fiéis orem a ti enquanto podes ser encontrado; quando as muitas águas se levantarem, elas não os atingirão.</verse>
 		<verse number="7">Tu és o meu abrigo; tu me preservarás das angústias e me cercarás de canções de livramento. Pausa</verse>
 		<verse number="8">Eu o instruirei e o ensinarei no caminho que você deve seguir; eu o aconselharei e cuidarei de você.</verse>
@@ -542,14 +542,14 @@
 	<chapter number="35">
 		<verse number="1">Defende-me, Senhor, dos que me acusam; luta contra os que lutam comigo.</verse>
 		<verse number="2">Toma os escudos, o grande e o pequeno; levanta-te e vem socorrer-me.</verse>
-		<verse number="3">Empunha a lança e o machado de guerra contra os meus perseguidores. Dize à minha alma: &quot;Eu sou a sua salvação&quot;.</verse>
+		<verse number="3">Empunha a lança e o machado de guerra contra os meus perseguidores. Dize à minha alma: "Eu sou a sua salvação".</verse>
 		<verse number="4">Sejam humilhados e desprezados os que procuram matar-me; retrocedam envergonhados aqueles que tramam a minha ruína.</verse>
 		<verse number="5">Que eles sejam como a palha ao vento, quando o anjo do Senhor os expulsar;</verse>
 		<verse number="6">seja a vereda deles sombria e escorregadia, quando o anjo do Senhor os perseguir.</verse>
 		<verse number="7">Já que, sem motivo, prepararam contra mim uma armadilha oculta e, sem motivo, abriram uma cova para mim,</verse>
 		<verse number="8">que a ruína lhes sobrevenha de surpresa: sejam presos pela armadilha que prepararam, caiam na cova que abriram, para a sua própria ruína.</verse>
 		<verse number="9">Então a minha alma exultará no Senhor e se regozijará na sua salvação.</verse>
-		<verse number="10">Todo o meu ser exclamará: &quot;Quem se compara a ti, Senhor? Tu livras os necessitados daqueles que são mais poderosos do que eles, livras os necessitados e os pobres daqueles que os exploram&quot;.</verse>
+		<verse number="10">Todo o meu ser exclamará: "Quem se compara a ti, Senhor? Tu livras os necessitados daqueles que são mais poderosos do que eles, livras os necessitados e os pobres daqueles que os exploram".</verse>
 		<verse number="11">Testemunhas maldosas enfrentam-me e questionam-me sobre coisas de que nada sei.</verse>
 		<verse number="12">Elas me retribuem o bem com o mal e procuram tirar-me a vida.</verse>
 		<verse number="13">Contudo, quando estavam doentes, usei vestes de lamento, humilhei-me com jejum e recolhi-me em oração.</verse>
@@ -560,13 +560,13 @@
 		<verse number="18">Eu te darei graças na grande assembléia; no meio da grande multidão te louvarei.</verse>
 		<verse number="19">Não deixes que os meus inimigos traiçoeiros se divirtam à minha custa; não permitas que aqueles que sem razão me odeiam troquem olhares de desprezo.</verse>
 		<verse number="20">Não falam pacificamente, mas planejam acusações falsas contra os que vivem tranqüilamente na terra.</verse>
-		<verse number="21">Com a boca escancarada, riem de mim e me acusam: &quot;Nós vimos! Sabemos de tudo! &quot;</verse>
+		<verse number="21">Com a boca escancarada, riem de mim e me acusam: "Nós vimos! Sabemos de tudo! "</verse>
 		<verse number="22">Tu viste isso, Senhor! Não fiques calado. Não te afastes de mim, Senhor,</verse>
 		<verse number="23">Acorda! Desperta! Faze-me justiça! Defende a minha causa, meu Deus e Senhor.</verse>
 		<verse number="24">Senhor, meu Deus, tu és justo; faze-me justiça para que eles não se alegrem à minha custa.</verse>
-		<verse number="25">Não deixes que pensem: &quot;Ah! Era isso que queríamos! &quot;, nem que digam: &quot;Acabamos com ele! &quot;</verse>
+		<verse number="25">Não deixes que pensem: "Ah! Era isso que queríamos! ", nem que digam: "Acabamos com ele! "</verse>
 		<verse number="26">Sejam humilhados e frustrados todos os que se divertem à custa do meu sofrimento; cubram-se de vergonha e desonra todos os que se acham superiores a mim.</verse>
-		<verse number="27">Cantem de alegria e regozijo todos os que desejam ver provada a minha inocência, e sempre repitam: &quot;O Senhor seja engrandecido! Ele tem prazer no bem-estar do seu servo&quot;.</verse>
+		<verse number="27">Cantem de alegria e regozijo todos os que desejam ver provada a minha inocência, e sempre repitam: "O Senhor seja engrandecido! Ele tem prazer no bem-estar do seu servo".</verse>
 		<verse number="28">Minha língua proclamará a tua justiça e o teu louvor o dia inteiro.</verse>
 	</chapter>
 	<chapter number="36">
@@ -641,7 +641,7 @@
 		<verse number="13">Como um surdo, não ouço, como um mudo, não abro a boca.</verse>
 		<verse number="14">Fiz-me como quem não ouve, e em cuja boca não há resposta.</verse>
 		<verse number="15">Senhor, em ti espero; Tu me responderás, ó Senhor meu Deus!</verse>
-		<verse number="16">Pois eu disse: &quot;Não permitas que eles se divirtam à minha custa, nem triunfem sobre mim quando eu tropeçar&quot;.</verse>
+		<verse number="16">Pois eu disse: "Não permitas que eles se divirtam à minha custa, nem triunfem sobre mim quando eu tropeçar".</verse>
 		<verse number="17">Estou a ponto de cair, e a minha dor está sempre comigo.</verse>
 		<verse number="18">Confesso a minha culpa; em angústia estou por causa do meu pecado.</verse>
 		<verse number="19">Meus inimigos, porém, são muitos e poderosos; é grande o número dos que me odeiam sem motivo.</verse>
@@ -680,7 +680,7 @@
 		<verse number="13">Agrada-te, Senhor, em libertar-me; Apressa-te, Senhor, a ajudar-me.</verse>
 		<verse number="14">Sejam humilhados e frustrados todos os que procuram tirar-me a vida; retrocedam desprezados os que desejam a minha ruína.</verse>
 		<verse number="15">Fiquem chocados com a sua própria desgraça os que zombam de mim.</verse>
-		<verse number="16">Mas regozijem-se e alegrem-se em ti todos os que te buscam; digam sempre aqueles que amam a tua salvação: &quot;Grande é o Senhor! &quot;</verse>
+		<verse number="16">Mas regozijem-se e alegrem-se em ti todos os que te buscam; digam sempre aqueles que amam a tua salvação: "Grande é o Senhor! "</verse>
 		<verse number="17">Quanto a mim, sou pobre e necessitado, mas o Senhor preocupa-se comigo. Tu és o meu socorro e o meu libertador; meu Deus, não te demores!</verse>
 	</chapter>
 	<chapter number="41">
@@ -688,10 +688,10 @@
 		<verse number="2">O Senhor o protegerá e preservará a sua vida; ele o fará feliz na terra e não o entregará ao desejo dos seus inimigos.</verse>
 		<verse number="3">O Senhor o susterá em seu leito de enfermidade, e da doença o restaurará.</verse>
 		<verse number="4">Eu disse: Misericórdia, Senhor, cura-me, pois pequei contra ti.</verse>
-		<verse number="5">Os meus inimigos dizem maldosamente a meu respeito: &quot;Quando ele vai morrer? Quando vai desaparecer o seu nome? &quot;</verse>
+		<verse number="5">Os meus inimigos dizem maldosamente a meu respeito: "Quando ele vai morrer? Quando vai desaparecer o seu nome? "</verse>
 		<verse number="6">Sempre que alguém vem visitar-me, fala com falsidade, enche o coração de calúnias e depois sai espalhando-as.</verse>
 		<verse number="7">Todos os que me odeiam juntam-se e cochicham contra mim, imaginando que o pior me acontecerá:</verse>
-		<verse number="8">&quot;Uma praga terrível o derrubou; está de cama, e jamais se levantará&quot;.</verse>
+		<verse number="8">"Uma praga terrível o derrubou; está de cama, e jamais se levantará".</verse>
 		<verse number="9">Até o meu melhor amigo, em quem eu confiava e que partilhava do meu pão, voltou-se contra mim.</verse>
 		<verse number="10">Mas, tu, Senhor, tem misericórdia de mim; levanta-me, para que eu lhes retribua.</verse>
 		<verse number="11">Sei que me queres bem, pois o meu inimigo não triunfa sobre mim.</verse>
@@ -701,14 +701,14 @@
 	<chapter number="42">
 		<verse number="1">Como a corça anseia por águas correntes, a minha alma anseia por ti, ó Deus.</verse>
 		<verse number="2">A minha alma tem sede de Deus, do Deus vivo. Quando poderei entrar para apresentar-me a Deus?</verse>
-		<verse number="3">Minhas lágrimas têm sido o meu alimento de dia e de noite, pois me perguntam o tempo todo: &quot;Onde está o seu Deus? &quot;</verse>
+		<verse number="3">Minhas lágrimas têm sido o meu alimento de dia e de noite, pois me perguntam o tempo todo: "Onde está o seu Deus? "</verse>
 		<verse number="4">Quando me lembro destas coisas choro angustiado. Pois eu costumava ir com a multidão, conduzindo a procissão à casa de Deus, com cantos de alegria e de ação de graças entre a multidão que festejava.</verse>
 		<verse number="5">Por que você está assim tão triste, ó minha alma? Por que está assim tão perturbada dentro de mim? Ponha a sua esperança em Deus! Pois ainda o louvarei; ele é o meu Salvador e</verse>
 		<verse number="6">o meu Deus. A minha alma está profundamente triste; por isso de ti me lembro desde a terra do Jordão, das alturas do Hermom, desde o monte Mizar.</verse>
 		<verse number="7">Abismo chama abismo ao rugir das tuas cachoeiras; todas as tuas ondas e vagalhões se abateram sobre mim.</verse>
 		<verse number="8">Conceda-me o Senhor o seu fiel amor de dia; de noite esteja comigo a sua canção. É a minha oração ao Deus que me dá vida.</verse>
-		<verse number="9">Direi a Deus, minha Rocha: &quot;Por que te esqueceste de mim? Por que devo sair vagueando e pranteando, oprimido pelo inimigo? &quot;</verse>
-		<verse number="10">Até os meus ossos sofrem agonia mortal quando os meus adversários zombam de mim, perguntando-me o tempo todo: &quot;Onde está o seu Deus? &quot;</verse>
+		<verse number="9">Direi a Deus, minha Rocha: "Por que te esqueceste de mim? Por que devo sair vagueando e pranteando, oprimido pelo inimigo? "</verse>
+		<verse number="10">Até os meus ossos sofrem agonia mortal quando os meus adversários zombam de mim, perguntando-me o tempo todo: "Onde está o seu Deus? "</verse>
 		<verse number="11">Por que você está assim tão triste, ó minha alma? Por que está assim tão perturbada dentro de mim? Ponha a sua esperança em Deus! Pois ainda o louvarei; ele é o meu Salvador e o meu Deus.</verse>
 	</chapter>
 	<chapter number="43">
@@ -775,7 +775,7 @@
 		<verse number="7">O Senhor dos Exércitos está conosco; o Deus de Jacó é a nossa torre segura. Pausa</verse>
 		<verse number="8">Venham! Vejam as obras do Senhor, seus feitos estarrecedores na terra.</verse>
 		<verse number="9">Ele dá fim às guerras até os confins da terra; quebra o arco e despedaça a lança, destrói os escudos com fogo.</verse>
-		<verse number="10">&quot;Parem de lutar! Saibam que eu sou Deus! Serei exaltado entre as nações, serei exaltado na terra. &quot;</verse>
+		<verse number="10">"Parem de lutar! Saibam que eu sou Deus! Serei exaltado entre as nações, serei exaltado na terra. "</verse>
 		<verse number="11">O Senhor dos Exércitos está conosco; o Deus de Jacó é a nossa torre segura. Pausa</verse>
 	</chapter>
 	<chapter number="47">
@@ -823,7 +823,7 @@
 		<verse number="15">Mas Deus redimirá a minha vida da sepultura e me levará para si. Pausa</verse>
 		<verse number="16">Não se aborreça quando alguém se enriquece e aumenta o luxo de sua casa;</verse>
 		<verse number="17">pois nada levará consigo quando morrer; não descerá com ele o seu esplendor.</verse>
-		<verse number="18">Embora em vida ele se parabenize: &quot;Todos o elogiam, pois você está prosperando&quot;,</verse>
+		<verse number="18">Embora em vida ele se parabenize: "Todos o elogiam, pois você está prosperando",</verse>
 		<verse number="19">ele se juntará aos seus antepassados, que nunca mais verão a luz.</verse>
 		<verse number="20">O homem, mesmo que muito importante, não tem entendimento; é como os animais, que perecem.</verse>
 	</chapter>
@@ -832,9 +832,9 @@
 		<verse number="2">Desde Sião, perfeita em beleza, Deus resplandece.</verse>
 		<verse number="3">Nosso Deus vem! Certamente não ficará calado! À sua frente vai um fogo devorador, e, ao seu redor, uma violenta tempestade.</verse>
 		<verse number="4">Ele convoca os altos céus e a terra, para o julgamento do seu povo:</verse>
-		<verse number="5">&quot;Ajuntem os que me são fiéis, que, mediante sacrifício, fizeram aliança comigo&quot;.</verse>
+		<verse number="5">"Ajuntem os que me são fiéis, que, mediante sacrifício, fizeram aliança comigo".</verse>
 		<verse number="6">E os céus proclamam a sua justiça, pois o próprio Deus é o juiz. Pausa</verse>
-		<verse number="7">&quot;Ouça, meu povo, pois eu falarei; vou testemunhar contra você, Israel: eu sou Deus, o seu Deus.</verse>
+		<verse number="7">"Ouça, meu povo, pois eu falarei; vou testemunhar contra você, Israel: eu sou Deus, o seu Deus.</verse>
 		<verse number="8">Não o acuso pelos seus sacrifícios, nem pelos holocaustos, que você sempre me oferece.</verse>
 		<verse number="9">Não tenho necessidade de nenhum novilho dos seus estábulos, nem dos bodes dos seus currais,</verse>
 		<verse number="10">pois todos os animais da floresta são meus, como são as cabeças de gado aos milhares nas colinas.</verse>
@@ -842,15 +842,15 @@
 		<verse number="12">Se eu tivesse fome, precisaria dizer a você? Pois o mundo é meu, e tudo o que nele existe.</verse>
 		<verse number="13">Acaso como carne de touros ou bebo sangue de bodes?</verse>
 		<verse number="14">Ofereça a Deus em sacrifício a sua gratidão, cumpra os seus votos para com o Altíssimo,</verse>
-		<verse number="15">e clame a mim no dia da angústia; eu o livrarei, e você me honrará. &quot;</verse>
-		<verse number="16">Mas ao ímpio Deus diz: &quot;Que direito você tem de recitar as minhas leis ou de ficar repetindo a minha aliança?</verse>
+		<verse number="15">e clame a mim no dia da angústia; eu o livrarei, e você me honrará. "</verse>
+		<verse number="16">Mas ao ímpio Deus diz: "Que direito você tem de recitar as minhas leis ou de ficar repetindo a minha aliança?</verse>
 		<verse number="17">Pois você odeia a minha disciplina e dá as costas às minhas palavras!</verse>
 		<verse number="18">Você vê um ladrão, e já se torna seu cúmplice, e com adúlteros se mistura.</verse>
 		<verse number="19">Sua boca está cheia de maldade e a sua língua formula a fraude.</verse>
 		<verse number="20">Deliberadamente você fala contra o seu irmão e calunia o filho de sua própria mãe.</verse>
 		<verse number="21">Ficaria eu calado diante de tudo o que você tem feito? Você pensa que eu sou como você? Mas agora eu o acusarei diretamente, sem omitir coisa alguma.</verse>
-		<verse number="22">&quot;Considerem isto, vocês que se esquecem de Deus; caso contrário os despedaçarei, sem que ninguém os livre.</verse>
-		<verse number="23">Quem me oferece sua gratidão como sacrifício, honra-me, e eu mostrarei a salvação de Deus ao que anda nos meus caminhos. &quot;</verse>
+		<verse number="22">"Considerem isto, vocês que se esquecem de Deus; caso contrário os despedaçarei, sem que ninguém os livre.</verse>
+		<verse number="23">Quem me oferece sua gratidão como sacrifício, honra-me, e eu mostrarei a salvação de Deus ao que anda nos meus caminhos. "</verse>
 	</chapter>
 	<chapter number="51">
 		<verse number="1">Tem misericórdia de mim, ó Deus, por teu amor; por tua grande compaixão apaga as minhas transgressões.</verse>
@@ -880,12 +880,12 @@
 		<verse number="4">Você ama toda palavra maldosa, ó língua mentirosa!</verse>
 		<verse number="5">Saiba que Deus o arruinará para sempre: Ele o agarrará e o arrancará da sua tenda; ele o desarraigará da terra dos vivos. Pausa</verse>
 		<verse number="6">Os justos verão isso e temerão; rirão dele, dizendo:</verse>
-		<verse number="7">&quot;Veja só o homem que rejeitou a Deus como refúgio; confiou em sua grande riqueza e buscou refúgio em sua maldade! &quot;</verse>
+		<verse number="7">"Veja só o homem que rejeitou a Deus como refúgio; confiou em sua grande riqueza e buscou refúgio em sua maldade! "</verse>
 		<verse number="8">Mas eu sou como uma oliveira que floresce na casa de Deus; confio no amor de Deus para todo o sempre.</verse>
 		<verse number="9">Para sempre te louvarei pelo que fizeste; na presença dos teus fiéis proclamarei o teu nome, porque tu és bom.</verse>
 	</chapter>
 	<chapter number="53">
-		<verse number="1">Diz o tolo em seu coração: &quot;Deus não existe! &quot; Corromperam-se e cometeram injustiças detestáveis; não há ninguém que faça o bem.</verse>
+		<verse number="1">Diz o tolo em seu coração: "Deus não existe! " Corromperam-se e cometeram injustiças detestáveis; não há ninguém que faça o bem.</verse>
 		<verse number="2">Deus olha lá dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.</verse>
 		<verse number="3">Todos se desviaram, igualmente se corromperam; não há ninguém que faça o bem, não há nem um sequer.</verse>
 		<verse number="4">Será que os malfeitores não aprendem? Eles devoram o meu povo como quem come pão, e não clamam a Deus!</verse>
@@ -907,9 +907,9 @@
 		<verse number="3">diante do barulho do inimigo, diante da gritaria dos ímpios; pois aumentam o meu sofrimento e, irados, mostram seu rancor.</verse>
 		<verse number="4">O meu coração está acelerado; os pavores da morte me assaltam.</verse>
 		<verse number="5">Temor e tremor me dominam; o medo tomou conta de mim.</verse>
-		<verse number="6">Então eu disse: &quot;Quem dera eu tivesse asas como a pomba; voaria até encontrar repouso!</verse>
+		<verse number="6">Então eu disse: "Quem dera eu tivesse asas como a pomba; voaria até encontrar repouso!</verse>
 		<verse number="7">Sim, eu fugiria para bem longe, e no deserto eu teria o meu abrigo. Pausa</verse>
-		<verse number="8">Eu me apressaria em achar refúgio longe do vendaval e da tempestade&quot;.</verse>
+		<verse number="8">Eu me apressaria em achar refúgio longe do vendaval e da tempestade".</verse>
 		<verse number="9">Destrói os ímpios, Senhor, confunde a língua deles, pois vejo violência e brigas na cidade.</verse>
 		<verse number="10">Dia e noite eles rondam por seus muros; nela permeiam o crime e a maldade.</verse>
 		<verse number="11">A destruição impera na cidade; a opressão e a fraude jamais deixam suas ruas.</verse>
@@ -965,7 +965,7 @@
 		<verse number="8">Sejam como a lesma que se derrete pelo caminho; como feto abortado, não vejam eles o sol!</verse>
 		<verse number="9">Os ímpios serão varridos antes que as suas panelas sintam o calor da lenha, esteja ela verde ou seca.</verse>
 		<verse number="10">Os justos se alegrarão quando forem vingados, quando banharem seus pés no sangue dos ímpios.</verse>
-		<verse number="11">Então os homens comentarão: &quot;De fato os justos têm a sua recompensa; com certeza há um Deus que faz justiça na terra&quot;.</verse>
+		<verse number="11">Então os homens comentarão: "De fato os justos têm a sua recompensa; com certeza há um Deus que faz justiça na terra".</verse>
 	</chapter>
 	<chapter number="59">
 		<verse number="1">Livra-me dos meus inimigos, ó Deus; põe-me fora do alcance dos meus agressores.</verse>
@@ -974,7 +974,7 @@
 		<verse number="4">Mesmo que de nada eu tenha culpa, eles se preparam às pressas para atacar-me. Levanta-te para ajudar-me; olha para a situação em que me encontro!</verse>
 		<verse number="5">Ó Senhor, Deus dos Exércitos, ó Deus de Israel! Desperta para castigar todas as nações; não tenhas misericórdia dos traidores perversos. Pausa</verse>
 		<verse number="6">Eles voltam ao cair da tarde, rosnando como cães e rondando a cidade.</verse>
-		<verse number="7">Vê que ameaças saem de suas bocas; seus lábios são como espadas, e dizem: &quot;Quem nos ouvirá? &quot;</verse>
+		<verse number="7">Vê que ameaças saem de suas bocas; seus lábios são como espadas, e dizem: "Quem nos ouvirá? "</verse>
 		<verse number="8">Mas tu, Senhor, vais rir deles; caçoarás de todas aquelas nações.</verse>
 		<verse number="9">Ó tu, minha força, por ti vou aguardar; tu, ó Deus, és o meu alto refúgio.</verse>
 		<verse number="10">O meu Deus fiel virá ao meu encontro e permitirá que eu triunfe sobre os meus inimigos.</verse>
@@ -992,9 +992,9 @@
 		<verse number="3">Fizeste passar o teu povo por tempos difíceis; deste-nos um vinho estonteante.</verse>
 		<verse number="4">Mas aos que te temem deste um sinal para que fugissem das flechas. Pausa</verse>
 		<verse number="5">Salva-nos com a tua mão direita e responde-nos, para que sejam libertos aqueles a quem amas.</verse>
-		<verse number="6">Do seu santuário Deus falou: &quot;No meu triunfo dividirei Siquém e repartirei o vale de Sucote.</verse>
+		<verse number="6">Do seu santuário Deus falou: "No meu triunfo dividirei Siquém e repartirei o vale de Sucote.</verse>
 		<verse number="7">Gileade é minha, Manassés também; Efraim é o meu capacete, Judá é o meu cetro.</verse>
-		<verse number="8">Moabe é a pia em que me lavo, em Edom atiro a minha sandália; sobre a Filístia dou meu brado de vitória! &quot;</verse>
+		<verse number="8">Moabe é a pia em que me lavo, em Edom atiro a minha sandália; sobre a Filístia dou meu brado de vitória! "</verse>
 		<verse number="9">Quem me levará à cidade fortificada? Quem me guiará a Edom?</verse>
 		<verse number="10">Não foste tu, ó Deus, que nos rejeitaste e deixaste de sair com os nossos exércitos?</verse>
 		<verse number="11">Dá-nos ajuda contra os adversários, pois inútil é o socorro do homem.</verse>
@@ -1042,8 +1042,8 @@
 		<verse number="2">Defende-me da conspiração dos ímpios e da ruidosa multidão de malfeitores.</verse>
 		<verse number="3">Eles afiam a língua como espada e apontam como flechas, palavras envenenadas.</verse>
 		<verse number="4">De onde estão emboscados atiram no homem íntegro; atiram de surpresa, sem qualquer temor.</verse>
-		<verse number="5">Animam-se uns aos outros com planos malignos, combinam como ocultar as suas armadilhas, e dizem: &quot;Quem as verá? &quot;</verse>
-		<verse number="6">Tramam a injustiça e dizem: &quot;Fizemos um plano perfeito! &quot; A mente e o coração de cada um deles o encobrem!</verse>
+		<verse number="5">Animam-se uns aos outros com planos malignos, combinam como ocultar as suas armadilhas, e dizem: "Quem as verá? "</verse>
+		<verse number="6">Tramam a injustiça e dizem: "Fizemos um plano perfeito! " A mente e o coração de cada um deles o encobrem!</verse>
 		<verse number="7">Mas Deus atirará neles suas flechas; repentinamente serão atingidos.</verse>
 		<verse number="8">Pelas próprias palavras farão cair uns aos outros; menearão a cabeça e zombarão deles todos os que os virem.</verse>
 		<verse number="9">Todos os homens temerão, proclamarão as obras de Deus, refletindo no que ele fez.</verse>
@@ -1067,8 +1067,8 @@
 	<chapter number="66">
 		<verse number="1">Aclamem a Deus, povos de toda terra!</verse>
 		<verse number="2">Cantem louvores ao seu glorioso nome; louvem-no gloriosamente!</verse>
-		<verse number="3">Digam a Deus: &quot;Quão temíveis são os teus feitos! Tão grande é o teu poder que os teus inimigos rastejam diante de ti!</verse>
-		<verse number="4">Toda a terra te adora e canta louvores a ti, canta louvores ao teu nome&quot;. Pausa</verse>
+		<verse number="3">Digam a Deus: "Quão temíveis são os teus feitos! Tão grande é o teu poder que os teus inimigos rastejam diante de ti!</verse>
+		<verse number="4">Toda a terra te adora e canta louvores a ti, canta louvores ao teu nome". Pausa</verse>
 		<verse number="5">Venham e vejam o que Deus tem feito; como são impressionantes as suas obras em favor dos homens!</verse>
 		<verse number="6">Ele transformou o mar em terra seca, e o povo atravessou as águas a pé; e ali nos alegramos nele.</verse>
 		<verse number="7">Ele governa para sempre com o seu poder, seus olhos vigiam as nações; que os rebeldes não se levantem contra ele! Pausa</verse>
@@ -1107,8 +1107,8 @@
 		<verse number="9">Deste chuvas generosas, ó Deus; refrescaste a tua herança exausta.</verse>
 		<verse number="10">O teu povo nela se instalou, e da tua bondade, ó Deus, supriste os pobres.</verse>
 		<verse number="11">O Senhor anunciou a palavra, e muitos mensageiros a proclamavam:</verse>
-		<verse number="12">&quot;Reis e exércitos fogem em debandada; a dona de casa reparte os despojos.</verse>
-		<verse number="13">Mesmo quando vocês dormem entre as fogueiras do acampamento, as asas da minha pomba estão recobertas de prata, as suas penas, de ouro reluzente&quot;.</verse>
+		<verse number="12">"Reis e exércitos fogem em debandada; a dona de casa reparte os despojos.</verse>
+		<verse number="13">Mesmo quando vocês dormem entre as fogueiras do acampamento, as asas da minha pomba estão recobertas de prata, as suas penas, de ouro reluzente".</verse>
 		<verse number="14">Quando o Todo-poderoso espalhou os reis, foi como neve no monte Zalmom.</verse>
 		<verse number="15">Os montes de Basã são majestosos; escarpados são os montes de Basã.</verse>
 		<verse number="16">Por que, ó montes escarpados, estão com inveja do monte que Deus escolheu para sua habitação, onde o próprio Senhor habitará para sempre?</verse>
@@ -1117,8 +1117,8 @@
 		<verse number="19">Bendito seja o Senhor, Deus, nosso Salvador, que cada dia suporta as nossas cargas. Pausa</verse>
 		<verse number="20">O nosso Deus é um Deus que salva; ele é o Soberano Senhor que nos livra da morte.</verse>
 		<verse number="21">Certamente Deus esmagará a cabeça dos seus inimigos, o crânio cabeludo dos que persistem em seus pecados.</verse>
-		<verse number="22">&quot;Eu os trarei de Basã&quot;, diz o Senhor, &quot;eu os trarei das profundezas do mar,</verse>
-		<verse number="23">para que você encharque os pés no sangue dos inimigos, sangue do qual a língua dos cães terá a sua porção. &quot;</verse>
+		<verse number="22">"Eu os trarei de Basã", diz o Senhor, "eu os trarei das profundezas do mar,</verse>
+		<verse number="23">para que você encharque os pés no sangue dos inimigos, sangue do qual a língua dos cães terá a sua porção. "</verse>
 		<verse number="24">Já se vê a tua marcha triunfal, ó Deus, a marcha do meu Deus e Rei adentrando o santuário.</verse>
 		<verse number="25">À frente estão os cantores, depois os músicos; com eles vão as jovens tocando tamborins.</verse>
 		<verse number="26">Bendigam a Deus na grande congregação! Bendigam o Senhor, descendentes de Israel!</verse>
@@ -1174,7 +1174,7 @@
 		<verse number="1">Livra-me, ó Deus! Apressa-te, Senhor, a ajudar-me!</verse>
 		<verse number="2">Sejam humilhados e frustrados os que procuram tirar-me a vida; retrocedam desprezados os que desejam a minha ruína.</verse>
 		<verse number="3">Retrocedam em desgraça os que zombam de mim.</verse>
-		<verse number="4">Mas regozijem-se e alegrem-se em ti todos os que te buscam; digam sempre os que amam a tua salvação: &quot;Como Deus é grande! &quot;</verse>
+		<verse number="4">Mas regozijem-se e alegrem-se em ti todos os que te buscam; digam sempre os que amam a tua salvação: "Como Deus é grande! "</verse>
 		<verse number="5">Quanto a mim, sou pobre e necessitado; apressa-te, ó Deus. Tu és o meu socorro e o meu libertador; Senhor, não te demores!</verse>
 	</chapter>
 	<chapter number="71">
@@ -1188,7 +1188,7 @@
 		<verse number="8">Do teu louvor transborda a minha boca, que o tempo todo proclama o teu esplendor.</verse>
 		<verse number="9">Não me rejeites na minha velhice; não me abandones quando se vão as minhas forças.</verse>
 		<verse number="10">Pois os meus inimigos me caluniam; os que estão à espreita juntam-se e planejam matar-me.</verse>
-		<verse number="11">&quot;Deus o abandonou&quot;, dizem eles; &quot;persigam-no e prendam-no, pois ninguém o livrará&quot;. -</verse>
+		<verse number="11">"Deus o abandonou", dizem eles; "persigam-no e prendam-no, pois ninguém o livrará". -</verse>
 		<verse number="12">Não fiques longe de mim, ó Deus; ó meu Deus, apressa-te em ajudar-me.</verse>
 		<verse number="13">Pereçam humilhados os meus acusadores; sejam cobertos de zombaria e vergonha os que querem prejudicar-me.</verse>
 		<verse number="14">Mas eu sempre terei esperança e te louvarei cada vez mais.</verse>
@@ -1236,11 +1236,11 @@
 		<verse number="8">Eles zombam e falam com más intenções; em sua arrogância ameaçam com opressão.</verse>
 		<verse number="9">Com a boca arrogam a si os céus, e com a língua se apossam da terra.</verse>
 		<verse number="10">Por isso o seu povo se volta para eles e bebem suas palavras até saciar-se.</verse>
-		<verse number="11">Eles dizem: &quot;Como saberá Deus? Terá conhecimento o Altíssimo? &quot;</verse>
+		<verse number="11">Eles dizem: "Como saberá Deus? Terá conhecimento o Altíssimo? "</verse>
 		<verse number="12">Assim são os ímpios; sempre despreocupados, aumentam suas riquezas.</verse>
 		<verse number="13">Certamente foi-me inútil manter puro o coração e lavar as mãos na inocência,</verse>
 		<verse number="14">pois o dia inteiro sou afligido, e todas as manhãs sou castigado.</verse>
-		<verse number="15">Se eu tivesse dito &quot;falarei com eles&quot;, teria traído os teus filhos.</verse>
+		<verse number="15">Se eu tivesse dito "falarei com eles", teria traído os teus filhos.</verse>
 		<verse number="16">Quando tentei entender tudo isso, achei muito difícil para mim,</verse>
 		<verse number="17">até que entrei no santuário de Deus, e então compreendi o destino dos ímpios.</verse>
 		<verse number="18">Certamente os pões em terreno escorregadio e os fazes cair na ruína.</verse>
@@ -1263,7 +1263,7 @@
 		<verse number="5">Pareciam homens armados com machados invadindo um bosque cerrado.</verse>
 		<verse number="6">Com seus machados e machadinhas esmigalharam todos os revestimentos de madeira esculpida.</verse>
 		<verse number="7">Atearam fogo ao teu santuário; profanaram o lugar da habitação do teu nome.</verse>
-		<verse number="8">Disseram no coração: &quot;Vamos acabar com eles! &quot; Queimaram todos os santuários do país.</verse>
+		<verse number="8">Disseram no coração: "Vamos acabar com eles! " Queimaram todos os santuários do país.</verse>
 		<verse number="9">Já não vemos sinais miraculosos; não há mais profetas, e nenhum de nós sabe até quando isso continuará.</verse>
 		<verse number="10">Até quando o adversário irá zombar, ó Deus? Será que o inimigo blasfemará o teu nome para sempre?</verse>
 		<verse number="11">Por que reténs a tua mão, a tua mão direita? Não fiques de braços cruzados! Destrói-os!</verse>
@@ -1282,10 +1282,10 @@
 	</chapter>
 	<chapter number="75">
 		<verse number="1">Damos-te graças, ó Deus, damos graças, pois perto está o teu nome; todos falam dos teus feitos maravilhosos.</verse>
-		<verse number="2">Tu dizes: &quot;Eu determino o tempo em que julgarei com justiça.</verse>
+		<verse number="2">Tu dizes: "Eu determino o tempo em que julgarei com justiça.</verse>
 		<verse number="3">Quando treme a terra com todos os seus habitantes, sou eu que mantenho firmes as suas colunas. Pausa</verse>
 		<verse number="4">Aos arrogantes digo: ‘Parem de vangloriar-se! ’ E aos ímpios: ‘Não se rebelem!</verse>
-		<verse number="5">Não se rebelem contra os céus; não falem com insolência’ &quot;.</verse>
+		<verse number="5">Não se rebelem contra os céus; não falem com insolência’ ".</verse>
 		<verse number="6">Não é do Oriente nem do Ocidente nem do deserto que vem a exaltação.</verse>
 		<verse number="7">É Deus quem julga: Humilha a um, a outro exalta.</verse>
 		<verse number="8">Na mão do Senhor está um cálice cheio de vinho espumante e misturado; ele o derrama, e todos os ímpios da terra o bebem até a última gota.</verse>
@@ -1313,9 +1313,9 @@
 		<verse number="4">Não me permites fechar os olhos; tão inquieto estou que não consigo falar.</verse>
 		<verse number="5">Fico a pensar nos dias que se foram, nos anos há muito passados;</verse>
 		<verse number="6">de noite recordo minhas canções. O meu coração medita, e o meu espírito pergunta:</verse>
-		<verse number="7">&quot;Irá o Senhor rejeitar-nos para sempre? Jamais tornará a mostrar-nos o seu favor?</verse>
+		<verse number="7">"Irá o Senhor rejeitar-nos para sempre? Jamais tornará a mostrar-nos o seu favor?</verse>
 		<verse number="8">Desapareceu para sempre o seu amor? Acabou-se a sua promessa?</verse>
-		<verse number="9">Esqueceu-se Deus de ser misericordioso? Em sua ira refreou sua compaixão? &quot; Pausa</verse>
+		<verse number="9">Esqueceu-se Deus de ser misericordioso? Em sua ira refreou sua compaixão? " Pausa</verse>
 		<verse number="10">Então pensei: a razão da minha dor é que a mão direita do Altíssimo não age mais.</verse>
 		<verse number="11">Recordarei os feitos do Senhor; recordarei os teus antigos milagres.</verse>
 		<verse number="12">Meditarei em todas as tuas obras e considerarei todos os teus feitos.</verse>
@@ -1347,8 +1347,8 @@
 		<verse number="16">da pedra fez sair regatos e fluir água como um rio.</verse>
 		<verse number="17">Mas contra ele continuaram a pecar, revoltando-se no deserto contra o Altíssimo.</verse>
 		<verse number="18">Deliberadamente puseram Deus à prova, exigindo o que desejavam comer.</verse>
-		<verse number="19">Duvidaram de Deus, dizendo: &quot;Poderá Deus preparar uma mesa no deserto?</verse>
-		<verse number="20">Sabemos que quando ele feriu a rocha a água brotou e jorrou em torrentes. Mas conseguirá também dar-nos de comer? Poderá suprir de carne o seu povo? &quot;</verse>
+		<verse number="19">Duvidaram de Deus, dizendo: "Poderá Deus preparar uma mesa no deserto?</verse>
+		<verse number="20">Sabemos que quando ele feriu a rocha a água brotou e jorrou em torrentes. Mas conseguirá também dar-nos de comer? Poderá suprir de carne o seu povo? "</verse>
 		<verse number="21">O Senhor os ouviu e enfureceu-se; atacou Jacó com fogo, e sua ira levantou-se contra Israel,</verse>
 		<verse number="22">pois eles não creram em Deus nem confiaram no seu poder salvador.</verse>
 		<verse number="23">Contudo, ele deu ordens às nuvens e abriu as portas dos céus;</verse>
@@ -1412,7 +1412,7 @@
 		<verse number="7">pois devoraram Jacó, deixando em ruínas a sua terra.</verse>
 		<verse number="8">Não cobres de nós as maldades dos nossos antepassados; venha depressa ao nosso encontro a tua misericórdia, pois estamos totalmente desanimados!</verse>
 		<verse number="9">Ajuda-nos, ó Deus, nosso Salvador, para a glória do teu nome; livra-nos e perdoa os nossos pecados, por amor do teu nome.</verse>
-		<verse number="10">Por que as nações haverão de dizer: &quot;Onde está o Deus deles? &quot; Diante dos nossos olhos, mostra às nações a tua vingança pelo sangue dos teus servos.</verse>
+		<verse number="10">Por que as nações haverão de dizer: "Onde está o Deus deles? " Diante dos nossos olhos, mostra às nações a tua vingança pelo sangue dos teus servos.</verse>
 		<verse number="11">Cheguem à tua presença os gemidos dos prisioneiros. Pela força do teu braço preserva os condenados à morte.</verse>
 		<verse number="12">Retribui sete vezes mais aos nossos vizinhos as afrontas com que te insultaram, Senhor!</verse>
 		<verse number="13">Então nós, o teu povo, as ovelhas das tuas pastagens, para sempre te louvaremos; de geração em geração cantaremos os teus louvores.</verse>
@@ -1444,33 +1444,33 @@
 		<verse number="3">Toquem a trombeta na lua nova e no dia de lua cheia, dia da nossa festa;</verse>
 		<verse number="4">porque este é um decreto para Israel, uma ordenança do Deus de Jacó,</verse>
 		<verse number="5">que ele estabeleceu como estatuto para José, quando atacou o Egito. Ali ouvimos uma língua que não conhecíamos.</verse>
-		<verse number="6">Ele diz: &quot;Tirei o peso dos seus ombros; suas mãos ficaram livres dos cestos de cargas.</verse>
+		<verse number="6">Ele diz: "Tirei o peso dos seus ombros; suas mãos ficaram livres dos cestos de cargas.</verse>
 		<verse number="7">Na sua aflição vocês clamaram e eu os livrei, do esconderijo dos trovões lhes respondi; eu os pus à prova nas águas de Meribá. Pausa</verse>
-		<verse number="8">&quot;Ouça, meu povo, as minhas advertências; se tão-somente você me escutasse, ó Israel!</verse>
+		<verse number="8">"Ouça, meu povo, as minhas advertências; se tão-somente você me escutasse, ó Israel!</verse>
 		<verse number="9">Não tenha deus estrangeiro no seu meio; não se incline perante nenhum deus estranho.</verse>
 		<verse number="10">Eu sou o Senhor, o seu Deus, que o tirei da terra do Egito. Abra a sua boca, e eu o alimentarei.</verse>
-		<verse number="11">&quot;Mas o meu povo não quis ouvir-me; Israel não quis obedecer-me.</verse>
+		<verse number="11">"Mas o meu povo não quis ouvir-me; Israel não quis obedecer-me.</verse>
 		<verse number="12">Por isso os entreguei ao seu coração obstinado, para seguirem os seus próprios planos.</verse>
-		<verse number="13">&quot;Se o meu povo apenas me ouvisse, se Israel seguisse os meus caminhos,</verse>
+		<verse number="13">"Se o meu povo apenas me ouvisse, se Israel seguisse os meus caminhos,</verse>
 		<verse number="14">com rapidez eu subjugaria os seus inimigos e voltaria a minha mão contra os seus adversários!</verse>
 		<verse number="15">Os que odeiam o Senhor se renderiam diante dele, e receberiam um castigo perpétuo.</verse>
-		<verse number="16">Mas eu sustentaria Israel com o melhor trigo, e com o mel da rocha eu o satisfaria&quot;.</verse>
+		<verse number="16">Mas eu sustentaria Israel com o melhor trigo, e com o mel da rocha eu o satisfaria".</verse>
 	</chapter>
 	<chapter number="82">
 		<verse number="1">É Deus quem preside na assembléia divina; no meio dos deuses, ele é o juiz.</verse>
-		<verse number="2">&quot;Até quando vocês vão absolver os culpados e favorecer os ímpios? Pausa</verse>
+		<verse number="2">"Até quando vocês vão absolver os culpados e favorecer os ímpios? Pausa</verse>
 		<verse number="3">Garantam justiça para os fracos e para os órfãos; mantenham os direitos dos necessitados e dos oprimidos.</verse>
 		<verse number="4">Livrem os fracos e os pobres; libertem-nos das mãos dos ímpios.</verse>
 		<verse number="5">Nada sabem, nada entendem. Vagueiam pelas trevas; todos os fundamentos da terra estão abalados.</verse>
 		<verse number="6">Eu disse: vocês são deuses, todos vocês são filhos do Altíssimo.</verse>
-		<verse number="7">Mas vocês morrerão como simples homens; cairão como qualquer outro governante. &quot;</verse>
+		<verse number="7">Mas vocês morrerão como simples homens; cairão como qualquer outro governante. "</verse>
 		<verse number="8">Levanta-te, ó Deus, julga a terra, pois todas as nações te pertencem</verse>
 	</chapter>
 	<chapter number="83">
 		<verse number="1">Ó Deus, não te emudeças; não fiques em silêncio nem te detenhas, ó Deus.</verse>
 		<verse number="2">Vê como se agitam os teus inimigos, como os teus adversários te desafiam de cabeça erguida.</verse>
 		<verse number="3">Com astúcia conspiram contra o teu povo; tramam contra aqueles que são o teu tesouro.</verse>
-		<verse number="4">Eles dizem: &quot;Venham, vamos destruí-los como nação, para que o nome de Israel não seja mais lembrado! &quot;</verse>
+		<verse number="4">Eles dizem: "Venham, vamos destruí-los como nação, para que o nome de Israel não seja mais lembrado! "</verse>
 		<verse number="5">Com um só propósito tramam juntos; é contra ti que fazem acordo</verse>
 		<verse number="6">as tendas de Edom e os ismaelitas, Moabe e os hagarenos,</verse>
 		<verse number="7">Gebal, Amom e Amaleque, a Filístia, com os habitantes de Tiro.</verse>
@@ -1478,7 +1478,7 @@
 		<verse number="9">Trata-os como trataste Midiã, como trataste Sísera e Jabim no rio Quisom,</verse>
 		<verse number="10">os quais morreram em En-Dor e se tornaram esterco para a terra.</verse>
 		<verse number="11">Faze com os seus nobres o que fizeste com Orebe e Zeebe, e com todos os seus príncipes o que fizeste com Zeba e Zalmuna,</verse>
-		<verse number="12">que disseram: &quot;Vamos apossar-nos das pastagens de Deus&quot;.</verse>
+		<verse number="12">que disseram: "Vamos apossar-nos das pastagens de Deus".</verse>
 		<verse number="13">Faze-os como folhas secas levadas no redemoinho, ó meu Deus, como palha ao vento.</verse>
 		<verse number="14">Assim como o fogo consome a floresta e as chamas incendeiam os montes,</verse>
 		<verse number="15">persegue-os com o teu vendaval e aterroriza-os com a tua tempestade.</verse>
@@ -1538,10 +1538,10 @@
 		<verse number="1">Ele edificou sua cidade sobre o monte santo;</verse>
 		<verse number="2">o Senhor ama as portas de Sião mais do que qualquer outro lugar de Jacó.</verse>
 		<verse number="3">Coisas gloriosas são ditas de ti, ó cidade de Deus! Pausa</verse>
-		<verse number="4">&quot;Entre os que me reconhecem incluirei Raabe e Babilônia, além da Filístia, de Tiro, e também da Etiópia, como se tivessem nascido em Sião. &quot;</verse>
-		<verse number="5">De fato, acerca de Sião se dirá: &quot;Todos estes nasceram nela, e o próprio Altíssimo a estabelecerá&quot;.</verse>
-		<verse number="6">O Senhor escreverá no registro dos povos: &quot;Este nasceu ali&quot;. Pausa</verse>
-		<verse number="7">Com danças e cânticos, dirão: &quot;Em Sião estão as nossas origens! &quot;</verse>
+		<verse number="4">"Entre os que me reconhecem incluirei Raabe e Babilônia, além da Filístia, de Tiro, e também da Etiópia, como se tivessem nascido em Sião. "</verse>
+		<verse number="5">De fato, acerca de Sião se dirá: "Todos estes nasceram nela, e o próprio Altíssimo a estabelecerá".</verse>
+		<verse number="6">O Senhor escreverá no registro dos povos: "Este nasceu ali". Pausa</verse>
+		<verse number="7">Com danças e cânticos, dirão: "Em Sião estão as nossas origens! "</verse>
 	</chapter>
 	<chapter number="88">
 		<verse number="1">Ó Senhor, Deus que me salva, a ti clamo dia e noite.</verse>
@@ -1566,8 +1566,8 @@
 	<chapter number="89">
 		<verse number="1">Cantarei para sempre o amor do Senhor; com minha boca anunciarei a tua fidelidade por todas as gerações.</verse>
 		<verse number="2">Sei que firme está o teu amor para sempre, e que firmaste nos céus a tua fidelidade.</verse>
-		<verse number="3">Tu disseste: &quot;Fiz aliança com o meu escolhido, jurei ao meu servo Davi:</verse>
-		<verse number="4">Estabelecerei a tua linhagem para sempre e firmarei o teu trono por todas as gerações&quot;. Pausa</verse>
+		<verse number="3">Tu disseste: "Fiz aliança com o meu escolhido, jurei ao meu servo Davi:</verse>
+		<verse number="4">Estabelecerei a tua linhagem para sempre e firmarei o teu trono por todas as gerações". Pausa</verse>
 		<verse number="5">Os céus louvam as tuas maravilhas, Senhor, e a tua fidelidade na assembléia dos santos.</verse>
 		<verse number="6">Pois, quem nos céus poderá comparar-se ao Senhor? Quem dentre os seres celestiais assemelha-se ao Senhor?</verse>
 		<verse number="7">Na assembléia dos santos Deus é temível, mais do que todos os que o rodeiam.</verse>
@@ -1582,7 +1582,7 @@
 		<verse number="16">Sem cessar exultam no teu nome, e alegram-se na tua retidão,</verse>
 		<verse number="17">pois tu és a nossa glória e a nossa força, e pelo teu favor exaltas a nossa força.</verse>
 		<verse number="18">Sim, Senhor, tu és o nosso escudo, ó Santo de Israel, tu és o nosso rei.</verse>
-		<verse number="19">Numa visão falaste um dia, e aos teus fiéis disseste: &quot;Cobri de forças um guerreiro, exaltei um homem escolhido dentre o povo.</verse>
+		<verse number="19">Numa visão falaste um dia, e aos teus fiéis disseste: "Cobri de forças um guerreiro, exaltei um homem escolhido dentre o povo.</verse>
 		<verse number="20">Encontrei o meu servo Davi; ungi-o com o meu óleo sagrado.</verse>
 		<verse number="21">A minha mão o susterá, e o meu braço o fará forte.</verse>
 		<verse number="22">Nenhum inimigo o sujeitará a tributos; nenhum injusto o oprimirá.</verse>
@@ -1600,7 +1600,7 @@
 		<verse number="34">Não violarei a minha aliança nem modificarei as promessas dos meus lábios.</verse>
 		<verse number="35">De uma vez para sempre jurei pela minha santidade, e não mentirei a Davi,</verse>
 		<verse number="36">que a sua linhagem permanecerá para sempre, e o seu trono durará como o sol;</verse>
-		<verse number="37">e será estabelecido para sempre como a lua, a fiel testemunha no céu&quot;. Pausa</verse>
+		<verse number="37">e será estabelecido para sempre como a lua, a fiel testemunha no céu". Pausa</verse>
 		<verse number="38">Mas tu o rejeitaste, recusaste-o e te enfureceste com o teu ungido.</verse>
 		<verse number="39">Revogaste a aliança com o teu servo e desonraste a sua coroa, lançando-a ao chão.</verse>
 		<verse number="40">Derrubaste todos os seus muros e reduziste a ruínas as suas fortalezas.</verse>
@@ -1620,7 +1620,7 @@
 	<chapter number="90">
 		<verse number="1">Senhor, tu és o nosso refúgio, sempre, de geração em geração.</verse>
 		<verse number="2">Antes de nascerem os montes e de criares a terra e o mundo, de eternidade a eternidade tu és Deus.</verse>
-		<verse number="3">Fazes os homens voltarem ao pó, dizendo: &quot;Retornem ao pó, seres humanos! &quot;</verse>
+		<verse number="3">Fazes os homens voltarem ao pó, dizendo: "Retornem ao pó, seres humanos! "</verse>
 		<verse number="4">De fato, mil anos para ti são como o dia de ontem que passou, como as horas da noite.</verse>
 		<verse number="5">Como uma correnteza, tu arrastas os homens; são breves como o sono; são como a relva que brota ao amanhecer;</verse>
 		<verse number="6">germina e brota pela manhã, mas, à tarde, murcha e seca.</verse>
@@ -1650,9 +1650,9 @@
 		<verse number="11">Porque a seus anjos ele dará ordens a seu respeito, para que o protejam em todos os seus caminhos;</verse>
 		<verse number="12">com as mãos eles o segurarão, para que você não tropece em alguma pedra.</verse>
 		<verse number="13">Você pisará o leão e a cobra; pisoteará o leão forte e a serpente.</verse>
-		<verse number="14">&quot;Porque ele me ama, eu o resgatarei; eu o protegerei, pois conhece o meu nome.</verse>
+		<verse number="14">"Porque ele me ama, eu o resgatarei; eu o protegerei, pois conhece o meu nome.</verse>
 		<verse number="15">Ele clamará a mim, e eu lhe darei resposta, e na adversidade estarei com ele; vou livrá-lo e cobri-lo de honra.</verse>
-		<verse number="16">Vida longa eu lhe darei, e lhe mostrarei a minha salvação. &quot;</verse>
+		<verse number="16">Vida longa eu lhe darei, e lhe mostrarei a minha salvação. "</verse>
 	</chapter>
 	<chapter number="92">
 		<verse number="1">Como é bom render graças ao Senhor e cantar louvores ao teu nome, ó Altíssimo,</verse>
@@ -1685,7 +1685,7 @@
 		<verse number="4">Eles despejam palavras arrogantes, todos esses malfeitores enchem-se de vanglória.</verse>
 		<verse number="5">Massacram o teu povo, Senhor, e oprimem a tua herança;</verse>
 		<verse number="6">matam as viúvas e os estrangeiros, assassinam os órfãos,</verse>
-		<verse number="7">e ainda dizem: &quot;O Senhor não nos vê; o Deus de Jacó nada percebe&quot;.</verse>
+		<verse number="7">e ainda dizem: "O Senhor não nos vê; o Deus de Jacó nada percebe".</verse>
 		<verse number="8">Insensatos, procurem entender! E vocês, tolos, quando se tornarão sábios?</verse>
 		<verse number="9">Será que quem fez o ouvido não ouve? Será que quem formou o olho não vê?</verse>
 		<verse number="10">Aquele que disciplina as nações os deixará sem castigo? Não tem sabedoria aquele que dá ao homem o conhecimento?</verse>
@@ -1696,7 +1696,7 @@
 		<verse number="15">Voltará a haver justiça nos julgamentos, e todos os retos de coração a seguirão.</verse>
 		<verse number="16">Quem se levantará a meu favor contra os ímpios? Quem ficará a meu lado contra os malfeitores?</verse>
 		<verse number="17">Não fosse a ajuda do Senhor, eu já estaria habitando no silêncio.</verse>
-		<verse number="18">Quando eu disse: &quot;Os meus pés escorregaram&quot;, o teu amor leal, Senhor, me amparou!</verse>
+		<verse number="18">Quando eu disse: "Os meus pés escorregaram", o teu amor leal, Senhor, me amparou!</verse>
 		<verse number="19">Quando a ansiedade já me dominava no íntimo, o teu consolo trouxe alívio à minha alma.</verse>
 		<verse number="20">Poderá um trono corrupto estar em aliança contigo?, um trono que faz injustiças em nome da lei?</verse>
 		<verse number="21">Eles planejam contra a vida dos justos e condenam os inocentes à morte.</verse>
@@ -1713,8 +1713,8 @@
 		<verse number="7">pois ele é o nosso Deus, e nós somos o povo do seu pastoreio, o rebanho que ele conduz. Hoje, se vocês ouvirem a sua voz,</verse>
 		<verse number="8">não endureçam o coração, como em Meribá, como aquele dia em Massá, no deserto,</verse>
 		<verse number="9">onde os seus antepassados me tentaram, pondo-me à prova, apesar de terem visto o que eu fiz.</verse>
-		<verse number="10">Durante quarenta anos fiquei irado contra aquela geração e disse: &quot;Eles são um povo de coração ingrato; não reconheceram os meus caminhos&quot;.</verse>
-		<verse number="11">Por isso jurei na minha ira: &quot;Jamais entrarão no meu descanso&quot;.</verse>
+		<verse number="10">Durante quarenta anos fiquei irado contra aquela geração e disse: "Eles são um povo de coração ingrato; não reconheceram os meus caminhos".</verse>
+		<verse number="11">Por isso jurei na minha ira: "Jamais entrarão no meu descanso".</verse>
 	</chapter>
 	<chapter number="96">
 		<verse number="1">Cantem ao Senhor um novo cântico; cantem ao Senhor, todos os habitantes da terra!</verse>
@@ -1726,7 +1726,7 @@
 		<verse number="7">Dêem ao Senhor, ó famílias das nações, dêem ao Senhor glória e força.</verse>
 		<verse number="8">Dêem ao Senhor a glória devida ao seu nome, e entrem nos seus átrios trazendo ofertas.</verse>
 		<verse number="9">Adorem ao Senhor no esplendor da sua santidade; tremam diante dele todos os habitantes da terra.</verse>
-		<verse number="10">Digam entre as nações: &quot;O Senhor reina! &quot; Por isso firme está o mundo, e não se abalará, e ele julgará os povos com justiça.</verse>
+		<verse number="10">Digam entre as nações: "O Senhor reina! " Por isso firme está o mundo, e não se abalará, e ele julgará os povos com justiça.</verse>
 		<verse number="11">Regozijem-se os céus e exulte a terra! Ressoe o mar e tudo o que nele existe!</verse>
 		<verse number="12">Regozijem-se os campos e tudo o que neles há! Cantem de alegria todas as árvores da floresta,</verse>
 		<verse number="13">cantem diante do Senhor, porque ele vem, vem julgar a terra; julgará o mundo com justiça e os povos, com a sua fidelidade!</verse>
@@ -1803,16 +1803,16 @@
 		<verse number="16">Porque o Senhor reconstruirá Sião e se manifestará na glória que ele tem.</verse>
 		<verse number="17">Responderá à oração dos desamparados; as suas súplicas não desprezará.</verse>
 		<verse number="18">Escreva-se isto para as futuras gerações, e um povo que ainda será criado louvará o Senhor, proclamando:</verse>
-		<verse number="19">&quot;Do seu santuário nas alturas o Senhor olhou; dos céus observou a terra,</verse>
-		<verse number="20">para ouvir os gemidos dos prisioneiros e libertar os condenados à morte&quot;.</verse>
+		<verse number="19">"Do seu santuário nas alturas o Senhor olhou; dos céus observou a terra,</verse>
+		<verse number="20">para ouvir os gemidos dos prisioneiros e libertar os condenados à morte".</verse>
 		<verse number="21">Assim o nome do Senhor será anunciado em Sião e o seu louvor, em Jerusalém,</verse>
 		<verse number="22">quando os povos e os reinos se reunirem para adorar ao Senhor.</verse>
 		<verse number="23">No meio da minha vida ele me abateu com sua força; abreviou os meus dias.</verse>
-		<verse number="24">Então pedi: &quot;Ó meu Deus, não me leves no meio dos meus dias. Os teus dias duram por todas as gerações!</verse>
+		<verse number="24">Então pedi: "Ó meu Deus, não me leves no meio dos meus dias. Os teus dias duram por todas as gerações!</verse>
 		<verse number="25">No princípio firmaste os fundamentos da terra, e os céus são obras das tuas mãos.</verse>
 		<verse number="26">Eles perecerão, mas tu permanecerás; envelhecerão como vestimentas. Como roupas tu os trocarás e serão jogados fora.</verse>
 		<verse number="27">Mas tu permaneces o mesmo, e os teus dias jamais terão fim.</verse>
-		<verse number="28">Os filhos dos teus servos terão uma habitação; os seus descendentes serão estabelecidos na tua presença&quot;.</verse>
+		<verse number="28">Os filhos dos teus servos terão uma habitação; os seus descendentes serão estabelecidos na tua presença".</verse>
 	</chapter>
 	<chapter number="103">
 		<verse number="1">Bendiga ao Senhor a minha alma! Bendiga ao Senhor todo o meu ser!</verse>
@@ -1886,11 +1886,11 @@
 		<verse number="8">Ele se lembra para sempre da sua aliança, por mil gerações, da palavra que ordenou,</verse>
 		<verse number="9">da aliança que fez com Abraão, do juramento que fez a Isaque.</verse>
 		<verse number="10">Ele o confirmou como decreto a Jacó, a Israel como aliança eterna, quando disse:</verse>
-		<verse number="11">&quot;Darei a você a terra de Canaã, a herança que lhe pertence&quot;.</verse>
+		<verse number="11">"Darei a você a terra de Canaã, a herança que lhe pertence".</verse>
 		<verse number="12">Quando ainda eram poucos, um punhado de peregrinos na terra,</verse>
 		<verse number="13">e vagueavam de nação em nação, de um reino a outro,</verse>
 		<verse number="14">ele não permitiu que ninguém os oprimisse, mas a favor deles repreendeu reis, dizendo:</verse>
-		<verse number="15">&quot;Não toquem nos meus ungidos; não maltratem os meus profetas&quot;.</verse>
+		<verse number="15">"Não toquem nos meus ungidos; não maltratem os meus profetas".</verse>
 		<verse number="16">Ele mandou vir fome sobre a terra e destruiu todo o seu sustento;</verse>
 		<verse number="17">mas enviou um homem adiante deles, José, que foi vendido como escravo.</verse>
 		<verse number="18">Machucaram-lhe os pés com correntes e com ferros prenderam-lhe o pescoço,</verse>
@@ -1970,7 +1970,7 @@
 		<verse number="45">Lembrou-se da sua aliança com eles, e arrependeu-se, por causa do seu imenso amor leal.</verse>
 		<verse number="46">Fez com que os seus captores tivessem misericórdia deles.</verse>
 		<verse number="47">Salva-nos, Senhor, nosso Deus! Ajunta-nos dentre as nações, para que demos graças ao teu santo nome e façamos do teu louvor a nossa glória.</verse>
-		<verse number="48">Bendito seja o Senhor, o Deus de Israel, por toda a eternidade. Que todo o povo diga: &quot;Amém! &quot; Aleluia!</verse>
+		<verse number="48">Bendito seja o Senhor, o Deus de Israel, por toda a eternidade. Que todo o povo diga: "Amém! " Aleluia!</verse>
 	</chapter>
 	<chapter number="107">
 		<verse number="1">Dêem graças ao Senhor porque ele é bom; o seu amor dura para sempre.</verse>
@@ -2024,9 +2024,9 @@
 		<verse number="4">porque o teu amor leal se eleva muito acima dos céus; a tua fidelidade alcança as nuvens!</verse>
 		<verse number="5">Exalta-te, ó Deus, acima dos céus; estenda-se a tua glória sobre toda a terra!</verse>
 		<verse number="6">Salva-nos com a tua mão direita e responde-nos, para que sejam libertos aqueles a quem amas.</verse>
-		<verse number="7">Do seu santuário Deus falou: &quot;No meu triunfo dividirei Siquém e repartirei o vale de Sucote.</verse>
+		<verse number="7">Do seu santuário Deus falou: "No meu triunfo dividirei Siquém e repartirei o vale de Sucote.</verse>
 		<verse number="8">Gileade me pertence, e Manassés também; Efraim é o meu capacete, Judá é o meu cetro.</verse>
-		<verse number="9">Moabe é a pia em que me lavo, em Edom atiro a minha sandália, sobre a Filístia dou meu brado de vitória! &quot;</verse>
+		<verse number="9">Moabe é a pia em que me lavo, em Edom atiro a minha sandália, sobre a Filístia dou meu brado de vitória! "</verse>
 		<verse number="10">Quem me levará à cidade fortificada? Quem me guiará a Edom?</verse>
 		<verse number="11">Não foste tu, ó Deus, que nos rejeitaste e deixaste de sair com os nossos exércitos?</verse>
 		<verse number="12">Dá-nos ajuda contra os adversários, pois inútil é o socorro do homem.</verse>
@@ -2066,10 +2066,10 @@
 		<verse number="31">pois ele se põe ao lado do pobre para salvá-lo daqueles que o condenam.</verse>
 	</chapter>
 	<chapter number="110">
-		<verse number="1">O Senhor disse ao meu Senhor: &quot;Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés&quot;.</verse>
+		<verse number="1">O Senhor disse ao meu Senhor: "Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés".</verse>
 		<verse number="2">O Senhor estenderá o cetro de teu poder desde Sião, e dominarás sobre os teus inimigos!</verse>
 		<verse number="3">Quando convocares as tuas tropas, o teu povo se apresentará voluntariamente. Trajando vestes santas, desde o romper da alvorada os teus jovens virão como o orvalho.</verse>
-		<verse number="4">O Senhor jurou e não se arrependerá: &quot;Tu és sacerdote para sempre, segundo a ordem de Melquisedeque&quot;.</verse>
+		<verse number="4">O Senhor jurou e não se arrependerá: "Tu és sacerdote para sempre, segundo a ordem de Melquisedeque".</verse>
 		<verse number="5">O Senhor está à tua direita; ele esmagará reis no dia da sua ira.</verse>
 		<verse number="6">Julgará as nações, amontoando os mortos e esmagando governantes em toda a extensão da terra.</verse>
 		<verse number="7">No caminho beberá de um ribeiro, e então erguerá a cabeça.</verse>
@@ -2121,7 +2121,7 @@
 	</chapter>
 	<chapter number="115">
 		<verse number="1">Não a nós, Senhor, nenhuma glória para nós, mas sim ao teu nome, por teu amor e por tua fidelidade!</verse>
-		<verse number="2">Por que perguntam as nações: &quot;Onde está o Deus deles? &quot;</verse>
+		<verse number="2">Por que perguntam as nações: "Onde está o Deus deles? "</verse>
 		<verse number="3">O nosso Deus está nos céus, e pode fazer tudo o que lhe agrada.</verse>
 		<verse number="4">Os ídolos deles, de prata e ouro, são feitos por mãos humanas.</verse>
 		<verse number="5">Têm boca, mas não podem falar, olhos, mas não podem ver;</verse>
@@ -2143,14 +2143,14 @@
 		<verse number="1">Eu amo o Senhor, porque ele me ouviu quando lhe fiz a minha súplica.</verse>
 		<verse number="2">Ele inclinou os seus ouvidos para mim; eu o invocarei toda a minha vida.</verse>
 		<verse number="3">As cordas da morte me envolveram, as angústias do Sheol vieram sobre mim; aflição e tristeza me dominaram.</verse>
-		<verse number="4">Então clamei pelo nome do Senhor: &quot;Livra-me, Senhor! &quot;</verse>
+		<verse number="4">Então clamei pelo nome do Senhor: "Livra-me, Senhor! "</verse>
 		<verse number="5">O Senhor é misericordioso e justo; o nosso Deus é compassivo.</verse>
 		<verse number="6">O Senhor protege os simples; quando eu já estava sem forças, ele me salvou.</verse>
 		<verse number="7">Retorne ao seu descanso, ó minha alma, porque o Senhor tem sido bom para você!</verse>
 		<verse number="8">Pois tu me livraste da morte, os meus olhos, das lágrimas e os meus pés, de tropeçar,</verse>
 		<verse number="9">para que eu pudesse andar diante do Senhor na terra dos viventes.</verse>
-		<verse number="10">Eu cri, ainda que tenha dito: &quot;Estou muito aflito&quot;.</verse>
-		<verse number="11">Em pânico eu disse: &quot;Ninguém merece confiança&quot;.</verse>
+		<verse number="10">Eu cri, ainda que tenha dito: "Estou muito aflito".</verse>
+		<verse number="11">Em pânico eu disse: "Ninguém merece confiança".</verse>
 		<verse number="12">Como posso retribuir ao Senhor toda a sua bondade para comigo?</verse>
 		<verse number="13">Erguerei o cálice da salvação e invocarei o nome do Senhor.</verse>
 		<verse number="14">Cumprirei para com o Senhor os meus votos, na presença de todo o seu povo.</verse>
@@ -2166,9 +2166,9 @@
 	</chapter>
 	<chapter number="118">
 		<verse number="1">Dêem graças ao Senhor porque ele é bom; o seu amor dura para sempre.</verse>
-		<verse number="2">Que Israel diga: &quot;O seu amor dura para sempre! &quot;</verse>
-		<verse number="3">Os sacerdotes digam: &quot;O seu amor dura para sempre! &quot;</verse>
-		<verse number="4">Os que temem o Senhor digam: &quot;O seu amor dura para sempre! &quot;</verse>
+		<verse number="2">Que Israel diga: "O seu amor dura para sempre! "</verse>
+		<verse number="3">Os sacerdotes digam: "O seu amor dura para sempre! "</verse>
+		<verse number="4">Os que temem o Senhor digam: "O seu amor dura para sempre! "</verse>
 		<verse number="5">Na minha angústia clamei ao Senhor; e o Senhor me respondeu, dando-me ampla liberdade.</verse>
 		<verse number="6">O Senhor está comigo, não temerei. O que me podem fazer os homens?</verse>
 		<verse number="7">O Senhor está comigo; ele é o meu ajudador. Verei a derrota dos meus inimigos.</verse>
@@ -2179,8 +2179,8 @@
 		<verse number="12">Cercaram-me como um enxame de abelhas, mas logo se extinguiram como espinheiros em chamas. Em nome do Senhor eu as derrotei!</verse>
 		<verse number="13">Empurraram-me para forçar a minha queda, mas o Senhor me ajudou.</verse>
 		<verse number="14">O Senhor é a minha força e o meu cântico; ele é a minha salvação.</verse>
-		<verse number="15">Alegres brados de vitória ressoam nas tendas dos justos: &quot;A mão direita do Senhor age com poder!</verse>
-		<verse number="16">A mão direita do Senhor é exaltada! A mão direita do Senhor age com poder! &quot;</verse>
+		<verse number="15">Alegres brados de vitória ressoam nas tendas dos justos: "A mão direita do Senhor age com poder!</verse>
+		<verse number="16">A mão direita do Senhor é exaltada! A mão direita do Senhor age com poder! "</verse>
 		<verse number="17">Não morrerei; mas vivo ficarei para anunciar os feitos do Senhor.</verse>
 		<verse number="18">O Senhor me castigou com severidade, mas não me entregou à morte.</verse>
 		<verse number="19">Abram as portas da justiça para mim, pois quero entrar para dar graças ao Senhor.</verse>
@@ -2277,7 +2277,7 @@
 		<verse number="79">Venham apoiar-me aqueles que te temem, aqueles que entendem os teus estatutos.</verse>
 		<verse number="80">Seja o meu coração íntegro para com os teus decretos, para que eu não seja humilhado.</verse>
 		<verse number="81">Estou quase desfalecido, aguardando a tua salvação, mas na tua palavra coloquei a esperança.</verse>
-		<verse number="82">Os meus olhos fraquejam de tanto esperar pela tua promessa, e pergunto: &quot;Quando me consolarás? &quot;</verse>
+		<verse number="82">Os meus olhos fraquejam de tanto esperar pela tua promessa, e pergunto: "Quando me consolarás? "</verse>
 		<verse number="83">Embora eu seja como uma vasilha inútil, não me esqueço dos teus decretos.</verse>
 		<verse number="84">Até quando o teu servo deverá esperar para que castigues os meus perseguidores?</verse>
 		<verse number="85">Cavaram uma armadilha contra mim os arrogantes, os que não seguem a tua lei.</verse>
@@ -2393,14 +2393,14 @@
 		<verse number="8">O Senhor protegerá a sua saída e a sua chegada, desde agora e para sempre.</verse>
 	</chapter>
 	<chapter number="122">
-		<verse number="1">Alegrei-me com os que me disseram: &quot;Vamos à casa do Senhor! &quot;</verse>
+		<verse number="1">Alegrei-me com os que me disseram: "Vamos à casa do Senhor! "</verse>
 		<verse number="2">Nossos pés já se encontram dentro de suas portas, ó Jerusalém!</verse>
 		<verse number="3">Jerusalém está construída como cidade firmemente estabelecida.</verse>
 		<verse number="4">Para lá sobem as tribos do Senhor, para dar graças ao Senhor, conforme o mandamento dado a Israel.</verse>
 		<verse number="5">Lá estão os tribunais de justiça, os tribunais da casa real de Davi.</verse>
-		<verse number="6">Orem pela paz de Jerusalém: &quot;Vivam em segurança aqueles que te amam!</verse>
-		<verse number="7">Haja paz dentro dos teus muros e segurança nas tuas cidadelas! &quot;</verse>
-		<verse number="8">Em favor de meus irmãos e amigos, direi: &quot;Paz seja com você! &quot;</verse>
+		<verse number="6">Orem pela paz de Jerusalém: "Vivam em segurança aqueles que te amam!</verse>
+		<verse number="7">Haja paz dentro dos teus muros e segurança nas tuas cidadelas! "</verse>
+		<verse number="8">Em favor de meus irmãos e amigos, direi: "Paz seja com você! "</verse>
 		<verse number="9">Em favor da casa do Senhor, nosso Deus, buscarei o seu bem.</verse>
 	</chapter>
 	<chapter number="123">
@@ -2428,7 +2428,7 @@
 	</chapter>
 	<chapter number="126">
 		<verse number="1">Quando o Senhor trouxe os cativos de volta a Sião, foi como um sonho.</verse>
-		<verse number="2">Então a nossa boca encheu-se de riso, e a nossa língua de cantos de alegria. Até nas outras nações se dizia: &quot;O Senhor fez coisas grandiosas por este povo&quot;.</verse>
+		<verse number="2">Então a nossa boca encheu-se de riso, e a nossa língua de cantos de alegria. Até nas outras nações se dizia: "O Senhor fez coisas grandiosas por este povo".</verse>
 		<verse number="3">Sim, coisas grandiosas fez o Senhor por nós, por isso estamos alegres.</verse>
 		<verse number="4">Senhor, restaura-nos, assim como enches o leito dos ribeiros no deserto.</verse>
 		<verse number="5">Aqueles que semeiam com lágrimas, com cantos de alegria colherão.</verse>
@@ -2457,7 +2457,7 @@
 		<verse number="5">Retrocedam envergonhados todos os que odeiam Sião.</verse>
 		<verse number="6">Sejam como o capim do terraço, que seca antes de crescer,</verse>
 		<verse number="7">que não enche as mãos do ceifeiro nem os braços daquele que faz os fardos.</verse>
-		<verse number="8">E que ninguém que passa diga: &quot;Seja sobre vocês a bênção do Senhor; nós os abençoamos em nome do Senhor! &quot;</verse>
+		<verse number="8">E que ninguém que passa diga: "Seja sobre vocês a bênção do Senhor; nós os abençoamos em nome do Senhor! "</verse>
 	</chapter>
 	<chapter number="130">
 		<verse number="1">Das profundezas clamo a ti, Senhor;</verse>
@@ -2477,22 +2477,22 @@
 	<chapter number="132">
 		<verse number="1">Senhor, lembra-te de Davi e das dificuldades que enfrentou.</verse>
 		<verse number="2">Ele jurou ao Senhor e fez um voto ao Poderoso de Jacó:</verse>
-		<verse number="3">&quot;Não entrarei na minha tenda e não me deitarei no meu leito;</verse>
+		<verse number="3">"Não entrarei na minha tenda e não me deitarei no meu leito;</verse>
 		<verse number="4">não permitirei que os meus olhos peguem no sono nem que as minhas pálpebras descansem,</verse>
-		<verse number="5">enquanto não encontrar um lugar para o Senhor, uma habitação para o Poderoso de Jacó&quot;.</verse>
+		<verse number="5">enquanto não encontrar um lugar para o Senhor, uma habitação para o Poderoso de Jacó".</verse>
 		<verse number="6">Soubemos que a arca estava em Efrata, mas nós a encontramos nos campos de Jaar:</verse>
-		<verse number="7">&quot;Vamos para habitação dele! Vamos adorá-lo diante do estrado de seus pés!</verse>
+		<verse number="7">"Vamos para habitação dele! Vamos adorá-lo diante do estrado de seus pés!</verse>
 		<verse number="8">Levanta-te, Senhor, e vem para o teu lugar de descanso, tu e a arca onde está o teu poder.</verse>
-		<verse number="9">Vistam-se de retidão os teus sacerdotes; cantem de alegria os teus fiéis&quot;.</verse>
+		<verse number="9">Vistam-se de retidão os teus sacerdotes; cantem de alegria os teus fiéis".</verse>
 		<verse number="10">Por amor ao teu servo Davi, não rejeites o teu ungido.</verse>
-		<verse number="11">O Senhor fez um juramento a Davi, um juramento firme que ele não revogará: &quot;Colocarei um dos seus descendentes no seu trono.</verse>
-		<verse number="12">Se os seus filhos forem fiéis à minha aliança e aos testemunhos que eu lhes ensino, também os filhos deles o sucederão no trono para sempre&quot;.</verse>
+		<verse number="11">O Senhor fez um juramento a Davi, um juramento firme que ele não revogará: "Colocarei um dos seus descendentes no seu trono.</verse>
+		<verse number="12">Se os seus filhos forem fiéis à minha aliança e aos testemunhos que eu lhes ensino, também os filhos deles o sucederão no trono para sempre".</verse>
 		<verse number="13">O Senhor escolheu Sião, com o desejo de fazê-la sua habitação:</verse>
-		<verse number="14">&quot;Este será o meu lugar de descanso para sempre; aqui firmarei o meu trono, pois esse é o meu desejo.</verse>
+		<verse number="14">"Este será o meu lugar de descanso para sempre; aqui firmarei o meu trono, pois esse é o meu desejo.</verse>
 		<verse number="15">Abençoarei este lugar com fartura; os seus pobres suprirei de pão.</verse>
 		<verse number="16">Vestirei de salvação os seus sacerdotes e os seus fiéis a celebrarão com grande alegria.</verse>
-		<verse number="17">&quot;Ali farei renascer o poder de Davi e farei brilhar a luz do meu ungido.</verse>
-		<verse number="18">Vestirei de vergonha os seus inimigos, mas nele brilhará a sua coroa&quot;.</verse>
+		<verse number="17">"Ali farei renascer o poder de Davi e farei brilhar a luz do meu ungido.</verse>
+		<verse number="18">Vestirei de vergonha os seus inimigos, mas nele brilhará a sua coroa".</verse>
 	</chapter>
 	<chapter number="133">
 		<verse number="1">Como é bom e agradável quando os irmãos convivem em união!</verse>
@@ -2558,11 +2558,11 @@
 	<chapter number="137">
 		<verse number="1">Junto aos rios da Babilônia nós nos sentamos e choramos com saudade de Sião.</verse>
 		<verse number="2">Ali, nos salgueiros penduramos as nossas harpas;</verse>
-		<verse number="3">ali os nossos captores pediam-nos canções, os nossos opressores exigiam canções alegres, dizendo: &quot;Cantem para nós uma das canções de Sião! &quot;</verse>
+		<verse number="3">ali os nossos captores pediam-nos canções, os nossos opressores exigiam canções alegres, dizendo: "Cantem para nós uma das canções de Sião! "</verse>
 		<verse number="4">Como poderíamos cantar as canções do Senhor numa terra estrangeira?</verse>
 		<verse number="5">Que a minha mão direita definhe, ó Jerusalém, se eu me esquecer de ti!</verse>
 		<verse number="6">Que a língua se me grude ao céu da boca, se eu não me lembrar de ti, e não considerar Jerusalém a minha maior alegria!</verse>
-		<verse number="7">Lembra-te, Senhor, dos edomitas e do que fizeram quando Jerusalém foi destruída, pois gritavam: &quot;Arrasem-na! Arrasem-na até aos alicerces! &quot;</verse>
+		<verse number="7">Lembra-te, Senhor, dos edomitas e do que fizeram quando Jerusalém foi destruída, pois gritavam: "Arrasem-na! Arrasem-na até aos alicerces! "</verse>
 		<verse number="8">Ó cidade de Babilônia, destinada à destruição, feliz aquele que lhe retribuir o mal que você nos fez!</verse>
 		<verse number="9">Feliz aquele que pegar os seus filhos e os despedaçar contra a rocha!</verse>
 	</chapter>
@@ -2608,7 +2608,7 @@
 		<verse number="3">Afiam a língua como a da serpente; veneno de víbora está em seus lábios. Pausa</verse>
 		<verse number="4">Protege-me, Senhor, das mãos dos ímpios; protege-me dos violentos, que pretendem fazer-me tropeçar.</verse>
 		<verse number="5">Homens arrogantes prepararam armadilhas contra mim, perversos estenderam as suas redes; no meu caminho armaram ciladas contra mim. Pausa</verse>
-		<verse number="6">Eu declaro ao Senhor: &quot;Tu és o meu Deus&quot;. Ouve, Senhor, a minha súplica!</verse>
+		<verse number="6">Eu declaro ao Senhor: "Tu és o meu Deus". Ouve, Senhor, a minha súplica!</verse>
 		<verse number="7">Ó Soberano Senhor, meu salvador poderoso, tu me proteges a cabeça no dia da batalha;</verse>
 		<verse number="8">não atendas os desejos dos ímpios, Senhor! Não permitas que os planos deles tenham sucesso, para que não se orgulhem. Pausa</verse>
 		<verse number="9">Recaia sobre a cabeça dos que me cercam a maldade que os seus lábios proferiram.</verse>
@@ -2634,9 +2634,9 @@
 		<verse number="2">Derramo diante dele o meu lamento; a ele apresento a minha angústia.</verse>
 		<verse number="3">Quando o meu espírito se desanima, és tu quem conhece o caminho que devo seguir. Na vereda por onde ando esconderam uma armadilha contra mim.</verse>
 		<verse number="4">Olha para a minha direita e vê; ninguém se preocupa comigo. Não tenho abrigo seguro; ninguém se importa com a minha vida.</verse>
-		<verse number="5">Clamo a ti, Senhor, e digo: &quot;Tu és o meu refúgio; és tudo o que tenho que na terra dos viventes.</verse>
+		<verse number="5">Clamo a ti, Senhor, e digo: "Tu és o meu refúgio; és tudo o que tenho que na terra dos viventes.</verse>
 		<verse number="6">Dá atenção ao meu clamor, pois estou muito abatido; livra-me dos que me perseguem, pois são mais fortes do que eu.</verse>
-		<verse number="7">Liberta-me da prisão, e renderei graças ao teu nome. Então os justos se reunirão à minha volta por causa da tua bondade para comigo&quot;.</verse>
+		<verse number="7">Liberta-me da prisão, e renderei graças ao teu nome. Então os justos se reunirão à minha volta por causa da tua bondade para comigo".</verse>
 	</chapter>
 	<chapter number="143">
 		<verse number="1">Ouve, Senhor, a minha oração, dá ouvidos à minha súplica; responde-me por tua fidelidade e por tua justiça.</verse>

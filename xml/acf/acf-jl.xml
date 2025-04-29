@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Joel" abbrev="jl" chapters="3">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Joel" abbrev="jl" chapters="3" id="29" testament="VT" group="Profetas Menores" version="ACF">
 	<chapter number="1">
 		<verse number="1">Palavra do SENHOR, que foi dirigida a Joel, filho de Petuel.</verse>
 		<verse number="2">Ouvi isto, vós anciãos, e escutai, todos os moradores da terra: Porventura isto aconteceu em vossos dias, ou nos dias de vossos pais?</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Cânticos" abbrev="ct" chapters="8">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Cânticos" abbrev="ct" chapters="8" id="22" testament="VT" group="Poéticos" version="NVI">
 	<chapter number="1">
 		<verse number="1">Cântico dos Cânticos de Salomão.</verse>
 		<verse number="2">Ah, se ele me beijasse, se a sua boca me cobrisse de beijos...  Sim, as suas carícias são mais agradáveis que o vinho.</verse>
@@ -41,7 +41,7 @@
 	<chapter number="3">
 		<verse number="1">A noite toda procurei em meu leito aquele a quem o meu coração ama, mas não o encontrei.</verse>
 		<verse number="2">Vou levantar-me agora e percorrer a cidade, irei por suas ruas e praças; buscarei aquele a quem o meu coração ama. Eu o procurei, mas não o encontrei.</verse>
-		<verse number="3">As sentinelas me encontraram quando faziam as suas rondas na cidade. &quot;Vocês viram aquele a quem o meu coração ama? &quot;, perguntei.</verse>
+		<verse number="3">As sentinelas me encontraram quando faziam as suas rondas na cidade. "Vocês viram aquele a quem o meu coração ama? ", perguntei.</verse>
 		<verse number="4">Mal havia passado por elas, quando encontrei aquele a quem o meu coração ama. Eu o segurei e não o deixei ir até que o trouxe para a casa de minha mãe, para o quarto daquela que me concebeu.</verse>
 		<verse number="5">Mulheres de Jerusalém, eu as faço jurar pelas gazelas e pelas corças do campo: Não despertem nem incomodem o amor enquanto ele não o quiser.</verse>
 		<verse number="6">Que é que vem subindo do deserto, como uma coluna de fumaça, perfumado com mirra e incenso com extrato de todas as especiarias dos mercadores?</verse>

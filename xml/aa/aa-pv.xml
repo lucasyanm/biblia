@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Provérbios" abbrev="pv" chapters="31">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Provérbios" abbrev="pv" chapters="31" id="20" testament="VT" group="Poéticos" version="AA">
 	<chapter number="1">
 		<verse number="1">Provérbios de Salomão, filho de Davi, rei de Israel:</verse>
 		<verse number="2">Para se conhecer a sabedoria e a instrução; para se entenderem as palavras de inteligência;</verse>
@@ -240,7 +240,7 @@
 		<verse number="21">dotando de bens permanentes os que me amam, e enchendo os seus tesouros.</verse>
 		<verse number="22">O Senhor me criou como a primeira das suas obras, o princípio dos seus feitos mais antigos.</verse>
 		<verse number="23">Desde a eternidade fui constituída, desde o princípio, antes de existir a terra.</verse>
-		<verse number="24">Antes de haver abismos, fui gerada, e antes ainda de haver fontes cheias d&#39;água.</verse>
+		<verse number="24">Antes de haver abismos, fui gerada, e antes ainda de haver fontes cheias d'água.</verse>
 		<verse number="25">Antes que os montes fossem firmados, antes dos outeiros eu nasci,</verse>
 		<verse number="26">quando ele ainda não tinha feito a terra com seus campos, nem sequer o princípio do pó do mundo.</verse>
 		<verse number="27">Quando ele preparava os céus, aí estava eu; quando traçava um círculo sobre a face do abismo,</verse>
@@ -925,7 +925,7 @@
 		<verse number="13">Há gente cujos olhos são altivos, e cujas pálpebras são levantadas para cima.</verse>
 		<verse number="14">Há gente cujos dentes são como espadas; e cujos queixais são como facas, para devorarem da terra os aflitos, e os necessitados dentre os homens.</verse>
 		<verse number="15">A sanguessuga tem duas filhas, a saber: Dá, Dá. Há três coisas que nunca se fartam; sim, quatro que nunca dizem: Basta;</verse>
-		<verse number="16">o Seol, a madre estéril, a terra que não se farta d&#39;água, e o fogo que nunca diz: Basta.</verse>
+		<verse number="16">o Seol, a madre estéril, a terra que não se farta d'água, e o fogo que nunca diz: Basta.</verse>
 		<verse number="17">Os olhos que zombam do pai, ou desprezam a obediência à mãe, serão arrancados pelos corvos do vale e devorados pelos filhos da águia.</verse>
 		<verse number="18">Há três coisas que são maravilhosas demais para mim, sim, há quatro que não conheço:</verse>
 		<verse number="19">o caminho da águia no ar, o caminho da cobra na penha, o caminho do navio no meio do mar, e o caminho do homem com uma virgem.</verse>

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Ezequiel" abbrev="ez" chapters="48">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Ezequiel" abbrev="ez" chapters="48" id="26" testament="VT" group="Profetas Maiores" version="ACF">
 	<chapter number="1">
 		<verse number="1">E aconteceu no trigésimo ano, no quarto mês, no quinto dia do mês, que estando eu no meio dos cativos, junto ao rio Quebar, se abriram os céus, e eu tive visões de Deus.</verse>
 		<verse number="2">No quinto dia do mês, no quinto ano do cativeiro do rei Jeoiaquim,</verse>

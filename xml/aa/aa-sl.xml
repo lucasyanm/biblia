@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Salmos" abbrev="sl" chapters="150">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Salmos" abbrev="sl" chapters="150" id="19" testament="VT" group="Poéticos" version="AA">
 	<chapter number="1">
 		<verse number="1">Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores;</verse>
 		<verse number="2">antes tem seu prazer na lei do Senhor, e na sua lei medita de dia e noite.</verse>
@@ -1058,8 +1058,8 @@
 		<verse number="6">tu que pela tua força consolidas os montes, cingido de poder;</verse>
 		<verse number="7">que aplacas o ruído dos mares, o ruído das suas ondas, e o tumulto dos povos.</verse>
 		<verse number="8">Os que habitam os confins da terra são tomados de medo à vista dos teus sinais; tu fazes exultar de júbilo as saídas da manhã e da tarde.</verse>
-		<verse number="9">Tu visitas a terra, e a regas; grandemente e enriqueces; o rio de Deus está cheio d&#39;água; tu lhe dás o trigo quando assim a tens preparado;</verse>
-		<verse number="10">enches d&#39;água os seus sulcos, aplanando-lhes as leivas, amolecendo-a com a chuva, e abençoando as suas novidades.</verse>
+		<verse number="9">Tu visitas a terra, e a regas; grandemente e enriqueces; o rio de Deus está cheio d'água; tu lhe dás o trigo quando assim a tens preparado;</verse>
+		<verse number="10">enches d'água os seus sulcos, aplanando-lhes as leivas, amolecendo-a com a chuva, e abençoando as suas novidades.</verse>
 		<verse number="11">Coroas o ano com a tua bondade, e as tuas veredas destilam gordura;</verse>
 		<verse number="12">destilam sobre as pastagens do deserto, e os outeiros se cingem de alegria.</verse>
 		<verse number="13">As pastagens revestem-se de rebanhos, e os vales se cobrem de trigo; por isso eles se regozijam, por isso eles cantam.</verse>

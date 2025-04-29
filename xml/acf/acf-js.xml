@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Josué" abbrev="js" chapters="24">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Josué" abbrev="js" chapters="24" id="6" testament="VT" group="Históricos" version="ACF">
 	<chapter number="1">
 		<verse number="1">E sucedeu depois da morte de Moisés, servo do SENHOR, que o SENHOR falou a Josué, filho de Num, servo de Moisés, dizendo:</verse>
 		<verse number="2">Moisés, meu servo, é morto; levanta-te, pois, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel.</verse>

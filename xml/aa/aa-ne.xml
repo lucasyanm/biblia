@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Neemias" abbrev="ne" chapters="13">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Neemias" abbrev="ne" chapters="13" id="16" testament="VT" group="Históricos" version="AA">
 	<chapter number="1">
 		<verse number="1">Palavras de Neemias, filho de Hacalias. Ora, sucedeu no mês de quisleu, no ano vigésimo, estando eu em Susã, a capital,</verse>
 		<verse number="2">que veio Hanâni, um de meus irmãos, com alguns de Judá; e perguntei-lhes pelos judeus que tinham escapado e que restaram do cativeiro, e acerca de Jerusalém.</verse>

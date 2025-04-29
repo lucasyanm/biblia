@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="Gálatas" abbrev="gl" chapters="6">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="Gálatas" abbrev="gl" chapters="6" id="48" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, apóstolo enviado, não da parte de homens nem por meio de pessoa alguma, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dos mortos,</verse>
 		<verse number="2">e todos os irmãos que estão comigo, às igrejas da Galácia:</verse>
@@ -23,7 +23,7 @@
 		<verse number="20">Quanto ao que lhes escrevo, afirmo diante de Deus que não minto.</verse>
 		<verse number="21">A seguir, fui para as regiões da Síria e da Cilícia.</verse>
 		<verse number="22">Eu não era pessoalmente conhecido pelas igrejas da Judéia que estão em Cristo.</verse>
-		<verse number="23">Apenas ouviam dizer: &quot;Aquele que antes nos perseguia, agora está anunciando a fé que outrora procurava destruir&quot;.</verse>
+		<verse number="23">Apenas ouviam dizer: "Aquele que antes nos perseguia, agora está anunciando a fé que outrora procurava destruir".</verse>
 		<verse number="24">E glorificavam a Deus por minha causa.</verse>
 	</chapter>
 	<chapter number="2">
@@ -40,14 +40,14 @@
 		<verse number="11">Quando, porém, Pedro veio a Antioquia, enfrentei-o face a face, por sua atitude condenável.</verse>
 		<verse number="12">Pois, antes de chegarem alguns da parte de Tiago, ele comia com os gentios. Quando, porém, eles chegaram, afastou-se e separou-se dos gentios, temendo os que eram da circuncisão.</verse>
 		<verse number="13">Os demais judeus também se uniram a ele nessa hipocrisia, de modo que até Barnabé se deixou levar.</verse>
-		<verse number="14">Quando vi que não estavam andando de acordo com a verdade do evangelho, declarei a Pedro, diante de todos: &quot;Você é judeu, mas vive como gentio e não como judeu. Portanto, como pode obrigar gentios a viverem como judeus?</verse>
-		<verse number="15">&quot;Nós, judeus de nascimento e não ‘gentios pecadores’,</verse>
+		<verse number="14">Quando vi que não estavam andando de acordo com a verdade do evangelho, declarei a Pedro, diante de todos: "Você é judeu, mas vive como gentio e não como judeu. Portanto, como pode obrigar gentios a viverem como judeus?</verse>
+		<verse number="15">"Nós, judeus de nascimento e não ‘gentios pecadores’,</verse>
 		<verse number="16">sabemos que o ninguém é justificado pela prática da lei, mas mediante a fé em Jesus Cristo. Assim, nós também cremos em Cristo Jesus para sermos justificados pela fé em Cristo, e não pela prática da lei, porque pela prática da lei ninguém será justificado.</verse>
-		<verse number="17">&quot;Se, porém, procurando ser justificados em Cristo descobrimos que nós mesmos somos pecadores, será Cristo então ministro do pecado? De modo algum!</verse>
+		<verse number="17">"Se, porém, procurando ser justificados em Cristo descobrimos que nós mesmos somos pecadores, será Cristo então ministro do pecado? De modo algum!</verse>
 		<verse number="18">Se reconstruo o que destruí, provo que sou transgressor.</verse>
 		<verse number="19">Pois, por meio da lei eu morri para a lei, a fim de viver para Deus.</verse>
 		<verse number="20">Fui crucificado com Cristo. Assim, já não sou eu quem vive, mas Cristo vive em mim. A vida que agora vivo no corpo, vivo-a pela fé no filho de Deus, que me amou e se entregou por mim.</verse>
-		<verse number="21">Não anulo a graça de Deus; pois, se a justiça vem pela lei, Cristo morreu inutilmente! &quot;</verse>
+		<verse number="21">Não anulo a graça de Deus; pois, se a justiça vem pela lei, Cristo morreu inutilmente! "</verse>
 	</chapter>
 	<chapter number="3">
 		<verse number="1">Ó gálatas insensatos! Quem os enfeitiçou? Não foi diante dos seus olhos que Jesus Cristo foi exposto como crucificado?</verse>
@@ -55,17 +55,17 @@
 		<verse number="3">Será que vocês são tão insensatos que, tendo começado pelo Espírito, querem agora se aperfeiçoar pelo esforço próprio?</verse>
 		<verse number="4">Será que foi inútil sofrerem tantas coisas? Se é que foi inútil!</verse>
 		<verse number="5">Aquele que lhes dá o seu Espírito e opera milagres entre vocês, realiza essas coisas pela prática da lei ou pela fé com a qual receberam a palavra?</verse>
-		<verse number="6">Considerem o exemplo de Abraão: &quot;Ele creu em Deus, e isso lhe foi creditado como justiça&quot;.</verse>
+		<verse number="6">Considerem o exemplo de Abraão: "Ele creu em Deus, e isso lhe foi creditado como justiça".</verse>
 		<verse number="7">Estejam certos, portanto, de que os que são da fé, estes é que são filhos de Abraão.</verse>
-		<verse number="8">Prevendo a Escritura que Deus justificaria pela fé os gentios, anunciou primeiro as boas novas a Abraão: &quot;Por meio de você todas as nações serão abençoadas&quot;.</verse>
+		<verse number="8">Prevendo a Escritura que Deus justificaria pela fé os gentios, anunciou primeiro as boas novas a Abraão: "Por meio de você todas as nações serão abençoadas".</verse>
 		<verse number="9">Assim, os que são da fé são abençoados juntamente com Abraão, homem de fé.</verse>
-		<verse number="10">Já os que são pela prática da lei estão debaixo de maldição, pois está escrito: &quot;Maldito todo aquele que não persiste em praticar todas as coisas escritas no livro da Lei&quot;.</verse>
-		<verse number="11">É evidente que diante de Deus ninguém é justificado pela lei, pois &quot;o justo viverá pela fé&quot;.</verse>
-		<verse number="12">A lei não é baseada na fé; pelo contrário, &quot;quem praticar estas coisas, por elas viverá&quot;.</verse>
-		<verse number="13">Cristo nos redimiu da maldição da lei quando se tornou maldição em nosso lugar, pois está escrito: &quot;Maldito todo aquele que for pendurado num madeiro&quot;.</verse>
+		<verse number="10">Já os que são pela prática da lei estão debaixo de maldição, pois está escrito: "Maldito todo aquele que não persiste em praticar todas as coisas escritas no livro da Lei".</verse>
+		<verse number="11">É evidente que diante de Deus ninguém é justificado pela lei, pois "o justo viverá pela fé".</verse>
+		<verse number="12">A lei não é baseada na fé; pelo contrário, "quem praticar estas coisas, por elas viverá".</verse>
+		<verse number="13">Cristo nos redimiu da maldição da lei quando se tornou maldição em nosso lugar, pois está escrito: "Maldito todo aquele que for pendurado num madeiro".</verse>
 		<verse number="14">Isso para que em Cristo Jesus a bênção de Abraão chegasse também aos gentios, para que recebêssemos a promessa do Espírito mediante a fé.</verse>
 		<verse number="15">Irmãos, humanamente falando, ninguém pode anular um testamento depois de ratificado, nem acrescentar-lhe algo.</verse>
-		<verse number="16">Assim também as promessas foram feitas a Abraão e ao seu descendente. A Escritura não diz: &quot;E aos seus descendentes&quot;, como se falando de muitos, mas: &quot;Ao seu descendente&quot;, dando a entender que se trata de um só, isto é, Cristo.</verse>
+		<verse number="16">Assim também as promessas foram feitas a Abraão e ao seu descendente. A Escritura não diz: "E aos seus descendentes", como se falando de muitos, mas: "Ao seu descendente", dando a entender que se trata de um só, isto é, Cristo.</verse>
 		<verse number="17">Quero dizer isto: A lei, que veio quatrocentos e trinta anos depois, não anula a aliança previamente estabelecida por Deus, de modo que venha a invalidar a promessa.</verse>
 		<verse number="18">Pois, se a herança depende da lei, já não depende de promessa. Deus, porém, concedeu-a gratuitamente a Abraão mediante promessa.</verse>
 		<verse number="19">Qual era então o propósito da lei? Foi acrescentada por causa das transgressões, até que viesse o Descendente a quem se referia a promessa, e foi promulgada por meio de anjos, pela mão de um mediador.</verse>
@@ -86,7 +86,7 @@
 		<verse number="3">Assim também nós, quando éramos menores, estávamos escravizados aos princípios elementares do mundo.</verse>
 		<verse number="4">Mas, quando chegou a plenitude do tempo, Deus enviou seu Filho, nascido de mulher, nascido debaixo da lei,</verse>
 		<verse number="5">a fim de redimir os que estavam sob a lei, para que recebêssemos a adoção de filhos.</verse>
-		<verse number="6">E, porque vocês são filhos, Deus enviou o Espírito de seu Filho aos seus corações, o qual clama: &quot;Aba, Pai&quot;.</verse>
+		<verse number="6">E, porque vocês são filhos, Deus enviou o Espírito de seu Filho aos seus corações, o qual clama: "Aba, Pai".</verse>
 		<verse number="7">Assim, você já não é mais escravo, mas filho; e, por ser filho, Deus também o tornou herdeiro.</verse>
 		<verse number="8">Antes, quando vocês não conheciam a Deus, eram escravos daqueles que, por natureza, não são deuses.</verse>
 		<verse number="9">Mas agora, conhecendo a Deus, ou melhor, sendo por ele conhecidos, como é que estão voltando àqueles mesmos princípios elementares, fracos e sem poder? Querem ser escravizados por eles outra vez?</verse>
@@ -107,10 +107,10 @@
 		<verse number="24">Isso é usado aqui como uma ilustração; estas mulheres representam duas alianças. Uma aliança procede do monte Sinai e gera filhos para a escravidão: esta é Hagar.</verse>
 		<verse number="25">Hagar representa o monte Sinai, na Arábia, e corresponde à atual cidade de Jerusalém, que está escravizada com os seus filhos.</verse>
 		<verse number="26">Mas a Jerusalém do alto é livre, e essa é a nossa mãe.</verse>
-		<verse number="27">Pois está escrito: &quot;Regozije-se, ó estéril, você que nunca teve um filho; grite de alegria, você que nunca esteve em trabalho de parto; porque mais são os filhos da mulher abandonada do que os daquela que tem marido&quot;.</verse>
+		<verse number="27">Pois está escrito: "Regozije-se, ó estéril, você que nunca teve um filho; grite de alegria, você que nunca esteve em trabalho de parto; porque mais são os filhos da mulher abandonada do que os daquela que tem marido".</verse>
 		<verse number="28">Vocês, irmãos, são filhos da promessa, como Isaque.</verse>
 		<verse number="29">Naquele tempo, o filho nascido de modo natural perseguia o filho nascido segundo o Espírito. O mesmo acontece agora.</verse>
-		<verse number="30">Mas o que diz a Escritura? &quot;Mande embora a escrava e o seu filho, porque o filho da escrava jamais será herdeiro com o filho da livre&quot;.</verse>
+		<verse number="30">Mas o que diz a Escritura? "Mande embora a escrava e o seu filho, porque o filho da escrava jamais será herdeiro com o filho da livre".</verse>
 		<verse number="31">Portanto, irmãos, não somos filhos da escrava, mas da livre.</verse>
 	</chapter>
 	<chapter number="5">
@@ -122,12 +122,12 @@
 		<verse number="6">Porque em Cristo Jesus nem circuncisão nem incircuncisão têm efeito algum, mas sim a fé que atua pelo amor.</verse>
 		<verse number="7">Vocês corriam bem. Quem os impediu de continuar obedecendo à verdade?</verse>
 		<verse number="8">Tal persuasão não provém daquele que os chama.</verse>
-		<verse number="9">&quot;Um pouco de fermento leveda toda a massa&quot;.</verse>
+		<verse number="9">"Um pouco de fermento leveda toda a massa".</verse>
 		<verse number="10">Estou convencido no Senhor de que vocês não pensarão de nenhum outro modo. Aquele que os perturba, seja quem for, sofrerá a condenação.</verse>
 		<verse number="11">Irmãos, se ainda estou pregando a circuncisão, por que continuo sendo perseguido? Nesse caso, o escândalo da cruz foi removido.</verse>
 		<verse number="12">Quanto a esses que os perturbam, quem dera que se castrassem!</verse>
 		<verse number="13">Irmãos, vocês foram chamados para a liberdade. Mas não usem a liberdade para dar ocasião à vontade da carne; pelo contrário, sirvam uns aos outros mediante o amor.</verse>
-		<verse number="14">Toda a lei se resume num só mandamento: &quot;Ame o seu próximo como a si mesmo&quot;.</verse>
+		<verse number="14">Toda a lei se resume num só mandamento: "Ame o seu próximo como a si mesmo".</verse>
 		<verse number="15">Mas se vocês se mordem e se devoram uns aos outros, cuidado para não se destruírem mutuamente.</verse>
 		<verse number="16">Por isso digo: vivam pelo Espírito, e de modo nenhum satisfarão os desejos da carne.</verse>
 		<verse number="17">Pois a carne deseja o que é contrário ao Espírito; e o Espírito, o que é contrário à carne. Eles estão em conflito um com o outro, de modo que vocês não fazem o que desejam.</verse>

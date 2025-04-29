@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<book name="1ª Tessalonicenses" abbrev="1ts" chapters="5">
+<?xml version='1.0' encoding='utf-8'?>
+<book name="1ª Tessalonicenses" abbrev="1ts" chapters="5" id="52" testament="NT" group="Epístolas Paulinas" version="NVI">
 	<chapter number="1">
 		<verse number="1">Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus Pai e no Senhor Jesus Cristo: A vocês, graça e paz da parte de Deus e de nosso Senhor Jesus Cristo.</verse>
 		<verse number="2">Sempre damos graças a Deus por todos vocês, mencionando-os em nossas orações.</verse>
@@ -72,7 +72,7 @@
 	<chapter number="5">
 		<verse number="1">Irmãos, quanto aos tempos e épocas, não precisamos escrever-lhes,</verse>
 		<verse number="2">pois vocês mesmos sabem perfeitamente que o dia do Senhor virá como ladrão à noite.</verse>
-		<verse number="3">Quando disserem: &quot;Paz e segurança&quot;, então, de repente, a destruição virá sobre eles, como dores à mulher grávida; e de modo nenhum escaparão.</verse>
+		<verse number="3">Quando disserem: "Paz e segurança", então, de repente, a destruição virá sobre eles, como dores à mulher grávida; e de modo nenhum escaparão.</verse>
 		<verse number="4">Mas vocês, irmãos, não estão nas trevas, para que esse dia os surpreenda como ladrão.</verse>
 		<verse number="5">Vocês todos são filhos da luz, filhos do dia. Não somos da noite nem das trevas.</verse>
 		<verse number="6">Portanto, não durmamos como os demais, mas estejamos atentos e sejamos sóbrios;</verse>
